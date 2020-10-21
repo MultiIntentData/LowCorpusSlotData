@@ -1,301 +1,301 @@
-yelp	business#all	at what time does chase bank in pleasanton close on april 3rd?	At what time does State Bank in Ranchi close on July 4th?	o o o o b-businessname i-businessname o b-viv.geo.localityname b-viv.openhours.openhoursdescriptor o b-viv.time.datetimeexpression i-viv.time.datetimeexpression
-yelp	business#rating	rating?	What is the rating?	o
-yelp	business#all	is walmart open 24hrs on mondays	Is  Megastore open 24 hours on Tuesdays?	o b-businessname b-viv.openhours.openhoursdescriptor i-viv.openhours.openhoursdescriptor o b-viv.openhours.dayopen
-yelp	business#all	i want to know the hours at walgreens	I want to know the hours at Dmart	o o o o o b-viv.openhours.openhoursdescriptor o b-businessname
-yelp	business#all	where is the best place to go to see live music in san francisco?	Where is the best place to enjoy some Hindustani classical music in New Delhi?	o o o b-sortby o o o o o b-viv.restaurant.restaurantamenity i-viv.restaurant.restaurantamenity o b-viv.geo.localityname i-viv.geo.localityname
-yelp	business#all	when does taco bell usually open	When does Nirula burger usually open?	o o b-businessname i-businessname o b-openhours.openhoursdescriptor
-yelp	business#all	show me supermarkets near me that are open  now	Locate some supermarkets around me that are open right now	o o b-viv.business.businesscategory o o o o b-viv.openhours.openhoursdescriptor o
-yelp	business#all	is kings of punjab closed right now?	Is the Barbeque Nation closed at this time?	o b-businessname i-businessname i-businessname b-viv.openhours.openhoursdescriptor o o
-yelp	business#all	when does the sewing machine shop close on mondays?	When does the grocery items shop closes on Mondays?	o o o b-viv.business.businesscategory i-viv.business.businesscategory i-viv.business.businesscategory b-viv.openhours.openhoursdescriptor o b-viv.openhours.dayopen
-yelp	business#all	any libraries in the area?	Do you know about any dharamshalas around here?	o b-business.businesscategory o o o
-yelp	business#all	what are some cheap diners in hillcrest?	Please find me some affordable restaurants in Banjara Hills	o o o b-pricelevel b-restaurant.restaurantstyle o b-geo.localityname
-yelp	business#all	find gas stations	Find petrol pumps	o b-business.businesscategory i-business.businesscategory
-yelp	business#all	what are the opening hours for chromatic cafe	Tell me the opening hours for Nirmal café	o o o b-openhours.openhoursdescriptor i-openhours.openhoursdescriptor o b-businessname i-businessname
-yelp	business#all	is the town hall closed	Is the community centre closed now?	o o b-business.businesscategory i-business.businesscategory b-openhours.openhoursdescriptor
-yelp	business#all	tell me when does meiko sushi close tomorrow?	Do tell me when does Mainland China closes tomorrow	o o o o b-businessname i-businessname b-viv.openhours.openhoursdescriptor b-viv.time.datetimeexpression
-yelp	business#all	is safeway open 24hrs on weekends	Do you know if Lakme is open 24 hours on weekends?	o b-businessname b-viv.openhours.openhoursdescriptor i-viv.openhours.openhoursdescriptor o b-viv.openhours.intervalopen
-yelp	business#all	look for behavior analysts in plano	Look for a data analyst in Bangalore	o o b-viv.business.businesscategory i-viv.business.businesscategory o b-viv.geo.localityname
-yelp	business#all	what is a good place to eat kimchi	What is a good place to eat dosa?	o o o o b-viv.restaurant.restaurantstyle i-viv.restaurant.restaurantstyle i-viv.restaurant.restaurantstyle b-restaurant.foodname
-yelp	business#all	opening hours for the pawn shop this weekend.	Opening hours for jewellery shop on weekdays	b-viv.openhours.openhoursdescriptor i-viv.openhours.openhoursdescriptor o o b-viv.business.businesscategory i-viv.business.businesscategory b-viv.time.datetimeexpression i-viv.time.datetimeexpression
-yelp	business#all	look up supermarkets in san jose	Look up for the supermarkets in Juhu beach	o o b-viv.business.businesscategory o b-viv.geo.localityname i-viv.geo.localityname
-yelp	business#all	where's a phone repair shop	Where can I find a phone repair shop nearby?	o o b-business.businesscategory i-business.businesscategory i-business.businesscategory
-yelp	business#all	find me a restaurant open  now that serves cactus​	Locate a restaurant open now that serves veg?	o o o b-restaurant.restaurantstyle b-openhours.openhoursdescriptor o o o b-restaurant.foodname
-yelp	business#all	where is the nearest ikea?	Where is the nearest homecentre?	o o o b-sortby b-businessname
-yelp	business#all	is ume in pleasanton open on tuesdays	Is bigbasket in Noida open on Sundays?	o b-businessname o b-viv.geo.localityname b-viv.openhours.openhoursdescriptor o b-viv.openhours.dayopen
-yelp	business#all	is bagel street cafe in santa clara open right now?	Is café coffee day in andheri west open on Saturdays?	o b-businessname i-businessname i-businessname o b-geo.localityname i-geo.localityname b-openhours.openhoursdescriptor o o
-yelp	business#all	is pizza my heart open	Is New pizza hut open now	o b-businessname i-businessname i-businessname b-openhours.openhoursdescriptor
-yelp	business#all	find a hairdresser open this week	Find a parlour open this week	o o b-viv.business.businesscategory b-viv.openhours.openhoursdescriptor b-viv.time.datetimeexpression i-viv.time.datetimeexpression
-yelp	business#all	i need suggestions for dishwasher repair services	I need suggestions for refrigerator repair services	o o o o b-business.businesscategory i-business.businesscategory i-business.businesscategory
-yelp	business#all	nearest 24 hour fitness	Nearest 24 hour cult fitness centre	b-sortby b-businessname i-businessname i-businessname
-yelp	business#all	search for animal hospitals in mckinney	Search for animal hospitals in Rajouri garden 	o o b-viv.business.businesscategory i-viv.business.businesscategory o b-viv.geo.localityname
-yelp	business#all	what time does sprouts open tomorrow	What time does Kolkata Kathi Rolls open tomorrow	o o o b-businessname b-openhours.openhoursdescriptor b-time.datetimeexpression
-yelp	business#all	tell me when does frontier spice close tomorrow?	Tell me when does spencer’s close tomorrow?	o o o o b-businessname i-businessname b-openhours.openhoursdescriptor b-time.datetimeexpression
-yelp	business#all	are there any vegetarian restaurants near me that deliver	Are there any pure vegetarian restaurants near me that deliver	o o o b-viv.food.diet b-viv.restaurant.restaurantstyle o o o b-viv.restaurant.restaurantamenity
-yelp	business#all	find coffee shops open 24hrs next weekend	Find barista coffee shops open 24hrs next weekend	o b-viv.restaurant.restaurantstyle i-viv.restaurant.restaurantstyle b-openhours.openhoursdescriptor i-openhours.openhoursdescriptor b-viv.time.datetimeexpression i-viv.time.datetimeexpression
-yelp	business#all	what are the top sushi restaurants in san francisco	What are the top Indian cuisine restaurants in Pitampura	o o o b-sortby b-restaurant.restaurantstyle i-restaurant.restaurantstyle o b-geo.localityname i-geo.localityname
-yelp	business#all	check if cvs is open at 6 am	Check if cult fitness centre is open at 6 am	o o b-businessname o b-viv.openhours.openhoursdescriptor o b-viv.time.datetimeexpression i-viv.time.datetimeexpression
-yelp	business#all	search for libraries open on sundays	Search for Hindi libraries open on Sundays	o o b-viv.business.businesscategory b-viv.openhours.openhoursdescriptor o b-viv.openhours.dayopen
-yelp	business#all	what are the hours for la guilde	What are the hours for PVRs	o o o b-viv.openhours.openhoursdescriptor o b-businessname i-businessname
-yelp	business#all	is starbucks in sunol open on march 3rd?	Is cafe coffee day in Juhu open on march 3rd?	o b-businessname o b-geo.localityname b-openhours.openhoursdescriptor o b-time.datetimeexpression i-time.datetimeexpression
-yelp	business#all	check when they open	Check and tell me when they open	o o o b-viv.openhours.openhoursdescriptor
-yelp	business#all	find orlando's restaurant in taos nm	Find naturals ice cream in Hyderabad	o b-businessname b-viv.restaurant.restaurantstyle o b-viv.geo.localityname b-viv.geo.levelonedivisionname
-yelp	business#all	look up fun things to do in boston	Look up fun things to do in Delhi	o o b-business.businesscategory i-business.businesscategory i-business.businesscategory i-business.businesscategory o b-geo.localityname
-yelp	business#all	find cheap restaurants	Find affordable restaurants	o b-pricelevel b-restaurant.restaurantstyle
-yelp	business#all	is there a place i can get my oil changed?	Is there a place I can get my bike serviced?	o o o o o o o o b-business.service i-business.service
-yelp	business#all	check what time sweet cheeks opens on thursday	Check what time flurry's pastry shop opens on Thursday	o o o b-businessname i-businessname b-viv.openhours.openhoursdescriptor o b-viv.time.datetimeexpression
-yelp	business#all	what are the hours for the golden gate bakery next month?	What are the hours for the Karachi Bakery next month?	o o o b-viv.openhours.openhoursdescriptor o o b-businessname i-businessname i-businessname b-viv.time.datetimeexpression i-viv.time.datetimeexpression
-yelp	business#all	when does the library in sf open after lunch?	When does the library in park street open after lunch?	o o o b-viv.business.businesscategory o b-viv.geo.localityname b-viv.openhours.openhoursdescriptor b-viv.time.datetimeexpression i-viv.time.datetimeexpression
-yelp	business#all	search for restaurants in the 3 $ and 4 $ range	Search for restaurants in the 400 rupees and 500 rupees range	o o b-viv.restaurant.restaurantstyle o o b-pricelevel i-pricelevel o i-pricelevel i-pricelevel o
-yelp	business#all	what restaurants are open  near me	What restaurants are open near my current location	o b-restaurant.restaurantstyle o b-openhours.openhoursdescriptor o o
-yelp	business#all	what should i have for lunch today?	What should I have for the evening today?	o o o o o b-food.mealname b-viv.time.datetimeexpression
-yelp	business#all	what are some good campgrounds	What are some good pubs?	o o o o b-viv.business.businesscategory
-yelp	business#all	look for best rated refrigerator services	Look for best rated refrigerator services	o o b-sortby o b-business.businesscategory i-business.businesscategory
-yelp	business#all	is target closed?	Is max  closed?	o b-businessname b-viv.openhours.openhoursdescriptor
-yelp	business#rating	tell me its rating	Tell me the rating	o o o o
-yelp	business#all	when does round table pizza in mountain view close?	When does oven story pizza in lajpat nagar close?	o o b-businessname i-businessname i-businessname o b-geo.localityname i-geo.localityname b-openhours.openhoursdescriptor
-yelp	business#all	see if there are any banks open at 7 pm  near me	Please check if there are any banks open at 4 pm around me	o o o o o b-viv.business.businesscategory b-viv.openhours.openhoursdescriptor o b-viv.time.datetimeexpression i-viv.time.datetimeexpression o o
-yelp	business#all	what time does costco close?	What time does Decathlon close?	o o o b-businessname b-viv.openhours.openhoursdescriptor
-yelp	business#all	target weekend opening times​	Dmart weekend opening times​	b-businessname b-openhours.intervalopen b-openhours.openhoursdescriptor o
-yelp	business#all	what time does fibbar magees close?	What time does Chai Point close?	o o o b-businessname i-businessname b-openhours.openhoursdescriptor
-yelp	business#all	is target open	Is Questmall open	o b-businessname b-openhours.openhoursdescriptor
-yelp	business#all	what's the nearest supermarket	What's the nearest grocery	o o b-sortby b-business.businesscategory
-yelp	business#all	search for banks open on weekends	Locate banks that are open on weekends	o o b-viv.business.businesscategory b-viv.openhours.openhoursdescriptor o b-viv.openhours.intervalopen
-yelp	business#all	is the conservatory of flowers open today	Is the Lalbagh botanical garden open today	o o b-businessname i-businessname i-businessname b-viv.openhours.openhoursdescriptor b-viv.time.datetimeexpression
-yelp	business#all	show me top restaurants nearby	Show me top dhabas nearby	o o b-sortby b-restaurant.restaurantstyle o
-yelp	business#all	what are the weekend hours for the dmv?	What are the weekend hours for the Airtel?	o o o b-viv.time.datetimeexpression b-viv.openhours.openhoursdescriptor o o b-businessname
-yelp	business#all	what are the top 10 sushi restaurants in san francisco	What are the top 10 Punjabi restaurants in Vasant Vihar	o o o b-sortby o b-restaurant.restaurantstyle i-restaurant.restaurantstyle o b-geo.localityname i-geo.localityname
-yelp	business#all	find me some bakeries that are open  now	Find me some cafes that are open now	o o o b-viv.restaurant.restaurantstyle o o b-viv.openhours.openhoursdescriptor o
-yelp	business#all	is meiko sushi in pleasanton open today?	Is Mehake Punjab in Gurgaon open today?	o b-businessname i-businessname o b-viv.geo.localityname b-viv.openhours.openhoursdescriptor b-viv.time.datetimeexpression
-yelp	business#all	at what time does lolinda in sf open?	At what time does Zara in Lonavala open?	o o o o b-businessname o b-viv.geo.localityname b-viv.openhours.openhoursdescriptor
-yelp	business#all	look for a grocery store open 24hrs  on july 4th	Look for departmental store open 24hrs  on July 4th	o o o b-business.businesscategory i-business.businesscategory b-openhours.openhoursdescriptor i-openhours.openhoursdescriptor o b-time.datetimeexpression i-time.datetimeexpression
-yelp	business#all	where can i get a good haircut in san diego?	Where can I get a good haircut in Lajpat Nagar?	o o o o o o b-viv.business.service o b-viv.geo.localityname i-viv.geo.localityname
-yelp	business#all	is safeway open 24hrs next weekend?	Is Hattkappi open 24hrs next weekend?	o b-businessname b-viv.openhours.openhoursdescriptor i-viv.openhours.openhoursdescriptor b-viv.time.datetimeexpression i-viv.time.datetimeexpression
-yelp	business#all	is lolinda in sf open?	Is Superdry in WhiteField open?	o b-businessname o b-viv.geo.localityname b-viv.openhours.openhoursdescriptor
-yelp	business#all	is the grandview restaurant open at 7pm	Is the Trinka's restaurant open at 7pm	o o b-businessname b-viv.restaurant.restaurantstyle b-viv.openhours.openhoursdescriptor o b-viv.time.datetimeexpression
-yelp	business#all	find an italian restaurant that isn't closed	Find a Bengali restaurant that isn't closed	o o b-viv.food.cuisinestyle b-viv.restaurant.restaurantstyle o b-viv.openhours.openhoursdescriptor i-viv.openhours.openhoursdescriptor
-yelp	business#all	are they closed?	Are they closed now?	o o b-viv.openhours.openhoursdescriptor
-yelp	business#all	when does the japanese consulate close in boston?	When does the Japanese Consulate close in Delhi?	o o o b-viv.business.businesscategory i-viv.business.businesscategory b-viv.openhours.openhoursdescriptor o b-viv.geo.localityname
-yelp	business#all	what are the hours for life time fitness	What are the hours for Cult Fitness centre	o o o b-openhours.openhoursdescriptor o b-businessname i-businessname i-businessname
-yelp	business#all	look up a ups office near me	Look up a Delhivery office near me	o o o b-businessname i-businessname o o
-yelp	business#all	what time does the dmv close?	What time does the Municipality  close?	o o o o b-viv.business.businesscategory b-viv.openhours.openhoursdescriptor
-yelp	business#all	check if the library is open	Check if the Banquet is open	o o o b-viv.business.businesscategory o b-viv.openhours.openhoursdescriptor
-yelp	business#all	what animal hospitals are still open  now?	What vet clinics are still open now 	o b-business.businesscategory i-business.businesscategory o o b-openhours.openhoursdescriptor o
-yelp	business#all	find supermarkets	Find 	o b-business.businesscategory
-yelp	business#all	is stop and shop open until 10 pm?	Is Max Mart open until 10 pm?	o b-businessname i-businessname i-businessname b-viv.openhours.openhoursdescriptor o b-viv.time.datetimeexpression i-viv.time.datetimeexpression
-yelp	business#all	look for a korean place in nyc open next month	Look for a Gujrati cuisine eatery in Patiala open next month	o o o b-food.cuisinestyle o o b-geo.localityname b-openhours.openhoursdescriptor b-time.datetimeexpression i-time.datetimeexpression
-yelp	business#all	find the restaurant named cathay 22 in springfield new jersey	Find the restaurant named Tamara 16 in new town, Kolkata	o o b-viv.restaurant.restaurantstyle o b-businessname i-businessname o b-viv.geo.localityname b-viv.geo.levelonedivisionname i-viv.geo.levelonedivisionname
-yelp	business#all	when does the butcher close today?	When does the bakery close today?	o o o b-viv.business.businesscategory b-viv.openhours.openhoursdescriptor b-time.datetimeexpression
-yelp	business#all	get dessert spots near me	Get Kulfi stalls near me	o b-viv.food.coursename o o o
-yelp	business#all	tell me where i can find good persian food in san jose	Tell me where I can find good Mughlai food in nehru place	o o o o o o o b-viv.food.cuisinestyle o o b-viv.geo.localityname i-viv.geo.localityname
-yelp	business#all	find a gas station open until midnight	Find a petrol pump open until midnight	o o b-viv.business.businesscategory i-viv.business.businesscategory b-viv.openhours.openhoursdescriptor o b-viv.time.datetimeexpression
-yelp	business#all	is there a fedex office open  now?	Is there a DHL office open now?	o o o b-businessname i-businessname b-viv.openhours.openhoursdescriptor o
-yelp	business#all	any ethiopian restaurants in the area?	Any Indian restaurants in the area?	o b-food.cuisinestyle b-restaurant.restaurantstyle o o o
-yelp	business#all	mexican restaurants near me	Bengali restaurants near me	b-food.cuisinestyle b-restaurant.restaurantstyle o o
-yelp	business#all	tell me where i can find an open  chick-fil-a	Tell me where i can find a domino’s pizza outlet	o o o o o o o b-viv.openhours.openhoursdescriptor b-businessname
-yelp	business#all	when does costco close?	When does decathlon close?	o o b-businessname b-viv.openhours.openhoursdescriptor
-yelp	business#all	yelp $3 ethiopian restaurants	Yelp ₹200  restaurants	o b-pricelevel b-viv.food.cuisinestyle b-viv.restaurant.restaurantstyle
-yelp	business#all	is mlk library open	Is the national library open	o b-businessname i-businessname b-openhours.openhoursdescriptor
-yelp	business#all	search for air conditioner repair services	Search for Air Cooler repair shops	o o b-business.businesscategory i-business.businesscategory i-business.businesscategory i-business.businesscategory
-yelp	business#all	at what time does lolinda close?	At what time does Vishal close?	o o o o b-businessname b-viv.openhours.openhoursdescriptor
-yelp	business#all	look up banks open on weekends	Search for banks that are open during weekends	o o b-viv.business.businesscategory b-viv.openhours.openhoursdescriptor o b-viv.openhours.intervalopen
-yelp	business#all	what are the 5 best rated dentists near me	What are the 5 best rated dentists near me	o o o o b-sortby o b-business.businesscategory o o
-yelp	business#all	find cathay 22 on yelp	Find Mainland China on yelp	o b-businessname i-businessname o o
-yelp	business#all	tell me where the closest public park is	Tell me where the closest public park is	o o o o b-sortby b-business.businesscategory i-business.businesscategory o
-yelp	business#all	is sephora open	Is Nykaa open	o b-businessname b-openhours.openhoursdescriptor
-yelp	business#all	tell me a place where i can get kebabs	Tell me a place where I can get  tandoori	o o o o o o o o b-viv.restaurant.foodname
-yelp	business#all	when does the laundromat open?	When does the drycleaners open?	o o o b-viv.business.businesscategory b-viv.openhours.openhoursdescriptor
-yelp	business#all	find me somewhere to get my car fixed	Find me somewhere to get my Maruti repaired	o o o o o o b-business.service i-business.service
-yelp	business#all	find a mexican restaurant with outdoor seating in downtown pleasanton	Find an Indian  restaurant with outdoor seating in Worli Mumbai	o o b-viv.food.cuisinestyle b-viv.restaurant.restaurantstyle o b-viv.restaurant.restaurantamenity i-viv.restaurant.restaurantamenity o b-viv.geo.neighborhoodname b-viv.geo.localityname
-yelp	business#all	what are the hours of operation of north bowl	What are the hours of operation of Hard Rock 	o o o b-openhours.openhoursdescriptor o o o b-businessname i-businessname
-yelp	business#all	find safeway	Find Hattkappi	o b-businessname
-yelp	business#all	look up a restaurant serving angus beef that is moderately priced	Look up a restaurant serving lamb mutton that is moderately priced	o o o b-viv.restaurant.restaurantstyle o b-restaurant.foodname i-restaurant.foodname o o b-pricelevel i-pricelevel
-yelp	business#all	is lolinda in sf open right now?	Is Ikea in Hyderabad open right now?	o b-businessname o b-geo.localityname b-openhours.openhoursdescriptor o o
-yelp	business#all	search for restaurants with live music	Search for restaurants with classical music	o o b-restaurant.restaurantstyle o b-restaurant.restaurantamenity i-restaurant.restaurantamenity
-yelp	business#all	find walmart	Find pantaloons	o b-businessname
-yelp	business#all	is the christmas tree shop closed now?	Is the Rakhi Gifts shop closed now?	o o b-businessname i-businessname i-businessname b-openhours.openhoursdescriptor o
-yelp	business#all	where are some good spots to eat cajun food	Where are some good spots to eat Punjabi food	o o o o b-restaurant.restaurantstyle i-restaurant.restaurantstyle i-restaurant.restaurantstyle b-food.cuisinestyle o
-yelp	business#all	what time does vino vino open in san jose	What time does Madhu shala open in Vijay Nagar	o o o b-businessname i-businessname b-viv.openhours.openhoursdescriptor o b-viv.geo.localityname i-viv.geo.localityname
-yelp	business#all	find a romantic french bistro in nyc	Find a romantic coffee shop in Raichur	o o b-viv.restaurant.restaurantquality b-viv.food.cuisinestyle b-viv.restaurant.restaurantstyle o b-viv.geo.localityname
-yelp	business#all	find 4$ restaurants open  now	Find ₹200 restaurants open  now	o b-pricelevel b-viv.restaurant.restaurantstyle b-viv.openhours.openhoursdescriptor o
-yelp	business#all	look for an open  coffee shop	Look for an open  milkshake shop	o o o b-viv.openhours.openhoursdescriptor b-viv.restaurant.restaurantstyle i-viv.restaurant.restaurantstyle
-yelp	business#all	find a post office that will be open on march 3rd	Find a banquet hall that will be open on march 3rd	o o b-business.businesscategory i-business.businesscategory o o o b-openhours.openhoursdescriptor o b-time.datetimeexpression i-time.datetimeexpression
-yelp	business#all	where can i buy kebabs around here	Where can I buy kalmi kebabs around here	o o o o b-viv.restaurant.foodname o o
-yelp	business#all	find me somewhere to get my eyebrows threaded	Find me somewhere to get my eyebrows plucked	o o o o o o b-business.service i-business.service
-yelp	business#all	find a 24 hour  gas station	Locate a 24 hour fuel station 	o o b-openhours.openhoursdescriptor i-openhours.openhoursdescriptor b-business.businesscategory i-business.businesscategory
-yelp	business#all	is chipotle open	Is Ovenstory open	o b-businessname b-openhours.openhoursdescriptor
-yelp	business#all	where is the closest walmart	Where is the closest reliancemart?	o o o b-sortby b-businessname
-yelp	business#all	is it closed yet?	Is it closed yet?	o o b-viv.openhours.openhoursdescriptor o
-yelp	business#all	look for a gas station open 24/7	Look for a petrol station that is open 24/7	o o o b-viv.business.businesscategory i-viv.business.businesscategory b-viv.openhours.openhoursdescriptor i-viv.openhours.openhoursdescriptor
-yelp	business#all	is spirit cleaners open	Is bambino cleaners open	o b-businessname i-businessname b-viv.openhours.openhoursdescriptor
-yelp	business#all	look up when whole foods closes tonight	Look up when Grofers food closes tonight	o o o b-businessname i-businessname b-viv.openhours.openhoursdescriptor b-viv.time.datetimeexpression
-yelp	business#all	find a best buy near me	Find a car sale near me	o o b-businessname i-businessname o o
-yelp	business#rating	yelp rating?	Yelp rating for this one?	o o
-yelp	business#all	which supermarkets are open  right now	Which supermarkets are open  right now	o b-viv.business.businesscategory o b-viv.openhours.openhoursdescriptor o o
-yelp	business#all	is taste of sing ma open?	Is Chulha Chawki da Dhaba open?	o b-businessname i-businessname i-businessname i-businessname b-viv.openhours.openhoursdescriptor
-yelp	business#all	yelp for pizzerias that deliver	Yelp for bakeries that deliver	o o b-viv.restaurant.restaurantstyle o b-viv.restaurant.restaurantamenity
-yelp	business#all	is the safeway in santa clara closed before 6 am	Is the foodcourt in Phoenix Mall closed before 6 am	o o b-businessname o b-geo.localityname i-geo.localityname b-openhours.openhoursdescriptor b-time.datetimeexpression i-time.datetimeexpression i-time.datetimeexpression
-yelp	business#all	is the library in sf open after lunch?	Is the library in GK open after lunch?	o o b-business.businesscategory o b-geo.localityname b-openhours.openhoursdescriptor b-time.datetimeexpression i-time.datetimeexpression
-yelp	business#rating	find me reviews for tricky fish	Get me the reviews for Mainland China	o o o o b-businessname i-businessname
-yelp	business#all	look for town spa in stoughton ma	Look for O2 Spa in Gachhibowli 	o o b-businessname i-businessname o b-viv.geo.localityname b-viv.geo.levelonedivisionname
-yelp	business#all	where should i go for lunch around here	Where should I go for lunch around here	o o o o o b-food.mealname o o
-yelp	business#all	find the nearest forever 21	Find the nearest Zara stre	o o b-sortby b-businessname i-businessname
-yelp	business#all	when does it open	When does it open	o o o b-viv.openhours.openhoursdescriptor
-yelp	business#all	is there a post office that's not closed  yet?	Is there a India post office that's not closed yet?	o o o b-viv.business.businesscategory i-viv.business.businesscategory o b-viv.openhours.openhoursdescriptor i-viv.openhours.openhoursdescriptor o
-yelp	business#all	regular business hours for pizza hut	Regular business hours for Pizza Hut	o b-viv.openhours.openhoursdescriptor i-viv.openhours.openhoursdescriptor o b-businessname i-businessname
-yelp	business#all	where's a good spot to eat?	Where's a good spot to drink?	o o o b-restaurant.restaurantstyle i-restaurant.restaurantstyle i-restaurant.restaurantstyle
-yelp	business#all	is mike's bikes closed on weekends?	Is Raju Auto  closed on weekends?	o b-businessname i-businessname b-viv.openhours.openhoursdescriptor o b-viv.openhours.intervalopen
-yelp	business#all	find the highest rated 3 $ restaurant open  now	Find the highest rated ₹300 restaurant open  now	o o b-sortby i-sortby b-pricelevel i-pricelevel b-viv.restaurant.restaurantstyle b-viv.openhours.openhoursdescriptor o
-yelp	business#all	show me restaurants for a birthday celebration	Locate me some restaurants for a birthday celebration	o o b-restaurant.restaurantstyle o o b-restaurant.restaurantquality i-restaurant.restaurantquality
-yelp	business#all	what are forever 21's hours?	What are Pantaloons store's hours?	o o b-businessname i-businessname b-openhours.openhoursdescriptor
-yelp	business#all	is passage to india open now?	Is Chai time bar open now?	o b-businessname i-businessname i-businessname b-openhours.openhoursdescriptor o
-yelp	business#all	see if mitsuwa is open on tuesdays	See if CCD is open on Tuesdays	o o b-businessname o b-viv.openhours.openhoursdescriptor o b-viv.openhours.dayopen
-yelp	business#all	what are the hours of operation for the stoughton public library	What are the hours of operation for the National Public Library	o o o b-openhours.openhoursdescriptor o o o o b-businessname i-businessname i-businessname
-yelp	business#all	where can i get my nails done?	Where can I get my tattoo done?	o o o o o b-business.service i-business.service
-yelp	business#rating	how many stars?	How many stars for this place?	o o o
-yelp	business#all	where can i get my eyebrows threaded?	Where can I get my eyebrows threaded?	o o o o o b-business.service i-business.service
-yelp	business#all	is bintang badminton open on weekdays?	Is Prathibha badminton open on weekdays?	o b-businessname i-businessname b-viv.openhours.openhoursdescriptor o b-viv.openhours.intervalopen
-yelp	business#all	where is the nearest h and m that's open  now?	Where is the nearest reliance Jio Mart that's open now?	o o o b-sortby b-businessname i-businessname i-businessname o b-viv.openhours.openhoursdescriptor o
-yelp	business#all	find a pet store in pleasanton open after 5 pm	Find a pet store in Meerut open after 5 pm	o o b-viv.business.businesscategory i-viv.business.businesscategory o b-viv.geo.localityname b-viv.openhours.openhoursdescriptor b-viv.time.datetimeexpression i-viv.time.datetimeexpression i-viv.time.datetimeexpression
-yelp	business#all	can you tell me if walgreens is open right now?	Can you tell me if Reliance Trends is open right now?	o o o o o b-businessname o b-viv.openhours.openhoursdescriptor b-viv.time.datetimeexpression i-viv.time.datetimeexpression
-yelp	business#all	opening hours for costco on saturdays	Opening hours for Decathelon on Saturdays	b-viv.openhours.openhoursdescriptor i-viv.openhours.openhoursdescriptor o b-businessname o b-viv.openhours.dayopen
-yelp	business#rating	what's the rating for sahara market	What is the rating for Commercial Street?	o o o o b-businessname i-businessname
-yelp	business#all	is o ya open on sundays	Is Soda Bottle  open on Sundays	o b-businessname i-businessname b-viv.openhours.openhoursdescriptor o b-viv.openhours.dayopen
-yelp	business#all	find a grocery store open 24 hrs	Find a grocery store open 24 hrs	o o b-business.businesscategory i-business.businesscategory b-openhours.openhoursdescriptor i-openhours.openhoursdescriptor i-openhours.openhoursdescriptor
-yelp	business#all	find a library open after lunch	Find a supermarket open after lunch	o o b-business.businesscategory b-openhours.openhoursdescriptor b-time.datetimeexpression i-time.datetimeexpression
-yelp	business#all	what are the butchers' hours today?	What are the bakery's hours today?	o o o b-viv.business.businesscategory b-viv.openhours.openhoursdescriptor b-viv.time.datetimeexpression
-yelp	business#all	find a fedex office near me	Find a Bluedart office near me	o o b-businessname i-businessname o o
-yelp	business#all	where's the nearest best buy	Where's the nearest Jio Mart	o o b-sortby b-businessname i-businessname
-yelp	business#all	what are the hours at 7-eleven	What are the hours at Chilli	o o o b-openhours.openhoursdescriptor o b-businessname
-yelp	business#all	is the bowling alley in berkeley closed on weekdays	Is the bowling alley in Phoenix closed on weekdays	o o b-viv.business.businesscategory i-viv.business.businesscategory o b-viv.geo.localityname b-viv.openhours.openhoursdescriptor o b-viv.openhours.intervalopen
-yelp	business#all	only show the ones that are open  now	Only show the ones that are open  now	o o o o o o b-viv.openhours.openhoursdescriptor o
-yelp	business#all	when does best buy open?	When does More Megastore open?	o o b-businessname i-businessname b-openhours.openhoursdescriptor
-yelp	business#all	is walgreens open until 11 pm?	Do you think Homecentre remains open until 10 pm?	o b-businessname b-viv.openhours.openhoursdescriptor o b-viv.time.datetimeexpression i-viv.time.datetimeexpression
-yelp	business#all	what are the most expensive sushi restaurants in seattle	What are the most expensive vegetarian restaurants in Delhi	o o o b-pricelevel i-pricelevel b-viv.restaurant.restaurantstyle i-viv.restaurant.restaurantstyle o b-viv.geo.localityname
-yelp	business#all	look up restaurants that have happy hour	Look up restaurants that have happy hour	o o b-restaurant.restaurantstyle o o b-restaurant.restaurantamenity i-restaurant.restaurantamenity
-yelp	business#all	when does the cheesecake factory open?	When does the Berry Cake Cafe open?	o o b-businessname i-businessname i-businessname b-viv.openhours.openhoursdescriptor
-yelp	business#all	look for air conditioning services on yelp	Look for air conditioning  repair on yelp	o o b-viv.business.businesscategory i-viv.business.businesscategory i-viv.business.businesscategory o o
-yelp	business#all	looks for bars open today	Look for discos open today	o o b-restaurant.restaurantstyle b-openhours.openhoursdescriptor b-time.datetimeexpression
-yelp	business#all	find greek restaurants	Find Jain restaurants	o b-viv.food.cuisinestyle b-viv.restaurant.restaurantstyle
-yelp	business#all	what's the nearest coffee shop	What's the nearest wine shop	o o b-sortby b-restaurant.restaurantstyle i-restaurant.restaurantstyle
-yelp	business#all	what's the usual stop & shop opening time?	What's the usual Reliance Fresh Mart opening time?	o o o b-businessname i-businessname i-businessname b-openhours.openhoursdescriptor o
-yelp	business#all	tell me the opening hours for outback steakhouse tomorrow	Tell me the opening hours for Big Brewsky tomorrow	o o o b-openhours.openhoursdescriptor i-openhours.openhoursdescriptor o b-businessname i-businessname b-time.datetimeexpression
-yelp	business#rating	what are the ratings for vino vino restaurant in san jose?	What are the ratings for Lord of the Drinks in New Delhi?	o o o o o b-businessname i-businessname b-restaurant.restaurantstyle o b-viv.geo.localityname i-viv.geo.localityname
-yelp	business#all	just show the restaurants that are open monday at 2 am	Just show the restaurants that are open Sunday at 2 am	o o o b-viv.restaurant.restaurantstyle o o b-viv.openhours.openhoursdescriptor b-viv.time.datetimeexpression i-viv.time.datetimeexpression i-viv.time.datetimeexpression i-viv.time.datetimeexpression
-yelp	business#all	when does the bank open?	What is the opening time for the bank?	o o o b-business.businesscategory b-openhours.openhoursdescriptor
-yelp	business#all	is walmart open 24 hours	Is Hometown open for 24 hours?	o b-businessname b-viv.openhours.openhoursdescriptor i-viv.openhours.openhoursdescriptor i-viv.openhours.openhoursdescriptor
-yelp	business#all	is 7-eleven open 24 hours?	Is Dmart open 24 hours?	o b-businessname b-openhours.openhoursdescriptor i-openhours.openhoursdescriptor i-openhours.openhoursdescriptor
-yelp	business#all	search for cafes open at 6 am	Search for bakeries open at 6 am	o o b-viv.restaurant.restaurantstyle b-viv.openhours.openhoursdescriptor o b-viv.time.datetimeexpression i-viv.time.datetimeexpression
-yelp	business#all	when does target close?	When does Nykaa close?	o o b-businessname b-viv.openhours.openhoursdescriptor
-yelp	business#all	where is the cheapest parking in dallas downtown	Where is the cheapest parking in Kormangala	o o o b-pricelevel b-business.businesscategory o b-geo.searchterm i-geo.searchterm
-yelp	business#all	find bike shops that are open on weekdays	Find auto shops that are open on weekdays	o b-business.businesscategory i-business.businesscategory o o b-openhours.openhoursdescriptor o b-openhours.intervalopen
-yelp	business#all	find a cheap taqueria nearby	Find a cheap winehouse nearby	o o b-pricelevel b-viv.restaurant.restaurantstyle o
-yelp	business#all	what are the san diego zoo hours of operation​	What are the Banaghatta Road zoo hours of operation​	o o o b-businessname i-businessname i-businessname b-openhours.openhoursdescriptor i-openhours.openhoursdescriptor i-openhours.openhoursdescriptor
-yelp	business#all	find vito's restaurant in oklahoma city	Find Nizam's restaurant near Char Minar	o b-businessname b-viv.restaurant.restaurantstyle o b-viv.geo.localityname i-viv.geo.localityname
-yelp	business#all	is cheesecake factory open on mondays?	Is Trinka’s factory open on Mondays?	o b-businessname i-businessname b-viv.openhours.openhoursdescriptor o b-viv.openhours.dayopen
-yelp	business#all	find a walgreens open until 11 pm	Locate  a Spencer’s that's open until 11 pm	o o b-businessname b-openhours.openhoursdescriptor o b-time.datetimeexpression i-time.datetimeexpression
-yelp	business#all	what's a nice restaurant open friday at 7 pm  in sf?	What's a nice restaurant open Friday at 7 pm in Rajouri?	o o o b-restaurant.restaurantstyle b-openhours.openhoursdescriptor b-time.datetimeexpression i-time.datetimeexpression i-time.datetimeexpression i-time.datetimeexpression o b-geo.localityname
-yelp	business#all	check what time they close	Check what time they close	o o o o b-viv.openhours.openhoursdescriptor
-yelp	business#all	look up garage door services on yelp	Look up laptop repair shops on yelp	o o b-business.businesscategory i-business.businesscategory i-business.businesscategory o o
-yelp	business#all	show the ones that are open at 8 am	Show the ones that are open at 8 am	o o o o o b-viv.openhours.openhoursdescriptor o b-viv.time.datetimeexpression i-viv.time.datetimeexpression
-yelp	business#all	is lolinda in san francisco open right now?	Is Lazeez in new town open right now?	o b-businessname o b-viv.geo.localityname i-viv.geo.localityname b-viv.openhours.openhoursdescriptor o o
-yelp	business#all	when does the dmv close?	When does the postoffice of India close?	o o o b-business.businesscategory b-openhours.openhoursdescriptor
-yelp	business#all	look up hobby lobby on yelp	Look up Hoppi Polla on yelp	o o b-businessname i-businessname o o
-yelp	business#all	find amc theater near me	Find PVR multiplexes near me	o b-businessname i-businessname o o
-yelp	business#all	look for blood and plasma donation centers	Look for blood and plasma donation banks	o o b-viv.business.businesscategory i-viv.business.businesscategory i-viv.business.businesscategory i-viv.business.businesscategory i-viv.business.businesscategory
-yelp	business#all	find halloween stores nearby	Find Itsybitsy outlets nearby	o b-business.businesscategory i-business.businesscategory o
-yelp	business#all	search yelp for the most expensive hair salons in nyc	Search yelp for the most expensive hair salons in Mumbai	o o o o b-pricelevel i-pricelevel b-viv.business.businesscategory i-viv.business.businesscategory o b-viv.geo.localityname
-yelp	business#all	is home depot closed tomorrow?	Is Home town closed tomorrow?	o b-businessname i-businessname b-openhours.openhoursdescriptor b-time.datetimeexpression
-yelp	business#all	when does the amc theatre open	When does the Inox cinemas open	o o o b-businessname i-businessname b-viv.openhours.openhoursdescriptor
-yelp	business#all	i need a good bakery	I need a good bakery	o o o o b-viv.restaurant.restaurantstyle
-yelp	business#all	when does hobby lobby close on mondays?	When does Barbeque Nation close on Mondays?	o o b-businessname i-businessname b-viv.openhours.openhoursdescriptor o b-viv.openhours.dayopen
-yelp	business#all	check yelp for a skatepark near me	Check yelp for a Café Coffee Day near me	o o o o b-business.businesscategory o o
-yelp	business#all	search for coffee shops with wifi that are open tuesday at 7	Search for coffee shops with Wi-Fi that are open Tuesday at 7	o o b-viv.restaurant.restaurantstyle i-viv.restaurant.restaurantstyle o b-viv.business.businessamenity o o b-viv.openhours.openhoursdescriptor b-viv.time.datetimeexpression i-viv.time.datetimeexpression i-viv.time.datetimeexpression
-yelp	business#all	look up korean restaurants open tomorrow at 8pm	Look up Gujrati restaurants open tomorrow at 8pm	o o b-food.cuisinestyle b-restaurant.restaurantstyle b-openhours.openhoursdescriptor b-time.datetimeexpression i-time.datetimeexpression i-time.datetimeexpression
-yelp	business#all	is house of blues open on weekdays?	Is the Blue Nile open on weekdays?	o b-businessname i-businessname i-businessname b-viv.openhours.openhoursdescriptor o b-viv.openhours.intervalopen
-yelp	business#all	when does performance bicycle in sf open on mondays?	When does cult fitness centre in Bangalore open on Mondays?	o o b-businessname i-businessname o b-viv.geo.localityname b-viv.openhours.openhoursdescriptor o b-viv.openhours.dayopen
-yelp	business#all	help me find a diner in yelp	Help me find a veg restaurant in yelp	o o o o b-viv.restaurant.restaurantstyle o o
-yelp	business#all	ask yelp for a pub	Ask yelp for a Lassi shop	o o o o b-viv.restaurant.restaurantstyle
-yelp	business#all	is california great america open	Is Tamasha Café open	o b-businessname i-businessname i-businessname b-openhours.openhoursdescriptor
-yelp	business#all	find truluck's restaurant in dallas	Find Aminia restaurant in Kolkata	o b-businessname b-viv.restaurant.restaurantstyle o b-viv.geo.localityname
-yelp	business#all	find refrigerator repair on yelp	Find refrigerator shop on yelp	o b-business.businesscategory i-business.businesscategory o o
-yelp	business#all	is the children's museum in san jose open	Is the doll museum in New Delhi open	o o b-businessname i-businessname o b-geo.localityname i-geo.localityname b-openhours.openhoursdescriptor
-yelp	business#all	is the cheesecake factory open?	Is the Apsara Icecreams open?	o b-businessname i-businessname i-businessname b-openhours.openhoursdescriptor
-yelp	business#all	what are some tourist attractions near seattle?	What are some tourist attractions near Agra?	o o o b-business.businesscategory i-business.businesscategory o b-geo.localityname
-yelp	business#all	what are the hours for the pet shop tonight?	What are the hours for the Therpuppy shop tonight?	o o o b-viv.openhours.openhoursdescriptor o o b-viv.business.businesscategory i-viv.business.businesscategory b-viv.time.datetimeexpression
-yelp	business#all	do any of these deliver	Do any of these deliver	o o o o b-restaurant.restaurantamenity
-yelp	business#all	find a vet that's open on wednesday	Find a doctor that's open on Wednesday	o o b-business.businesscategory o b-openhours.openhoursdescriptor o b-time.datetimeexpression
-yelp	business#all	find highly rated coffee shops in la	Find highly rated coffee shops in Mumbai	o b-sortby i-sortby b-viv.restaurant.restaurantstyle i-viv.restaurant.restaurantstyle o b-viv.geo.localityname
-yelp	business#all	what are the hours for amc?	What are the hours for Max?	o o o b-viv.openhours.openhoursdescriptor o b-businessname
-yelp	business#all	is the thai star place in addison closed tomorrow at noon?	Is the Five Star Chicken in Marathahalli closed tomorrow at noon?	o o b-businessname i-businessname o o b-viv.geo.localityname b-viv.openhours.openhoursdescriptor b-viv.time.datetimeexpression i-viv.time.datetimeexpression i-viv.time.datetimeexpression
-yelp	business#all	when does the ikea in stoughton open	When does the Ikea in mumbai open	o o o b-businessname o b-viv.geo.localityname b-viv.openhours.openhoursdescriptor
-yelp	business#all	does sleep number close late?	Does Beer Cafe close late?	o b-businessname i-businessname b-openhours.openhoursdescriptor o
-yelp	business#all	find a library that's open at 8 on saturday	Find a library that's open at 8 pm on Saturday	o o b-viv.business.businesscategory o b-viv.openhours.openhoursdescriptor o b-viv.time.datetimeexpression i-viv.time.datetimeexpression i-viv.time.datetimeexpression
-yelp	business#all	on wednesdays, is the moma open?	On Wednesdays, is the Nile open?	o b-viv.openhours.dayopen o o b-businessname b-viv.openhours.openhoursdescriptor
-yelp	business#all	recommended spots to eat	Recommended spots to eat parathas	o b-restaurant.restaurantstyle i-restaurant.restaurantstyle i-restaurant.restaurantstyle
-yelp	business#all	find restaurants with live music	Find restaurants with classical music	o b-viv.restaurant.restaurantstyle o b-viv.restaurant.restaurantamenity i-viv.restaurant.restaurantamenity
-yelp	business#all	at what time does lolinda in sf open on march 3rd?	At what time does Dmart on MG Road open on march 3rd?	o o o o b-businessname o b-viv.geo.localityname b-viv.openhours.openhoursdescriptor o b-viv.time.datetimeexpression i-viv.time.datetimeexpression
-yelp	business#all	find a restaurant called cathay 22 that's in springfield, new jersey	Find a restaurant called Karim’s Biryani that's in Jama Masjid, New Delhi	o o b-restaurant.restaurantstyle o b-businessname i-businessname o o b-geo.localityname b-geo.levelonedivisionname i-geo.levelonedivisionname
-yelp	business#all	look up wheelchair accessible cafes	Look up wifi enabled cafes 	o o b-viv.business.businessamenity i-viv.business.businessamenity b-viv.restaurant.restaurantstyle
-yelp	business#all	what time does costco close today?	What time does Jiomart close today?	o o o b-businessname b-openhours.openhoursdescriptor b-time.datetimeexpression
-yelp	business#all	check if safeway is open before 5 am	Check if Subway is open before 5 am	o o b-businessname o b-openhours.openhoursdescriptor b-time.datetimeexpression i-time.datetimeexpression i-time.datetimeexpression
-yelp	business#all	check opening hours for life time fitness this weekend	Check opening hours for Cult Fitness centre this weekend	o b-openhours.openhoursdescriptor i-openhours.openhoursdescriptor o b-businessname i-businessname i-businessname b-time.datetimeexpression i-time.datetimeexpression
-yelp	business#all	tell me japanese sushi places	Tell me Mughlai biryani places	o o b-food.cuisinestyle b-restaurant.restaurantstyle i-restaurant.restaurantstyle
-yelp	business#all	yelp $3 chinese restaurant	Yelp ₹100 dosa stalls	o b-pricelevel b-viv.food.cuisinestyle b-viv.restaurant.restaurantstyle
-yelp	business#rating	ratings for nick the greek restaurant in san jose	Give me the ratings for Bowl o'China restaurant in Gachhi Bowli	o o b-businessname i-businessname i-businessname b-viv.restaurant.restaurantstyle o b-viv.geo.localityname i-viv.geo.localityname
-yelp	business#all	when do they open	When do they open	o o o b-viv.openhours.openhoursdescriptor
-yelp	business#all	search for animal hospitals near berkeley	Search for pet clinics near Domlur	o o b-viv.business.businesscategory i-viv.business.businesscategory o b-viv.geo.localityname
-yelp	business#all	find top bars in san diego	Find top bars in Navi Mumbai	o b-sortby b-restaurant.restaurantstyle o b-geo.localityname i-geo.localityname
-yelp	business#all	are there beaches nearby?	Are there mountains nearby	o o b-business.businesscategory o
-yelp	business#all	where can i buy bubble tea	Where can I tulsi tea	o o o o b-viv.restaurant.foodname i-viv.restaurant.foodname
-yelp	business#all	where are some recommended spots to eat in new orleans	Where are some recommended spots to eat in Bridage Road	o o o o b-restaurant.restaurantstyle i-restaurant.restaurantstyle i-restaurant.restaurantstyle o b-viv.geo.localityname i-viv.geo.localityname
-yelp	business#all	look for 1 $ and 2 $ yelp restaurants	Look for ₹100 and ₹200 yelp restaurants	o o b-pricelevel i-pricelevel o i-pricelevel i-pricelevel o b-viv.restaurant.restaurantstyle
-yelp	business#all	find me restaurants serving italian food	Find me restaurants serving veg food	o o b-viv.restaurant.restaurantstyle o b-viv.food.cuisinestyle o
-yelp	business#all	is the habit burger in dublin open monday morning?	Is the Burger Centre in Juhu open Monday morning?	o o b-businessname i-businessname o b-viv.geo.localityname b-viv.openhours.openhoursdescriptor b-viv.time.datetimeexpression i-viv.time.datetimeexpression
-yelp	business#all	is walgreens open until 11?\n	Is Pantaloons open until 9 pm?	o b-businessname b-openhours.openhoursdescriptor o b-time.datetimeexpression
-yelp	business#all	where can i find an h&m store near me	Where can I find an H&M store near me	o o o o o b-businessname o o o
-yelp	business#all	find a french restaurant open  right now	Find a veg restaurant open right now	o o b-viv.food.cuisinestyle b-viv.restaurant.restaurantstyle b-viv.openhours.openhoursdescriptor o o
-yelp	business#all	are there dollar shops nearby?	Are there bike shops nearby?	o o b-business.businesscategory i-business.businesscategory o
-yelp	business#all	is costco closed	Is Decathlon closed	o b-businessname b-openhours.openhoursdescriptor
-yelp	business#all	best buy hours	More megastore hours	b-businessname i-businessname b-viv.openhours.openhoursdescriptor
-yelp	business#all	is great eastern in sf closed on weekends	Is Desi Platter in New Delhi closed on weekends	o b-businessname i-businessname o b-viv.geo.localityname b-viv.openhours.openhoursdescriptor o b-viv.openhours.intervalopen
-yelp	business#all	are there any costcos within 50 miles of here?	Are there any Subways within 2kms of here?	o o o b-businessname o b-geo.distancemagnitude b-geo.distanceunit o o
-yelp	business#all	is the laundromat open	Is the CCD open	o o b-viv.business.businesscategory b-viv.openhours.openhoursdescriptor
-yelp	business#rating	what's the rating for the ikea in stoughton?	What's the rating for Ikea in Hyderabad?	o o o o o b-businessname o b-viv.geo.localityname
-yelp	business#all	where is t mobile?	Where is Sun city?	o o b-businessname i-businessname
-yelp	business#rating	what's the rating?	What's the rating?	o o o
-yelp	business#all	what time is safeway in santa clara open until?	What time is Subway in Mayur Vihar open until?	o o o b-businessname o b-geo.localityname i-geo.localityname b-openhours.openhoursdescriptor o
-yelp	business#all	are there any vegan places near us that deliver	Are there any vegetarian places near us that deliver	o o o b-food.diet o o o o b-restaurant.restaurantamenity
-yelp	business#all	is hunan chef in sf closed right now?	Is Kebab Magic in Vasant Kunj closed right now?	o b-businessname i-businessname o b-viv.geo.localityname b-viv.openhours.openhoursdescriptor o o
-yelp	business#all	is there anything fun to do around san jose?	Is there anything fun to do around South Goa?	o o b-business.businesscategory i-business.businesscategory i-business.businesscategory i-business.businesscategory o b-geo.localityname i-geo.localityname
-yelp	business#all	is 99 ranch closed	Is Batista cafe closed	o b-businessname i-businessname b-openhours.openhoursdescriptor
-yelp	business#rating	find me reviews for the safeway in santa clara	Share reviews for Lifestyle in Acropolis Mall	o o o o o b-businessname o b-geo.localityname i-geo.localityname
-yelp	business#rating	how many reviews?	How many reviews are there?	o o o
-yelp	business#all	is chase bank in pleasanton closed on april 3rd?	Can you tell me if HDFC bank in Halasuru closed on April 16th?	o b-businessname i-businessname o b-geo.localityname b-openhours.openhoursdescriptor o b-time.datetimeexpression i-time.datetimeexpression
-yelp	business#rating	how is it rated?	What is the rating?	o o o o
-yelp	business#rating	how is vino vino restaurant in san jose rated?	What is the rating of Paradise Biryani restaurant in Jubilee Hills?	o o b-businessname i-businessname b-viv.restaurant.restaurantstyle o b-viv.geo.localityname i-viv.geo.localityname o
-yelp	business#all	is the bank closed	Please let me know if the bank is closed	o o b-business.businesscategory b-openhours.openhoursdescriptor
-yelp	business#all	is the gas station open 24hrs on weekdays	Is the petrol pump open for 24 hours on weekends?	o o b-viv.business.businesscategory i-viv.business.businesscategory b-viv.openhours.openhoursdescriptor i-viv.openhours.openhoursdescriptor o b-viv.openhours.intervalopen
-yelp	business#all	is the bank closed at 6 pm?	Does the bank get closed at 8 pm?	o o b-viv.business.businesscategory b-viv.openhours.openhoursdescriptor o b-viv.time.datetimeexpression i-viv.time.datetimeexpression
-yelp	business#all	look for a gas station open 24hrs on mondays	Please find me a petrol pump that is open for 24 hours on Mondays	o o o b-business.businesscategory i-business.businesscategory b-openhours.openhoursdescriptor i-openhours.openhoursdescriptor o b-openhours.dayopen
-yelp	business#all	tell me if walgreens is open now	Please tell me if Reliance is open now	o o o b-businessname o b-viv.openhours.openhoursdescriptor o
-yelp	business#rating	what's the yelp rating for lolinda's?	What is the yelp rating for Nalli	o o o o o b-businessname
-yelp	business#all	is chase bank in pleasanton open on march 27th?	Is the Citi Bank in Mehrouli open on June 3rd?	o b-businessname i-businessname o b-viv.geo.localityname b-viv.openhours.openhoursdescriptor o b-viv.time.datetimeexpression i-viv.time.datetimeexpression
-yelp	business#rating	what's the yelp rating for cathay 22	What is the yelp rating for Indigo Blue?	o o o o o b-businessname i-businessname
-yelp	business#all	is walmart closed	Do you think Grofers have closed by now?	o b-businessname b-openhours.openhoursdescriptor
-yelp	business#rating	what's the yelp rating for disneyland	What is the yelp rating for Wanderla?	o o o o o b-businessname
-yelp	business#rating	how many reviews?	How many reviews does this place have?	o o o
-yelp	business#all	what are bank of america's sunday hours?	What are Bank of Baroda's Saturday hours?	o o b-businessname i-businessname i-businessname b-time.datetimeexpression b-openhours.openhoursdescriptor
-yelp	business#all	when does chase bank in pleasanton open on march 27th?	When does Canara bank in Jubilee open on March 27th?	o o b-businessname i-businessname o b-viv.geo.localityname b-viv.openhours.openhoursdescriptor o b-viv.time.datetimeexpression i-viv.time.datetimeexpression
-yelp	business#rating	what are the reviews?	What are the reviews for this place?	o o o o
-yelp	business#rating	what's the yelp rating?	What are the yelp ratings for this one?	o o o o
-yelp	business#rating	what's the yelp rating for the stoughton ikea?	What's the yelp rating for Ikea in Mumbai?	o o o o o o b-geo.localityname b-businessname
-yelp	business#all	what are the hours for chase bank in pleasanton on april 3rd?	What are the hours for HSBC Bank in Kolkata on August 16th?	o o o b-viv.openhours.openhoursdescriptor o b-businessname i-businessname o b-viv.geo.localityname o b-viv.time.date i-viv.time.date
-yelp	business#all	look for banks that are open on march 27th	Look for universities that are open on March 27th	o o b-viv.business.businesscategory o o b-viv.openhours.openhoursdescriptor o b-viv.time.datetimeexpression i-viv.time.datetimeexpression
-yelp	business#rating	what's the yelp rating for the gentle dental in milpitas	What is the yelp rating for Smile dental in Banjara?	o o o o o o b-businessname i-businessname o b-geo.localityname
-yelp	business#rating	give me reviews for quincy market	Give me reviews for Palika Bazaar	o o o o b-businessname i-businessname
-yelp	business#rating	how many yelp stars does it have?	How many yelp stars does this place have?	o o o o o o o
-yelp	business#all	at what time does walgreens open?	At what time does Freshfarm open in the morning?	o o o o b-businessname b-viv.openhours.openhoursdescriptor
-yelp	business#rating	what is whole food's star rating?	What is the food rating for MMB Chicken?	o o b-businessname i-businessname o o
-yelp	business#all	what time does walmart close?	What time does Spencer’s close?	o o o b-businessname b-openhours.openhoursdescriptor
-yelp	business#all	find open  banks	Find open salons	o b-viv.openhours.openhoursdescriptor b-viv.business.businesscategory
-yelp	business#all	is walmart open 24hrs today?	Is Arambagh open for 24 hours today?	o b-businessname b-viv.openhours.openhoursdescriptor i-viv.openhours.openhoursdescriptor b-viv.time.datetimeexpression
+At what time does State Bank in Ranchi close on July 4th?	o o o o b-businessname i-businessname o b-localityname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+What is the rating?	o o o o
+Is Megastore open 24 hours on Tuesdays?	o b-businessname b-openhoursdescriptor i-openhoursdescriptor i-openhoursdescriptor o b-dayopen
+I want to know the hours at Dmart	o o o o o b-openhoursdescriptor o b-businessname
+Where is the best place to enjoy some Hindustani classical music in New Delhi?	o o o b-sortby o o o o o b-restaurantamenity i-restaurantamenity o b-localityname i-localityname
+When does Nirula burger usually open?	o o b-businessname i-businessname o b-openhoursdescriptor
+Locate some supermarkets around me that are open right now	o o b-businesscategory o o o o b-openhoursdescriptor o o
+Is the Barbeque Nation closed at this time?	o b-businessname i-businessname i-businessname b-openhoursdescriptor o o o
+When does the grocery items shop closes on Mondays?	o o o b-businesscategory i-businesscategory i-businesscategory b-openhoursdescriptor o b-dayopen
+Do you know about any dharamshalas around here?	o o o o o b-businesscategory o o
+Please find me some affordable restaurants in Banjara Hills	o o o o b-pricelevel b-restaurantstyle o b-localityname i-localityname
+Find petrol pumps	o b-businesscategory i-businesscategory
+Tell me the opening hours for Nirmal café	o o o b-openhoursdescriptor i-openhoursdescriptor o b-businessname i-businessname
+Is the community centre closed now?	o o b-businesscategory i-businesscategory b-openhoursdescriptor o
+Do tell me when does Mainland China closes tomorrow	o o o o o b-businessname i-businessname b-openhoursdescriptor b-datetimeexpression
+Do you know if Lakme is open 24 hours on weekends?	o o o o b-businessname o b-openhoursdescriptor i-openhoursdescriptor i-openhoursdescriptor o b-intervalopen
+Look for a data analyst in Bangalore	o o o b-businesscategory i-businesscategory o b-localityname
+What is a good place to eat dosa?	o o o o b-restaurantstyle i-restaurantstyle i-restaurantstyle b-foodname
+Opening hours for jewellery shop on weekdays	b-openhoursdescriptor i-openhoursdescriptor o b-businesscategory i-businesscategory b-datetimeexpression i-datetimeexpression
+Look up for the supermarkets in Juhu beach	o o o o b-businesscategory o b-localityname i-localityname
+Where can I find a phone repair shop nearby?	o o o o o b-businesscategory i-businesscategory i-businesscategory o
+Locate a restaurant open now that serves veg?	o o b-restaurantstyle b-openhoursdescriptor o o o b-foodname
+Where is the nearest homecentre?	o o o b-sortby b-businessname
+Is bigbasket in Noida open on Sundays?	o b-businessname o b-localityname b-openhoursdescriptor o b-dayopen
+Is café coffee day in andheri west open on Saturdays?	o b-businessname i-businessname i-businessname o b-localityname i-localityname b-openhoursdescriptor o o
+Is New pizza hut open now	o b-businessname i-businessname i-businessname b-openhoursdescriptor o
+Find a parlour open this week	o o b-businesscategory b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+I need suggestions for refrigerator repair services	o o o o b-businesscategory i-businesscategory i-businesscategory
+Nearest 24 hour cult fitness centre	b-sortby b-businessname i-businessname i-businessname i-businessname i-businessname
+Search for animal hospitals in Rajouri garden	o o b-businesscategory i-businesscategory o b-localityname i-localityname
+What time does Kolkata Kathi Rolls open tomorrow	o o o b-businessname i-businessname i-businessname b-openhoursdescriptor b-datetimeexpression
+Tell me when does spencer’s close tomorrow?	o o o o b-businessname b-openhoursdescriptor b-datetimeexpression
+Are there any pure vegetarian restaurants near me that deliver	o o o o b-diet b-restaurantstyle o o o b-restaurantamenity
+Find barista coffee shops open 24hrs next weekend	o b-restaurantstyle i-restaurantstyle i-restaurantstyle b-openhoursdescriptor i-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+What are the top Indian cuisine restaurants in Pitampura	o o o b-sortby b-restaurantstyle i-restaurantstyle i-restaurantstyle o b-localityname
+Check if cult fitness centre is open at 6 am	o o b-businessname i-businessname i-businessname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+Search for Hindi libraries open on Sundays	o o b-businesscategory i-businesscategory b-openhoursdescriptor o b-dayopen
+What are the hours for PVRs	o o o b-openhoursdescriptor o b-businessname
+Is cafe coffee day in Juhu open on march 3rd?	o b-businessname i-businessname i-businessname o b-localityname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+Check and tell me when they open	o o o o o o b-openhoursdescriptor
+Find naturals ice cream in Hyderabad	o b-businessname i-businessname i-businessname o b-localityname
+Look up fun things to do in Delhi	o o b-businesscategory i-businesscategory i-businesscategory i-businesscategory o b-localityname
+Find affordable restaurants	o b-pricelevel b-restaurantstyle
+Is there a place I can get my bike serviced?	o o o o o o o o b-service i-service
+Check what time flurry's pastry shop opens on Thursday	o o o b-businessname i-businessname i-businessname b-openhoursdescriptor o b-datetimeexpression
+What are the hours for the Karachi Bakery next month?	o o o b-openhoursdescriptor o b-businessname i-businessname i-businessname b-datetimeexpression i-datetimeexpression
+When does the library in park street open after lunch?	o o o b-businesscategory o b-localityname i-localityname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+Search for restaurants in the 400 rupees and 500 rupees range	o o b-restaurantstyle o o b-pricelevel i-pricelevel o i-pricelevel i-pricelevel o
+What restaurants are open near my current location	o b-restaurantstyle o b-openhoursdescriptor o o o o
+What should I have for the evening today?	o o o o o o b-datetimeexpression i-datetimeexpression
+What are some good pubs?	o o o o b-businesscategory
+Look for best rated refrigerator services	o o b-sortby o b-businesscategory i-businesscategory
+Is max closed?	o b-businessname b-openhoursdescriptor
+Tell me the rating	o o o o
+When does oven story pizza in lajpat nagar close?	o o b-businessname i-businessname i-businessname o b-localityname i-localityname b-openhoursdescriptor
+Please check if there are any banks open at 4 pm around me	o o o o o o b-businesscategory b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression o o
+What time does Decathlon close?	o o o b-businessname b-openhoursdescriptor
+Dmart weekend opening times​	b-businessname b-intervalopen b-openhoursdescriptor o
+What time does Chai Point close?	o o o b-businessname i-businessname b-openhoursdescriptor
+Is Questmall open	o b-businessname b-openhoursdescriptor
+What's the nearest grocery	o o b-sortby b-businesscategory
+Locate banks that are open on weekends	o b-businesscategory o o b-openhoursdescriptor o b-intervalopen
+Is the Lalbagh botanical garden open today	o o b-businessname i-businessname i-businessname b-openhoursdescriptor b-datetimeexpression
+Show me top dhabas nearby	o o b-sortby b-restaurantstyle o
+What are the weekend hours for the Airtel?	o o o b-datetimeexpression b-openhoursdescriptor o o b-businessname
+What are the top 10 Punjabi restaurants in Vasant Vihar	o o o b-sortby o b-restaurantstyle i-restaurantstyle o b-localityname i-localityname
+Find me some cafes that are open now	o o o b-restaurantstyle o o b-openhoursdescriptor o
+Is Mehake Punjab in Gurgaon open today?	o b-businessname i-businessname o b-localityname b-openhoursdescriptor b-datetimeexpression
+At what time does Zara in Lonavala open?	o o o o b-businessname o b-localityname b-openhoursdescriptor
+Look for departmental store open 24hrs on July 4th	o o b-businesscategory i-businesscategory b-openhoursdescriptor i-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+Where can I get a good haircut in Lajpat Nagar?	o o o o o o b-service o b-localityname i-localityname
+Is Hattkappi open 24hrs next weekend?	o b-businessname b-openhoursdescriptor i-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+Is Superdry in WhiteField open?	o b-businessname o b-localityname b-openhoursdescriptor
+Is the Trinka's restaurant open at 7pm	o o b-businessname b-restaurantstyle b-openhoursdescriptor o b-datetimeexpression
+Find a Bengali restaurant that isn't closed	o o b-cuisinestyle b-restaurantstyle o b-openhoursdescriptor i-openhoursdescriptor
+Are they closed now?	o o b-openhoursdescriptor o
+When does the Japanese Consulate close in Delhi?	o o o b-businesscategory i-businesscategory b-openhoursdescriptor o b-localityname
+What are the hours for Cult Fitness centre	o o o b-openhoursdescriptor o b-businessname i-businessname i-businessname
+Look up a Delhivery office near me	o o o b-businessname i-businessname o o
+What time does the Municipality close?	o o o o b-businesscategory b-openhoursdescriptor
+Check if the Banquet is open	o o o b-businesscategory o b-openhoursdescriptor
+What vet clinics are still open now	o b-businesscategory i-businesscategory o o b-openhoursdescriptor o
+Find haircut saloons	o b-businesscategory i-businesscategory
+Is Max Mart open until 10 pm?	o b-businessname i-businessname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+Look for a Gujrati cuisine eatery in Patiala open next month	o o o b-cuisinestyle b-restaurantstyle o o b-localityname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+Find the restaurant named Tamara 16 in new town, Kolkata	o o b-restaurantstyle o b-businessname i-businessname o b-localityname i-localityname i-localityname
+When does the bakery close today?	o o o b-businesscategory b-openhoursdescriptor b-datetimeexpression
+Get Kulfi stalls near me	o b-coursename o o o
+Tell me where I can find good Mughlai food in nehru place	o o o o o o o b-cuisinestyle o o b-localityname i-localityname
+Find a petrol pump open until midnight	o o b-businesscategory i-businesscategory b-openhoursdescriptor o b-datetimeexpression
+Is there a DHL office open now?	o o o b-businessname i-businessname b-openhoursdescriptor o
+Any Indian restaurants in the area?	o b-cuisinestyle b-restaurantstyle o o o
+Bengali restaurants near me	b-cuisinestyle b-restaurantstyle o o
+Tell me where i can find a domino’s pizza outlet	o o o o o o o b-businesscategory i-businesscategory i-businesscategory
+When does decathlon close?	o o b-businessname b-openhoursdescriptor
+Yelp ₹200 indian restaurants	o b-pricelevel b-cuisinestyle b-restaurantstyle
+Is the national library open	o o b-businessname i-businessname b-openhoursdescriptor
+Search for Air Cooler repair shops	o o b-businesscategory i-businesscategory i-businesscategory i-businesscategory
+At what time does Vishal close?	o o o o b-businessname b-openhoursdescriptor
+Search for banks that are open during weekends	o o b-businesscategory o o b-openhoursdescriptor o b-intervalopen
+What are the 5 best rated dentists near me	o o o o b-sortby o b-businesscategory o o
+Find Mainland China on yelp	o b-businessname i-businessname o o
+Tell me where the closest public park is	o o o o b-sortby b-businesscategory i-businesscategory o
+Is Nykaa open	o b-businessname b-openhoursdescriptor
+Tell me a place where I can get tandoori	o o o o o o o o b-foodname
+When does the drycleaners open?	o o o b-businesscategory b-openhoursdescriptor
+Find me somewhere to get my Maruti repaired	o o o o o o b-service i-service
+Find an Indian restaurant with outdoor seating in Worli Mumbai	o o b-cuisinestyle b-restaurantstyle o b-restaurantamenity i-restaurantamenity o b-neighborhoodname b-localityname
+What are the hours of operation of Hard Rock	o o o b-openhoursdescriptor o o o b-businessname i-businessname
+Find Hattkappi	o b-businessname
+Look up a restaurant serving lamb mutton that is moderately priced	o o o b-restaurantstyle o b-foodname i-foodname o o b-pricelevel i-pricelevel
+Is Ikea in Hyderabad open right now?	o b-businessname o b-localityname b-openhoursdescriptor o o
+Search for restaurants with classical music	o o b-restaurantstyle o b-restaurantamenity i-restaurantamenity
+Find pantaloons	o b-businessname
+Is the Rakhi Gifts shop closed now?	o o b-businessname i-businessname i-businessname b-openhoursdescriptor o
+Where are some good spots to eat Punjabi food	o o o o b-restaurantstyle i-restaurantstyle i-restaurantstyle b-cuisinestyle o
+What time does Madhu shala open in Vijay Nagar	o o o b-businessname i-businessname b-openhoursdescriptor o b-localityname i-localityname
+Find a romantic coffee shop in Raichur	o o b-restaurantquality b-cuisinestyle b-restaurantstyle o b-localityname
+Find ₹200 restaurants open now	o b-pricelevel b-restaurantstyle b-openhoursdescriptor o
+Look for an open milkshake shop	o o o b-openhoursdescriptor b-restaurantstyle i-restaurantstyle
+Find a banquet hall that will be open on march 3rd	o o b-businesscategory i-businesscategory o o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+Where can I buy kalmi kebabs around here	o o o o b-foodname i-foodname o o
+Find me somewhere to get my eyebrows plucked	o o o o o o b-service i-service
+Locate a 24 hour fuel station	o o b-openhoursdescriptor i-openhoursdescriptor b-businesscategory i-businesscategory
+Is Ovenstory open	o b-businessname b-openhoursdescriptor
+Where is the closest reliancemart?	o o o b-sortby b-businessname
+Is it closed yet?	o o b-openhoursdescriptor o
+Look for a petrol station that is open 24/7	o o o b-businesscategory i-businesscategory o o b-openhoursdescriptor i-openhoursdescriptor
+Is bambino cleaners open	o b-businessname i-businessname b-openhoursdescriptor
+Look up when Grofers food closes tonight	o o o b-businessname i-businessname b-openhoursdescriptor b-datetimeexpression
+Find a car sale near me	o o b-businessname i-businessname o o
+Yelp rating for this one?	o o o o o
+Which supermarkets are open right now	o b-businesscategory o b-openhoursdescriptor o o
+Is Chulha Chawki da Dhaba open?	o b-businessname i-businessname i-businessname i-businessname b-openhoursdescriptor
+Yelp for bakeries that deliver	o o b-restaurantstyle o b-restaurantamenity
+Is the foodcourt in Phoenix Mall closed before 6 am	o o b-businessname o b-localityname i-localityname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression i-datetimeexpression
+Is the library in GK open after lunch?	o o b-businesscategory o b-localityname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+Get me the reviews for Mainland China	o o o o o b-businessname i-businessname
+Look for O2 Spa in Gachhibowli	o o b-businessname i-businessname o b-localityname
+Where should I go for lunch around here	o o o o o b-mealname o o
+Find the nearest Zara stre	o o b-sortby b-businessname i-businessname
+When does it open	o o o b-openhoursdescriptor
+Is there a India post office that's not closed yet?	o o o b-businesscategory i-businesscategory i-businesscategory o b-openhoursdescriptor i-openhoursdescriptor o
+Regular business hours for Pizza Hut	o b-openhoursdescriptor i-openhoursdescriptor o b-businessname i-businessname
+Where's a good spot to drink?	o o o o o o
+Is Raju Auto closed on weekends?	o b-businessname i-businessname b-openhoursdescriptor o b-intervalopen
+Find the highest rated ₹300 restaurant open now	o o b-sortby i-sortby b-pricelevel b-restaurantstyle b-openhoursdescriptor o
+Locate me some restaurants for a birthday celebration	o o o b-restaurantstyle o o b-restaurantquality i-restaurantquality
+What are Pantaloons store's hours?	o o b-businessname i-businessname b-openhoursdescriptor
+Is Chai time bar open now?	o b-businessname i-businessname i-businessname b-openhoursdescriptor o
+See if CCD is open on Tuesdays	o o b-businessname o b-openhoursdescriptor o b-dayopen
+What are the hours of operation for the National Public Library	o o o b-openhoursdescriptor o o o o b-businessname i-businessname i-businessname
+Where can I get my tattoo done?	o o o o o b-service i-service
+How many stars for this place?	o o o o o o
+Where can I get my eyebrows threaded?	o o o o o b-service i-service
+Is Prathibha badminton open on weekdays?	o b-businessname i-businessname b-openhoursdescriptor o b-intervalopen
+Where is the nearest reliance Jio Mart that's open now?	o o o b-sortby b-businessname i-businessname i-businessname o b-openhoursdescriptor o
+Find a pet store in Meerut open after 5 pm	o o b-businesscategory i-businesscategory o b-localityname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression i-datetimeexpression
+Can you tell me if Reliance Trends is open right now?	o o o o o b-businessname i-businessname o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+Opening hours for Decathelon on Saturdays	b-openhoursdescriptor i-openhoursdescriptor o b-businessname o b-dayopen
+What is the rating for Commercial Street?	o o o o o b-businessname i-businessname
+Is Soda Bottle open on Sundays	o b-businessname i-businessname b-openhoursdescriptor o b-dayopen
+Find a grocery store open 24 hrs	o o b-businesscategory i-businesscategory b-openhoursdescriptor i-openhoursdescriptor i-openhoursdescriptor
+Find a supermarket open after lunch	o o b-businesscategory b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+What are the bakery's hours today?	o o o b-businesscategory b-openhoursdescriptor b-datetimeexpression
+Find a Bluedart office near me	o o b-businessname i-businessname o o
+Where's the nearest Jio Mart	o o b-sortby b-businessname i-businessname
+What are the hours at Chilli	o o o b-openhoursdescriptor o b-businessname
+Is the bowling alley in Phoenix closed on weekdays	o o b-businesscategory i-businesscategory o b-localityname b-openhoursdescriptor o b-intervalopen
+Only show the ones that are open now	o o o o o o b-openhoursdescriptor o
+When does More Megastore open?	o o b-businessname i-businessname b-openhoursdescriptor
+Do you think Homecentre remains open until 10 pm?	o o o b-businessname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+What are the most expensive vegetarian restaurants in Delhi	o o o b-pricelevel i-pricelevel b-restaurantstyle i-restaurantstyle o b-localityname
+Look up restaurants that have happy hour	o o b-restaurantstyle o o b-restaurantamenity i-restaurantamenity
+When does the Berry Cake Cafe open?	o o o b-businessname i-businessname i-businessname b-openhoursdescriptor
+Look for air conditioning repair on yelp	o o b-businesscategory i-businesscategory i-businesscategory o o
+Look for discos open today	o o b-restaurantstyle b-openhoursdescriptor b-datetimeexpression
+Find Jain restaurants	o b-cuisinestyle b-restaurantstyle
+What's the nearest wine shop	o o b-sortby b-restaurantstyle i-restaurantstyle
+What's the usual Reliance Fresh Mart opening time?	o o o b-businessname i-businessname i-businessname b-openhoursdescriptor o
+Tell me the opening hours for Big Brewsky tomorrow	o o o b-openhoursdescriptor i-openhoursdescriptor o b-businessname i-businessname b-datetimeexpression
+What are the ratings for Lord of the Drinks in New Delhi?	o o o o o b-businessname i-businessname i-businessname i-businessname o b-localityname i-localityname
+Just show the restaurants that are open Sunday at 2 am	o o o b-restaurantstyle o o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+What is the opening time for the bank?	o o o b-openhoursdescriptor o o o b-businesscategory
+Is Hometown open for 24 hours?	o b-businessname b-openhoursdescriptor i-openhoursdescriptor i-openhoursdescriptor i-openhoursdescriptor
+Is Dmart open 24 hours?	o b-businessname b-openhoursdescriptor i-openhoursdescriptor i-openhoursdescriptor
+Search for bakeries open at 6 am	o o b-restaurantstyle b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+When does Nykaa close?	o o b-businessname b-openhoursdescriptor
+Where is the cheapest parking in Kormangala	o o o b-pricelevel b-businesscategory o b-searchterm
+Find auto shops that are open on weekdays	o b-businesscategory i-businesscategory o o b-openhoursdescriptor o b-intervalopen
+Find a cheap winehouse nearby	o o b-pricelevel b-restaurantstyle o
+What are the Banaghatta Road zoo hours of operation​	o o o b-businessname i-businessname i-businessname b-openhoursdescriptor i-openhoursdescriptor i-openhoursdescriptor
+Find Nizam's restaurant near Char Minar	o b-businessname b-restaurantstyle o b-localityname i-localityname
+Is Trinka’s factory open on Mondays?	o b-businessname i-businessname b-openhoursdescriptor o b-dayopen
+Locate a Spencer’s that's open until 11 pm	o o b-businessname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+What's a nice restaurant open Friday at 7 pm in Rajouri?	o o o b-restaurantstyle b-openhoursdescriptor b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression o b-localityname
+Check what time they close	o o o o b-openhoursdescriptor
+Look up laptop repair shops on yelp	o o b-businesscategory i-businesscategory i-businesscategory o o
+Show the ones that are open at 8 am	o o o o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+Is Lazeez in new town open right now?	o b-businessname o b-localityname i-localityname b-openhoursdescriptor o o
+When does the postoffice of India close?	o o o b-businesscategory i-businesscategory i-businesscategory b-openhoursdescriptor
+Look up Hoppi Polla on yelp	o o b-businessname i-businessname o o
+Find PVR multiplexes near me	o b-businessname i-businessname o o
+Look for blood and plasma donation banks	o o b-businesscategory i-businesscategory i-businesscategory i-businesscategory i-businesscategory
+Find Itsybitsy outlets nearby	o b-businesscategory i-businesscategory o
+Search yelp for the most expensive hair salons in Mumbai	o o o o b-pricelevel i-pricelevel b-businesscategory i-businesscategory o b-localityname
+Is Home town closed tomorrow?	o b-businessname i-businessname b-openhoursdescriptor b-datetimeexpression
+When does the Inox cinemas open	o o o b-businessname i-businessname b-openhoursdescriptor
+I need a good bakery	o o o o b-restaurantstyle
+When does Barbeque Nation close on Mondays?	o o b-businessname i-businessname b-openhoursdescriptor o b-dayopen
+Check yelp for a Cafe Coffee Day near me	o o o o b-businesscategory i-businesscategory i-businesscategory o o
+Search for coffee shops with Wi-Fi that are open Tuesday at 7	o o b-restaurantstyle i-restaurantstyle o b-businessamenity o o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression i-datetimeexpression
+Look up Gujrati restaurants open tomorrow at 8pm	o o b-cuisinestyle b-restaurantstyle b-openhoursdescriptor b-datetimeexpression i-datetimeexpression i-datetimeexpression
+Is the Blue Nile open on weekdays?	o b-businessname i-businessname i-businessname b-openhoursdescriptor o b-intervalopen
+When does cult fitness centre in Bangalore open on Mondays?	o o b-businessname i-businessname i-businessname o b-localityname b-openhoursdescriptor o b-dayopen
+Help me find a veg restaurant in yelp	o o o o b-diet b-restaurantstyle o o
+Ask yelp for a Lassi shop	o o o o b-businesscategory o
+Is Tamasha Cafe open	o b-businessname i-businessname b-openhoursdescriptor
+Find Aminia restaurant in Kolkata	o b-businessname b-restaurantstyle o b-localityname
+Find refrigerator shop on yelp	o b-businesscategory i-businesscategory o o
+Is the doll museum in New Delhi open	o o b-businessname i-businessname o b-localityname i-localityname b-openhoursdescriptor
+Is the Apsara Icecreams open?	o b-businessname i-businessname i-businessname b-openhoursdescriptor
+What are some tourist attractions near Agra?	o o o b-businesscategory i-businesscategory o b-localityname
+What are the hours for the Therpuppy shop tonight?	o o o b-openhoursdescriptor o o b-businesscategory i-businesscategory b-datetimeexpression
+Do any of these deliver	o o o o b-restaurantamenity
+Find a doctor that's open on Wednesday	o o b-businesscategory o b-openhoursdescriptor o b-datetimeexpression
+Find highly rated coffee shops in Mumbai	o b-sortby i-sortby b-restaurantstyle i-restaurantstyle o b-localityname
+What are the hours for Max?	o o o b-openhoursdescriptor o b-businessname
+Is the Five Star Chicken in Marathahalli closed tomorrow at noon?	o o b-businessname i-businessname o o b-localityname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression i-datetimeexpression
+When does the Ikea in mumbai open	o o o b-businessname o b-localityname b-openhoursdescriptor
+Does Beer Cafe close late?	o b-businessname i-businessname b-openhoursdescriptor o
+Find a library that's open at 8 pm on Saturday	o o b-businesscategory o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+On Wednesdays, is the Nile open?	o b-dayopen o o b-businessname b-openhoursdescriptor
+Recommended spots to eat parathas	o b-restaurantstyle o o b-cuisinestyle
+Find restaurants with classical music	o b-restaurantstyle o b-restaurantamenity i-restaurantamenity
+At what time does Dmart on MG Road open on march 3rd?	o o o o b-businessname o b-localityname i-localityname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+Find a restaurant called Karim’s Biryani that's in Jama Masjid, New Delhi	o o b-restaurantstyle o b-businessname i-businessname o o b-localityname i-localityname i-localityname i-localityname
+Look up wifi enabled cafes	o o b-businessamenity i-businessamenity b-restaurantstyle
+What time does Jiomart close today?	o o o b-businessname b-openhoursdescriptor b-datetimeexpression
+Check if Subway is open before 5 am	o o b-businessname o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression i-datetimeexpression
+Check opening hours for Cult Fitness centre this weekend	o b-openhoursdescriptor i-openhoursdescriptor o b-businessname i-businessname i-businessname b-datetimeexpression i-datetimeexpression
+Tell me Mughlai biryani places	o o b-cuisinestyle b-restaurantstyle i-restaurantstyle
+Yelp ₹100 dosa stalls	o b-pricelevel b-cuisinestyle b-restaurantstyle
+Give me the ratings for Bowl o'China restaurant in Gachhi Bowli	o o o o o b-businessname i-businessname b-restaurantstyle o b-localityname i-localityname
+When do they open	o o o b-openhoursdescriptor
+Search for pet clinics near Domlur	o o b-businesscategory i-businesscategory o b-localityname
+Find top bars in Navi Mumbai	o b-sortby b-restaurantstyle o b-localityname i-localityname
+Are there mountains nearby	o o b-businesscategory o
+Where can I drink tulsi tea	o o o o b-foodname i-foodname
+Where are some recommended spots to eat in Bridage Road	o o o o b-restaurantstyle i-restaurantstyle i-restaurantstyle o b-localityname i-localityname
+Look for ₹100 and ₹200 yelp restaurants	o o b-pricelevel o b-pricelevel o b-restaurantstyle
+Find me restaurants serving veg food	o o b-restaurantstyle o b-cuisinestyle o
+Is the Burger Centre in Juhu open Monday morning?	o o b-businessname i-businessname o b-localityname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+Is Pantaloons open until 9 pm?	o b-businessname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+Where can I find an H&M store near me	o o o o o b-businessname o o o
+Find a veg restaurant open right now	o o b-cuisinestyle b-restaurantstyle b-openhoursdescriptor o o
+Are there bike shops nearby?	o o b-businesscategory i-businesscategory o
+Is Decathlon closed	o b-businessname b-openhoursdescriptor
+More megastore hours	b-businessname i-businessname b-openhoursdescriptor
+Is Desi Platter in New Delhi closed on weekends	o b-businessname i-businessname o b-localityname i-localityname b-openhoursdescriptor o b-intervalopen
+Are there any Subways within 2 kms of here?	o o o b-businessname o b-distancemagnitude b-distanceunit o o
+Is the CCD open	o o b-businesscategory b-openhoursdescriptor
+What's the rating for Ikea in Hyderabad?	o o o o b-businessname o b-localityname
+Where is Sun city?	o o b-businessname i-businessname
+What's the rating?	o o o
+What time is Subway in Mayur Vihar open until?	o o o b-businessname o b-localityname i-localityname b-openhoursdescriptor o
+Are there any vegetarian places near us that deliver	o o o b-diet o o o o b-restaurantamenity
+Is Kebab Magic in Vasant Kunj closed right now?	o b-businessname i-businessname o b-localityname i-localityname b-openhoursdescriptor o o
+Is there anything fun to do around South Goa?	o o b-businesscategory i-businesscategory i-businesscategory i-businesscategory o b-localityname i-localityname
+Is Batista cafe closed	o b-businessname i-businessname b-openhoursdescriptor
+Share reviews for Lifestyle in Acropolis Mall	o o o b-businessname o b-localityname i-localityname
+How many reviews are there?	o o o o o
+Can you tell me if HDFC bank in Halasuru closed on April 16th?	o o o o o b-businessname i-businessname o b-localityname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+What is the rating?	o o o o
+What is the rating of Paradise Biryani restaurant in Jubilee Hills?	o o o o o b-businessname i-businessname b-restaurantstyle o b-localityname i-localityname
+Please let me know if the bank is closed	o o o o o o b-businesscategory o b-openhoursdescriptor
+Is the petrol pump open for 24 hours on weekends?	o o b-businesscategory i-businesscategory b-openhoursdescriptor i-openhoursdescriptor i-openhoursdescriptor i-openhoursdescriptor o b-intervalopen
+Does the bank get closed at 8 pm?	o o b-businesscategory o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+Please find me a petrol pump that is open for 24 hours on Mondays	o o o o b-businesscategory i-businesscategory o o b-openhoursdescriptor i-openhoursdescriptor i-openhoursdescriptor i-openhoursdescriptor o b-dayopen
+Please tell me if Reliance is open now	o o o o b-businessname o b-openhoursdescriptor o
+What is the yelp rating for Nalli	o o o o o o b-businessname
+Is the Citi Bank in Mehrouli open on June 3rd?	o o b-businessname i-businessname o b-localityname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+What is the yelp rating for Indigo Blue?	o o o o o o b-businessname i-businessname
+Do you think Grofers have closed by now?	o o o b-businessname o b-openhoursdescriptor o o
+What is the yelp rating for Wanderla?	o o o o o o b-businessname
+How many reviews does this place have?	o o o o o o o
+What are Bank of Baroda's Saturday hours?	o o b-businessname i-businessname i-businessname b-datetimeexpression b-openhoursdescriptor
+When does Canara bank in Jubilee open on March 27th?	o o b-businessname i-businessname o b-localityname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+What are the reviews for this place?	o o o o o o o
+What are the yelp ratings for this one?	o o o o o o o o
+What's the yelp rating for Ikea in Mumbai?	o o o o o o b-localityname b-businessname
+What are the hours for HSBC Bank in Kolkata on August 16th?	o o o b-openhoursdescriptor o b-businessname i-businessname o b-localityname o b-date i-date
+Look for universities that are open on March 27th	o o b-businesscategory o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+What is the yelp rating for Smile dental in Banjara?	o o o o o o b-businessname i-businessname o b-localityname
+Give me reviews for Palika Bazaar	o o o o b-businessname i-businessname
+How many yelp stars does this place have?	o o o o o o o o
+At what time does Freshfarm open in the morning?	o o o o b-businessname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression i-datetimeexpression
+What is the food rating for MMB Chicken?	o o o o o o b-businessname i-businessname
+What time does Spencer’s close?	o o o b-businessname b-openhoursdescriptor
+Find open salons	o b-openhoursdescriptor b-businesscategory
+Is Arambagh open for 24 hours today?	o b-businessname b-openhoursdescriptor i-openhoursdescriptor i-openhoursdescriptor i-openhoursdescriptor b-datetimeexpression
