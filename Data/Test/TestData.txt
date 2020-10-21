@@ -1,0 +1,1001 @@
+what is the closest gluten free vegetarian restaurant that is open next thursday	o o o b-sortby b-restaurantamenity i-restaurantamenity b-cuisinestyle b-restaurantstyle o o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+the most popular mughlai restaurants in Aliganj Lucknow	o o b-restaurantquality b-cuisinestyle b-restaurantstyle o b-localityname i-localityname
+are there any good beduin restaurants in Muzzhafarpur	o o o o b-cuisinestyle b-restaurantstyle o b-localityname
+show nearest vegetarian tibetan restaurant open at 1:45 a.m on tuesday	o b-sortby b-diet b-cuisinestyle b-restaurantstyle b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+tell me the nearest restaurant that is healthy and open at 6:20 p.m	o o o b-sortby b-restaurantstyle o o b-cuisineattribute o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+list of best rated restaurants in Katra Jammu that serve Kashmiri pulao	o o b-sortby o b-restaurantstyle o b-localityname i-localityname o o b-cuisinestyle o
+list of nearby hypercity departmental stores	o o o b-businessname i-businessname o
+highly rated vegetarian santhali restaurants nearby that are open at 7:15 p.m	b-sortby i-sortby b-diet b-cuisinestyle b-restaurantstyle o o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+i need a romantic sandwich shop near Ambarnath maharashtra that is gluten-free and open mondays	o o o b-restaurantquality b-restaurantstyle i-restaurantstyle o b-localityname i-localityname o o b-restaurantamenity o b-openhoursdescriptor b-dayopen
+look for closest diner that is healthy	o o b-sortby b-restaurantstyle o o b-cuisineattribute
+i want to know the opening hours of Windmills in Devanahalli	o o o o o b-openhoursdescriptor i-openhoursdescriptor o b-businessname o b-localityname
+where can i find north korean food around here	o o o o b-cuisinestyle i-cuisinestyle o o o
+i need a karachi-cuisine restaurant near Jalna that is open at 4:00 p.m	o o o b-cuisinestyle b-restaurantstyle o b-localityname o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+what are the closest good restaurants that serve new hyderabadi food open at 9:00 p.m	o o o b-sortby o b-restaurantstyle o o b-cuisinestyle i-cuisinestyle o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+what are the best rated Titan Eye Plus stores that are in Ratlam Madhya Pradesh	o o o b-sortby o b-businessname i-businessname i-businessname o o o o b-localityname i-localityname i-localityname
+are there any restaurants in karimnagar telangana that are called Golden Bawarchi	o o o b-restaurantstyle o b-localityname i-localityname o o o b-businessname i-businessname
+what are the highest rated restaurants in Raichur Karnataka that are healthy and open at 10:20 p.m on friday	o o o b-sortby i-sortby b-restaurantstyle o b-localityname i-localityname o o b-cuisineattribute o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+what is the highest rated Bengali restaurant near here that is open at 7:40 p.m on friday	o o o b-sortby i-sortby b-cuisinestyle b-restaurantstyle o o o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+the closest highest rated Thai restaurant open next monday	o b-sortby i-sortby i-sortby b-cuisinestyle b-restaurantstyle b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+what's the nearest restaurant that serves Rajasthani food that's open now	o o b-sortby b-restaurantstyle o o b-cuisinestyle o o b-openhoursdescriptor o
+what are the nearest restaurants	o o o b-sortby b-restaurantstyle
+is there a restaurant called Jalsa Gold nearby	o o o b-restaurantstyle o b-businessname i-businessname o
+where can i go for a pedicure nearby	o o o o o o b-service o
+any new restaurants nearby for Kerala food that are open at 4:50 p.m on tuesday	o b-restaurantquality b-restaurantstyle o o b-cuisinestyle o o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+find j. c. jewellery stores that are close to Brigade Road	o b-businessname i-businessname i-businessname o o o o o b-streetname b-streetsuffix
+what nail salons are around Baranagar	o b-businesscategory i-businesscategory o o b-localityname
+what is the nearest south Indian restaurant open right now	o o o b-sortby b-cuisinestyle i-cuisinestyle b-restaurantstyle b-openhoursdescriptor o o
+look up popular coffee shops near Karol Bagh that are open sundays	o o b-restaurantquality b-restaurantstyle i-restaurantstyle o b-localityname i-localityname o o b-openhoursdescriptor b-dayopen
+where can i find highly rated chinese food in Pali Rajasthan this wednesday	o o o o b-sortby i-sortby b-cuisinestyle o o b-localityname i-localityname b-datetimeexpression i-datetimeexpression
+where can i go to get my taxes done in Pondicherry Puducherry	o o o o o o o b-service o o b-localityname i-localityname
+list of the top rated restaurants nearby that are vegan and open at 6:50 p.m on thursday	o o o b-sortby o b-restaurantstyle o o o b-diet o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+look up a popular persian restaurant nearby	o o o b-restaurantquality b-cuisinestyle b-restaurantstyle o
+where can i get my oil changed near Thoothukudi Tamil Nadu	o o o o o b-service i-service o b-localityname i-localityname i-localityname
+i need a restaurant for continental food near Church Street	o o o b-restaurantstyle o b-cuisinestyle o o b-streetname b-streetsuffix
+what is the nearest top rated restaurant serving mediterranian food	o o o b-sortby i-sortby o b-restaurantstyle o b-cuisinestyle o
+what's the closest highest rated bi-mart	o o b-sortby i-sortby i-sortby b-businessname
+are there any good office supply stores near Sonipat Haryana	o o o o b-businesscategory i-businesscategory i-businesscategory o b-localityname i-localityname
+nice mughlai restaurants that are near Richmond Circle bangalore	o b-cuisinestyle b-restaurantstyle o o o b-localityname i-localityname i-localityname
+nearest highest rated hypercity	b-sortby i-sortby i-sortby b-businessname
+what are the nearest Odia restaurants	o o o b-sortby b-cuisinestyle b-restaurantstyle
+what restaurant is in Bhubaneshwar Orissa	o b-restaurantstyle o o b-localityname i-localityname
+find top rated continental restaurant in Bolpur	o b-sortby o b-cuisinestyle b-restaurantstyle o b-localityname
+top rated restaurants near here that serve andhra food	b-sortby o b-restaurantstyle o o o o b-cuisinestyle o
+the best nearby lifestyle stores	o b-sortby o b-businessname o
+search for some nice restaurants around New Gariahaat Junction Kolkata named Arsalan	o o o o b-restaurantstyle o b-localityname i-localityname i-localityname i-localityname o b-businessname
+where can i find good mughal food in my area	o o o o o b-cuisinestyle o o o o
+show me a highly rated nearby oriental restaurant	o o o b-sortby i-sortby o b-cuisinestyle b-restaurantstyle
+look up best restaurant for middle eastern food in Yamunanagar Haryana	o o b-sortby b-restaurantstyle o b-cuisinestyle i-cuisinestyle o o b-localityname i-localityname
+what's a nice gujrati restaurant nearby that is healthy	o o o b-cuisinestyle b-restaurantstyle o o o b-cuisineattribute
+show a t.g.i. friday restaurant near here that is open at 9:10 p.m on friday	o o b-businessname i-businessname b-restaurantstyle o o o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+show me a highly rated restaurant that serves Tamilian food around Silchar Assam that's open at 3:45 p.m	o o o b-sortby i-sortby b-restaurantstyle o o b-cuisinestyle o o b-localityname i-localityname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+is there a nice Kerala restaurant in Nadian Gujrat open right now	o o o o b-cuisinestyle b-restaurantstyle o b-localityname i-localityname b-openhoursdescriptor o o
+what are the nearest highest rated restaurants that serve himalayan food	o o o b-sortby i-sortby i-sortby b-restaurantstyle o o b-cuisinestyle o
+the nearest good goan restaurant	o b-sortby o b-cuisinestyle b-restaurantstyle
+is Coffee Cup open this friday	o b-businessname i-businessname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+best rated Bihari restaurants to eat at in Secunderabad Gujrat	b-sortby o b-cuisinestyle b-restaurantstyle o o o o b-localityname i-localityname
+get me the nearest restaurants that serve Kashmiri food that are open tomorrow	o o o b-sortby b-restaurantstyle o o b-cuisinestyle o o o b-openhoursdescriptor b-datetimeexpression
+tell me Bikaner restaurant's hours this month	o o b-businessname i-businessname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+highest rated andhra restaurants that are within 20 kms that are vegetarian	b-sortby i-sortby b-cuisinestyle b-restaurantstyle o o o b-distancemagnitude b-distanceunit o o b-diet
+where can i eat good arabian food within 3 kilometres at 3:15 a.m on sunday	o o o o o b-cuisinestyle o o b-distancemagnitude b-distanceunit o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+find me the best rated goan restaurants nearby open at 1:50 p.m next friday	o o o b-sortby o b-cuisinestyle b-restaurantstyle o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+list restaurants in Munger called Afra deli that are open now	o b-restaurantstyle o b-localityname o b-businessname i-businessname o o b-openhoursdescriptor o
+look for a restaurant called Chai Point around Sri Ganganagar Rajasthan that's open right now	o o o b-restaurantstyle o b-businessname i-businessname o b-localityname i-localityname i-localityname o b-openhoursdescriptor o o
+get me the closest new Bihari restaurants that are gluten-free	o o o b-sortby b-restaurantquality b-cuisinestyle b-restaurantstyle o o b-restaurantamenity
+tell me a long john silver's restaurant in seattle washington	o o o b-businessname i-businessname i-businessname b-restaurantstyle o b-localityname i-localityname
+the top rated Kashmiri restaurant to eat in Tenali Andhra Pradesh	o b-sortby o b-cuisinestyle b-restaurantstyle o o o b-localityname i-localityname i-localityname
+get me the best restaurants that are called red hot & blue in augusta georgia open this friday	o o o b-sortby b-restaurantstyle o o o b-businessname i-businessname i-businessname i-businessname o b-localityname i-localityname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+highest rated restaurants for syrian food nearby	b-sortby i-sortby b-restaurantstyle o b-cuisinestyle o o
+look up the highest rated restaurant for Tamilian food near Shalimar Bagh New Delhi that is open next monday	o o o b-sortby i-sortby b-restaurantstyle o b-cuisinestyle o o b-localityname i-localityname i-localityname i-localityname o o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+North east Indian restaurants in Tata Nagar Jamshedpur	b-diet b-cuisinestyle i-cuisinestyle b-restaurantstyle o b-localityname i-localityname i-localityname
+i want to know the hours for Afraa next week	o o o o o b-openhoursdescriptor o b-businessname b-datetimeexpression i-datetimeexpression
+what are the closest best rated chinese restaurants	o o o b-sortby i-sortby o b-cuisinestyle b-restaurantstyle
+what time is CCD open on sundays	o o o b-businessname b-openhoursdescriptor o b-dayopen
+what is the nearest new restaurant serving Awadhi food that's open right now	o o o b-sortby b-restaurantquality b-restaurantstyle o b-cuisinestyle o o b-openhoursdescriptor o o
+show me some romantic nearby Mughlai restaurants open at 3:45 p.m tomorrow	o o o b-restaurantquality o b-cuisinestyle b-restaurantstyle b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression
+find me some romantic Santhali restaurants in Mango Jharkhand that are open this wednesday	o o o b-restaurantquality b-cuisinestyle b-restaurantstyle o b-localityname i-localityname o o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+what are Gachhibowli Hyderabad's's highest rated breweries	o o b-localityname i-localityname b-sortby i-sortby b-restaurantstyle
+nearest cafes that are vegetarian and open now	b-sortby b-restaurantstyle o o b-diet o b-openhoursdescriptor o
+show some highly rated restaurants called Nankin near here that are open fridays	o o b-sortby i-sortby b-restaurantstyle o b-businessname o o o o b-openhoursdescriptor b-dayopen
+get closest restaurant for lotha food	o b-sortby b-restaurantstyle o b-cuisinestyle o
+Senco's's opening hours	b-businessname b-openhoursdescriptor i-openhoursdescriptor
+what is the restaurant called Chianti in Juhu	o o o b-restaurantstyle o b-businessname o b-localityname
+what are Bihar Shari Bihar's highest rated mechanics	o o b-localityname i-localityname i-localityname b-sortby i-sortby b-businesscategory
+are there any restaurants that are nearby that are called Trinka's restaurant and bakery that are open next monday	o o o b-restaurantstyle o o o o o o b-businessname i-businessname i-businessname i-businessname o o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+what are the hours for Hatt-Kappi in Coimbatore Chennai next thursday	o o o b-openhoursdescriptor o b-businessname o b-localityname i-localityname b-datetimeexpression i-datetimeexpression
+what is the nearest best rated Angaadi galleria that's open at 9:50 p.m	o o o b-sortby i-sortby o b-businessname i-businessname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+what's the closest highest rated Brew Hub that's open at 2:40 a.m	o o b-sortby i-sortby i-sortby b-businessname i-businessname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+where can i buy highly rated indian food in Srinagar Jammu this weekend	o o o o b-sortby i-sortby b-cuisinestyle o o b-localityname i-localityname b-datetimeexpression i-datetimeexpression
+find me the nearest best rated Pahadi restaurant	o o o b-sortby i-sortby o b-cuisinestyle b-restaurantstyle
+the closest romantic restaurants that are Vegan and open now	o b-sortby b-restaurantquality b-restaurantstyle o o b-diet o b-openhoursdescriptor o
+look for marathi restaurants in renton that are open on sundays	o o b-cuisinestyle b-restaurantstyle o b-localityname o o b-openhoursdescriptor o b-dayopen
+nearest mechanics	b-sortby b-businesscategory
+show Arabian restaurants near Mahatma Ganddhi Road	o b-businessname b-restaurantstyle o b-streetname i-streetname b-streetsuffix
+find me the most popular idli shop in South Extension	o o o o b-restaurantquality b-restaurantstyle i-restaurantstyle o b-localityname i-localityname
+look up closest new south korean restaurant	o o b-sortby b-restaurantquality b-cuisinestyle i-cuisinestyle b-restaurantstyle
+what's the Just Bake around Lido Mall	o o b-businessname i-businessname o b-streetname b-streetsuffix
+look up the closest new rajasthani restaurant	o o o b-sortby b-restaurantquality b-cuisinestyle b-restaurantstyle
+are there any restaurants in Patna called The Blue Poppy open this thursday	o o o b-restaurantstyle o b-localityname o b-businessname i-businessname i-businessname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+find the closest bhutanese places to eat that are open at 8:30 a.m	o o b-sortby b-cuisinestyle b-restaurantstyle i-restaurantstyle i-restaurantstyle o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+any good restaurants around Rohtak for marwadi food	o o b-restaurantstyle o b-localityname o b-cuisinestyle o
+is jio mart in whitefield open this month	o b-businessname i-businessname o b-localityname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+what is the nearest top rated coffee shop that's gluten free	o o o b-sortby i-sortby o b-restaurantstyle i-restaurantstyle o b-restaurantamenity i-restaurantamenity
+what's the closest highest rated Kritunga 's restaurant	o o b-sortby i-sortby o b-businessname i-businessname b-restaurantstyle
+find the top rated restaurant that's called The Second Cup near hussainsagar secunderabad that's open this week	o o b-sortby o b-restaurantstyle o o b-businessname i-businessname i-businessname o b-localityname i-localityname o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+show a good barber shop close to Park street	o o o b-businesscategory i-businesscategory o o b-streetname b-streetsuffix
+any romantic coffee shops in chennai open next wednesday	o b-restaurantquality b-restaurantstyle i-restaurantstyle o b-localityname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+get me the top rated Kathi rolls near Saltlake New Town open at 5:30 a.m on thursday	o o o b-sortby o b-businessname i-businessname o b-localityname i-localityname i-localityname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+any nice garden centers that are in Halasuru	o o b-businesscategory i-businesscategory o o o b-localityname
+get highly rated restaurants for Bhutanese food in Sikkim that are open at 8:10 p.m	o b-sortby i-sortby b-restaurantstyle o b-cuisinestyle o o b-localityname o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+the closest top rated restaurant that serves Naga food that's open at 3:45 a.m	o b-sortby i-sortby o b-restaurantstyle o o b-cuisinestyle o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+what places to eat are nearby	o b-restaurantstyle i-restaurantstyle i-restaurantstyle o o
+find the nearest highly rated restaurants for south indian food open at 2:40 p.m	o o b-sortby i-sortby i-sortby b-restaurantstyle o b-cuisinestyle i-cuisinestyle o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+list of highest rated vegetarian Mizo restaurants in Dimapur valley	o o b-sortby i-sortby b-diet b-cuisinestyle b-restaurantstyle o b-localityname i-localityname
+what restaurant is near here and is open right now	o b-restaurantstyle o o o o o b-openhoursdescriptor o o
+some nice Himachali restaurants within 16 kilometres of me that are open mondays	o o b-cuisinestyle b-restaurantstyle o b-distancemagnitude b-distanceunit o o o o b-openhoursdescriptor b-dayopen
+is there a romantic goan restaurant around here open at 8:20 a.m on wednesday	o o o b-restaurantquality b-cuisinestyle b-restaurantstyle o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+i need a good restaurant that is in Rishikesh Uttarakhand that is gluten free	o o o o b-restaurantstyle o o o b-localityname i-localityname o o b-restaurantamenity i-restaurantamenity
+what are the top restaurants around Manali and serve chinese food	o o o b-sortby b-restaurantstyle o b-localityname o o b-cuisinestyle o
+is there a popular sushi restaurant around here	o o o b-restaurantquality b-cuisinestyle b-restaurantstyle o o
+any good Nykaa's stores in Chittaranjan South Delhi	o o b-businessname o o b-localityname i-localityname i-localityname
+best rated electronics store around jersey Khan Market Chandni Chowk	b-sortby o b-businesscategory i-businesscategory o b-localityname i-localityname i-localityname i-localityname i-localityname
+is Jio Mart in Barrackpore Kolkata open at 11:40 a.m	o b-businessname i-businessname o b-localityname i-localityname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+the nearest most popular restaurants serving singaporean food open at 9:10 a.m	o b-sortby o b-restaurantquality b-restaurantstyle o b-cuisinestyle o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+what is ABC's best Korean restaurant	o o b-localityname b-sortby b-cuisinestyle b-restaurantstyle
+is there a good restaurant in Mylapore Chennai that is vegetarian and is open at 6:15 p.m on sunday	o o o o b-restaurantstyle o b-localityname i-localityname o o b-diet o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+what goan restaurants are in dona paula goa	o b-cuisinestyle b-restaurantstyle o o b-localityname i-localityname i-localityname
+check if Papa john's pizza in Madhopur is open at 4:20 a.m the day after tomorrow	o o b-businessname i-businessname i-businessname o b-localityname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+a nice andhra restaurant to eat at in Kukkatpally	o o b-cuisinestyle b-restaurantstyle o o o o b-localityname
+see if Smoor bakery in mahadevpura is open at 3:00 a.m today	o o b-businessname i-businessname o b-localityname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression
+look up mandarin restaurants near chinatown	o o b-cuisinestyle b-restaurantstyle o b-localityname
+get me a Domino's pizza restaurant in this area open next month	o o o b-businessname i-businessname b-restaurantstyle o o o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+is hypercity open this monday	o b-businessname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+what are lao restaurants near Wards Lake Shillong that are non-vegetarian and open at 3:15 p.m	o o b-cuisinestyle b-restaurantstyle o b-localityname i-localityname i-localityname o o b-diet o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+what mechanics are in Dawki	o b-businesscategory o o b-localityname
+what are the closest malaysian restaurants	o o o b-sortby b-cuisinestyle b-restaurantstyle
+are there any restaurants that are in kolhapur maharashtra that are named Wow Momos that are open now	o o o b-restaurantstyle o o o b-localityname i-localityname o o o b-businessname i-businessname o o b-openhoursdescriptor o
+find closest burmese restaurant	o b-sortby b-cuisinestyle b-restaurantstyle
+is there a new restaurant nearby for french food	o o o b-restaurantquality b-restaurantstyle o o b-cuisinestyle o
+what's sandwich shop around auroville	o b-restaurantstyle i-restaurantstyle o b-localityname
+i need a highly rated restaurant that serves dinner nearby that is open fridays	o o o b-sortby i-sortby b-restaurantstyle o o b-mealname o o o b-openhoursdescriptor b-dayopen
+are there any brooks and bond restaurants within 1 km	o o o b-businessname i-businessname i-businessname b-restaurantstyle o b-distancemagnitude b-distanceunit
+is there a nice restaurant for south indian food in chandigarh Haryana open today	o o o o b-restaurantstyle o b-cuisinestyle i-cuisinestyle o o b-localityname i-localityname b-openhoursdescriptor b-datetimeexpression
+the nearest restaurant that's called Wind Mills Craft Brewery that's open at 2:10 p.m today	o b-sortby b-restaurantstyle o o b-businessname i-businessname i-businessname i-businessname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression
+what is a good restaurant that is near park circus and serves north-indian food	o o o o b-restaurantstyle o o o b-localityname i-localityname o o b-cuisinestyle o
+what are the popular nearby restaurants that are gluten-free and are open this month	o o o b-restaurantquality o b-restaurantstyle o o b-restaurantamenity o o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+what nail salons are near begumpet hyderabad	o b-businesscategory i-businesscategory o o b-localityname i-localityname
+what's the highest rated monkey bar nearby	o o b-sortby i-sortby b-businessname i-businessname o
+list of romantic nearby italian restaurants	o o b-restaurantquality o b-cuisinestyle b-restaurantstyle
+list of highest rated restaurants that serve sea food that are in kochi	o o b-sortby i-sortby b-restaurantstyle o o b-cuisinestyle o o o o b-localityname
+what is Manali shimla's highest rated hair salon	o o b-localityname i-localityname b-sortby i-sortby b-businesscategory i-businesscategory
+what are the closest goan restaurants	o o o b-sortby b-cuisinestyle b-restaurantstyle
+find me nearest highly rated diner open at 4:45 a.m on tuesday	o o b-sortby i-sortby i-sortby b-restaurantstyle b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+search for the closest Ruby's pizzeria restaurant	o o o b-sortby b-businessname i-businessname b-restaurantstyle
+is there a highly rated nearby north indian restaurant	o o o b-sortby i-sortby o b-cuisinestyle i-cuisinestyle b-restaurantstyle
+show the highest rated electronics stores that are nearby	o o b-sortby i-sortby b-businesscategory i-businesscategory o o o
+what are jaguar hardware showroom's hours this monday	o o b-businessname i-businessname i-businessname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+what is the nearest best rated coffee shop that is vegan and is open at 2:30 a.m on sunday	o o o b-sortby i-sortby o b-restaurantstyle i-restaurantstyle o o b-diet o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+where can i buy continental food nearby	o o o o b-cuisinestyle o o
+list of the best restaurants that are around here that are healthy	o o o b-sortby b-restaurantstyle o o o o o o b-cuisineattribute
+any highly rated italian restaurants in mumbai that are open now	o b-sortby i-sortby b-cuisinestyle b-restaurantstyle o b-localityname o o b-openhoursdescriptor o
+what's Sukhdev Murthal's best dhaba	o b-localityname i-localityname b-sortby b-restaurantstyle
+nearest most popular restaurant named Lee's that's open right now	b-sortby o b-restaurantquality b-restaurantstyle o b-businessname o b-openhoursdescriptor o o
+show some highly rated veg marathi restaurants nearby open at 5:15 p.m	o o b-sortby i-sortby b-diet b-cuisinestyle b-restaurantstyle o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+find me top gluten free arabian restaurants in frazer town open now	o o b-sortby b-restaurantamenity i-restaurantamenity b-cuisinestyle b-restaurantstyle o b-localityname i-localityname b-openhoursdescriptor o
+search for the closest best rated jalsa restaurant	o o o b-sortby i-sortby o b-businessname b-restaurantstyle
+list the most popular nearby indian restaurant	o o o b-restaurantquality o b-cuisinestyle b-restaurantstyle
+what barber shops are nearby	o b-businesscategory i-businesscategory o o
+what's the nearest highest rated Dominos	o o b-sortby i-sortby i-sortby b-businessname
+is there a highly rated rajasthani restaurant in jaipur city that's open tomorrow	o o o b-sortby i-sortby b-cuisinestyle b-restaurantstyle o b-localityname i-localityname o b-openhoursdescriptor b-datetimeexpression
+list a romantic north eastern restaurant in police bazar that's open on tuesdays	o o b-restaurantquality b-cuisinestyle i-cuisinestyle b-restaurantstyle o b-localityname i-localityname o b-openhoursdescriptor o b-dayopen
+look up a new restaurant serving mughlai food in Balli Mizoram open on saturdays	o o o b-restaurantquality b-restaurantstyle o b-cuisinestyle o o b-localityname i-localityname b-openhoursdescriptor o b-dayopen
+are there any nice Reliance Fresh stores in Tumkur	o o o o b-businessname i-businessname o o b-localityname
+is there a popular healthy nepalese restaurant in west bengal that's open at 3:45 p.m	o o o b-restaurantquality b-cuisineattribute b-cuisinestyle b-restaurantstyle o b-localityname i-localityname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+find me a highly rated vegetarian marwadi restaurant in ajmer rajasthan open on sundays	o o o b-sortby i-sortby b-diet b-cuisinestyle b-restaurantstyle o b-localityname i-localityname b-openhoursdescriptor o b-dayopen
+what airtel stores are in Lakhimpur Assam	o b-businessname o o o b-localityname i-localityname
+what's the closest library	o o b-sortby b-businesscategory
+the closest restaurants that serve veg food	o b-sortby b-restaurantstyle o o b-diet o
+tell me where i can get highly rated odia food around Sambalpur orissa next sunday	o o o o o o b-sortby i-sortby b-cuisinestyle o o b-localityname i-localityname b-datetimeexpression i-datetimeexpression
+what's veg jain restaurant nearby that is open at 2:50 p.m on monday	o b-diet b-cuisinestyle b-restaurantstyle o o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+get me closest restaurant serving north indian food that's open at 3:10 a.m on tuesday	o o b-sortby b-restaurantstyle o b-cuisinestyle i-cuisinestyle o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+list new restaurants called oliver's pizza in paradise road ahmedabad that are open right now	o b-restaurantquality b-restaurantstyle o b-businessname i-businessname o b-localityname i-localityname i-localityname o o b-openhoursdescriptor o o
+list of highest rated nearby ikea stores	o o b-sortby i-sortby o b-businessname o
+what are the nearest chinese restaurants	o o o b-sortby b-cuisinestyle b-restaurantstyle
+what are the popular restaurants around here and serve rajasthani food	o o o b-restaurantquality b-restaurantstyle o o o o b-cuisinestyle o
+some romantic mughlai restaurants near here	o b-restaurantquality b-cuisinestyle b-restaurantstyle o o
+where can i go to get my nails done in bilaspur	o o o o o o o b-service o o b-localityname
+some nice parsi restaurants near here	o o b-cuisinestyle b-restaurantstyle o o
+tell me where i can buy good thai food in leh ladakh	o o o o o o o b-cuisinestyle o o b-localityname i-localityname
+are there any good mizo restaurants in imphal manipur open right now	o o o o b-cuisinestyle b-restaurantstyle o b-localityname i-localityname b-openhoursdescriptor o o
+what are the top Tankhul restaurants in Imphal Manipur that are open next sunday	o o o b-sortby b-cuisinestyle b-restaurantstyle o b-localityname i-localityname o o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+get best restaurants in Anjuna beach that are healthy and are open at 10:15 a.m on wednesday	o b-sortby b-restaurantstyle o b-localityname i-localityname o o b-cuisineattribute o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+closest place to eat serving continental food	b-sortby b-restaurantstyle i-restaurantstyle i-restaurantstyle o b-cuisinestyle o
+new chinese restaurant in south city Kolkata that is open now	b-restaurantquality b-cuisinestyle b-restaurantstyle o b-localityname i-localityname i-localityname o o b-openhoursdescriptor o
+what are the top rated healthy Thai restaurants that are in Pune Maharashtra	o o o b-sortby o b-cuisineattribute b-cuisinestyle b-restaurantstyle o o o b-localityname i-localityname
+search for a good vegan restaurant nearby	o o o o b-diet b-restaurantstyle o
+is there a highly rated place to eat around Gandhinagar Gujrat	o o o b-sortby i-sortby b-restaurantstyle i-restaurantstyle i-restaurantstyle o b-localityname i-localityname
+are there any restaurants called The Golden Bawarchi nearby that are open at 5:10 p.m	o o o b-restaurantstyle o b-businessname i-businessname i-businessname o o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+the best restaurant in Hospet Karnataka that serve Kannada food	o b-sortby b-restaurantstyle o b-localityname i-localityname o o b-cuisinestyle o
+the nearest best rated Gilli's restaurant that is open on fridays	o b-sortby i-sortby o b-businessname b-restaurantstyle o o b-openhoursdescriptor o b-dayopen
+get me the closest vegetarian restaurant	o o o b-sortby b-cuisinestyle b-restaurantstyle
+where can i get my haircut in Avantika Delhi	o o o o o b-service o b-localityname i-localityname
+what's a good nearby pet store	o o o o b-businesscategory i-businesscategory
+what is the highest rated Sanjeev Tandoor's fresh grill restaurant that is in Amritsar Punjab	o o o b-sortby i-sortby b-businessname i-businessname i-businessname i-businessname b-restaurantstyle o o o b-localityname i-localityname
+look up closest restaurant serving lotha food	o o b-sortby b-restaurantstyle o b-cuisinestyle o
+any popular restaurants serving Angami food that are in Dimapur	o b-restaurantquality b-restaurantstyle o b-cuisinestyle o o o o b-localityname
+best rated KFC near Patna	b-sortby o b-businessname o b-localityname
+tell me where i can eat good Nizami food in Begumpet Hyderabad this tuesday	o o o o o o o b-cuisinestyle o o b-localityname i-localityname b-datetimeexpression i-datetimeexpression
+what's Polo Bazaar's top rated barber shop	o b-localityname i-localityname b-sortby o b-businesscategory i-businesscategory
+find me the best kfc that's in Barik	o o o b-sortby b-businessname o o b-localityname
+any good restaurants serving Sindhi food near Karnal Road Haryana	o o b-restaurantstyle o b-cuisinestyle o o b-localityname i-localityname i-localityname
+get a restaurant in Trinity Circle called pizza hut	o o b-restaurantstyle o b-localityname i-localityname o b-businessname i-businessname
+the most popular Tamilian restaurant within 15 kms of me	o o b-restaurantquality b-cuisinestyle b-restaurantstyle o b-distancemagnitude b-distanceunit o o
+list of highest rated south korean restaurants in Sarjapur that are vegan	o o b-sortby i-sortby b-cuisinestyle i-cuisinestyle b-restaurantstyle o b-localityname o o b-diet
+get me the closest top rated cold stone creamery open at 8:10 p.m next friday	o o o b-sortby i-sortby o b-businessname i-businessname i-businessname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+look up highest rated vegetarian Radhaswami restaurants that are near south city park street	o o b-sortby i-sortby b-diet b-cuisinestyle b-restaurantstyle o o o b-streetname i-streetname i-streetname b-streetsuffix
+opening hours of chillis in Esplanade	b-openhoursdescriptor i-openhoursdescriptor o b-businessname o b-localityname
+any new goan restaurants near here	o b-restaurantquality b-cuisinestyle b-restaurantstyle o o
+find gluten free punjabi restaurant close to Marine drive open next sunday	o b-restaurantamenity i-restaurantamenity b-cuisinestyle b-restaurantstyle o o b-streetname b-streetsuffix b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+list of best tibetan restaurants in ladakh that are open now	o o b-sortby b-cuisinestyle b-restaurantstyle o b-localityname o o b-openhoursdescriptor o
+is there a restaurant in Shillong Meghalaya named The Naga Mandarin	o o o b-restaurantstyle o b-localityname i-localityname o b-businessname i-businessname i-businessname
+what are the popular restaurants nearby and serve Andhra food	o o o b-restaurantquality b-restaurantstyle o o o b-cuisinestyle o
+is there a romantic restaurant for Thai food in Almora Uttarakhand that's open next week	o o o b-restaurantquality b-restaurantstyle o b-cuisinestyle o o b-localityname i-localityname o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+list best nursery parks that are in this area	o b-sortby b-businesscategory i-businesscategory o o o o o
+the best rated continental restaurant around Dumdum Kolkata that's open at 3:15 a.m on wednesday	o b-sortby o b-cuisinestyle b-restaurantstyle o b-localityname i-localityname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+tell me where i can get good Bengali food in Silchar	o o o o o o o b-cuisinestyle o o b-localityname
+what are the closest good restaurants	o o o b-sortby o b-restaurantstyle
+what hair salons are nearby	o b-businesscategory i-businesscategory o o
+what is the popular place to eat in Navi Mumbai Maharashtra that is gluten free	o o o b-restaurantquality b-restaurantstyle i-restaurantstyle i-restaurantstyle o b-localityname i-localityname i-localityname o o b-restaurantamenity i-restaurantamenity
+the closest bar	o b-sortby b-restaurantstyle
+are there any restaurants that are called Arbor breweing company near here	o o o b-restaurantstyle o o o b-businessname i-businessname i-businessname o o
+show me some good restaurants for Kerala food nearby	o o o o b-restaurantstyle o b-cuisinestyle o o
+look up best Woodlands coat factory stores that are near Attingal kerala	o o b-sortby b-businessname i-businessname i-businessname o o o o b-localityname i-localityname
+the nearest highest rated Lenskart Optics outlet	o b-sortby i-sortby i-sortby b-businessname i-businessname i-businessname
+show me restaurants nearby called The Royal Chef Eatery that are open at 7:50 p.m	o o b-restaurantstyle o o b-businessname i-businessname i-businessname i-businessname o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+are there any restaurants that are called Sugar and Spice that are in Dispur Assam	o o o b-restaurantstyle o o o b-businessname i-businessname i-businessname o o o b-localityname i-localityname
+are there any nice Dmart stores that are in Faridkot Punjab	o o o o b-businessname o o o o b-localityname i-localityname
+are there any good north eastern restaurants in my area	o o o o b-cuisinestyle i-cuisinestyle b-restaurantstyle o o o
+is there a popular italian restaurant nearby that is open on tuesdays	o o o b-restaurantquality b-cuisinestyle b-restaurantstyle o o o b-openhoursdescriptor o b-dayopen
+where can i get my haircut in Calingut beach Goa	o o o o o b-service o b-localityname i-localityname i-localityname
+the highest rated chinese restaurants that are around Dehradun that are gluten free	o b-sortby i-sortby b-cuisinestyle b-restaurantstyle o o o b-localityname o o b-restaurantamenity i-restaurantamenity
+the nearest highly rated restaurants	o b-sortby i-sortby i-sortby b-restaurantstyle
+what is the nearest top rated warehouse café restaurant	o o o b-sortby i-sortby o b-businessname i-businessname b-restaurantstyle
+highest rated restaurants within 4 kms from here that serve vegetarian food and are open at 4:40 a.m on saturday	b-sortby i-sortby b-restaurantstyle o b-distancemagnitude b-distanceunit o o o o b-cuisinestyle o o o b-openhoursdescriptor o b-distancemagnitude i-datetimeexpression i-datetimeexpression i-datetimeexpression
+what are the highest rated maharashtrian restaurants in my area open now	o o o b-sortby i-sortby b-cuisinestyle b-restaurantstyle o o o b-openhoursdescriptor o
+any romantic restaurants for awadhi food in lajpat nagar	o b-restaurantquality b-restaurantstyle o b-cuisinestyle o o b-localityname i-localityname
+what are some highly rated restaurants around garia kolkata that are healthy and open next wednesday	o o o b-sortby i-sortby b-restaurantstyle o b-localityname i-localityname o o b-cuisineattribute o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+list of highest rated makeup stores in sarojini new delhi	o o b-sortby i-sortby b-businessname o o b-localityname i-localityname i-localityname
+tell me a skyline punjabi restaurant near here that is open at 10:20 p.m the day after tomorrow	o o o b-businessname i-businessname b-restaurantstyle o o o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+what is the closest highest rated kashmiri restaurant open at 8:45 a.m the day after tomorrow	o o o b-sortby i-sortby i-sortby b-businessname b-restaurantstyle b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+is Afraa 4th street open on tuesdays	o b-businessname i-businessname i-businessname b-openhoursdescriptor o b-dayopen
+where can i get an air refill near here	o o o o o b-service i-service o o
+what are the closest best rated whole sale stores	o o o b-sortby i-sortby o b-businessname i-businessname o
+is there a restaurant in defence colony Delhi that is called Radha ki Rasoi	o o o b-restaurantstyle o b-localityname i-localityname i-localityname o o o b-businessname i-businessname i-businessname
+what mughlai restaurants are around Jubilee and are open tomorrow	o b-cuisinestyle b-restaurantstyle o o b-localityname o o b-openhoursdescriptor b-datetimeexpression
+where can i go to get my eyebrows threading in osmania south delhi	o o o o o o o b-service i-service o b-localityname i-localityname i-localityname
+is there a restaurant in nehru place that is called Raju's famous recipe chicken that's open on sundays	o o o b-restaurantstyle o b-localityname i-localityname o o o b-businessname i-businessname i-businessname i-businessname o b-openhoursdescriptor o b-dayopen
+what kajal's stores are around new market	o b-businessname o o o b-localityname i-localityname
+get me the closest highly rated biryani restaurants	o o o b-sortby i-sortby i-sortby b-cuisinestyle b-restaurantstyle
+highly rated Bhutanese restaurant around north west bengal that's vegetarian and is open at 3:15 p.m	b-sortby i-sortby b-cuisinestyle b-restaurantstyle o b-localityname i-localityname i-localityname o b-diet o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+the top rated rajasthani restaurant in this area that is Ajmer	o b-sortby o b-cuisinestyle b-restaurantstyle o o o o o b-diet
+what are the top rated ware house stores nearby	o o o b-sortby o b-businessname i-businessname o o
+what is Delhi's most popular punjabi restaurant open at 10:10 a.m	o o b-localityname o b-restaurantquality b-cuisinestyle b-restaurantstyle b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+what is a good northeastern restaurant near here	o o o o b-cuisinestyle b-restaurantstyle o o
+find me nearest restaurant for dakshini food open at 6:10 p.m	o o b-sortby b-restaurantstyle o b-cuisinestyle o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+what are the nearest awadhi restaurants that are open at 7:50 p.m the day after tomorrow	o o o b-sortby b-cuisinestyle b-restaurantstyle o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+list of bihari restaurants that are near here	o o b-cuisinestyle b-restaurantstyle o o o o
+tell me a mega mart restaurant in orange that's open this thursday	o o o b-businessname i-businessname b-restaurantstyle o b-localityname o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+nearest mughlai restaurants open at 5:15 a.m on tuesday	b-sortby b-cuisinestyle b-restaurantstyle b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+the nearest new chinese restaurant that is open at 5:15 a.m today	o b-sortby b-restaurantquality b-cuisinestyle b-restaurantstyle o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression
+tell me if Afraa Deli in Delhi north india is open at 2:40 a.m tomorrow	o o o b-businessname i-businessname o b-localityname i-localityname i-localityname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression
+the top rated place to eat near saltlake kolkata that's vegetarian and open right now	o b-sortby o b-restaurantstyle i-restaurantstyle i-restaurantstyle o b-localityname i-localityname o b-diet o b-openhoursdescriptor o o
+Harrys hours this saturday	b-businessname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+get me closest restaurant for new bengali food that is open at 4:50 p.m	o o b-sortby b-restaurantstyle o b-cuisinestyle i-cuisinestyle o o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+look for best vegetarian rajasthani restaurants in my area open at 12:15 a.m on wednesday	o o b-sortby b-diet b-cuisinestyle b-restaurantstyle o o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+Punjabi restaurants in amritsar punjab that are open on sundays	b-cuisinestyle b-restaurantstyle o b-localityname i-localityname o o b-openhoursdescriptor o b-dayopen
+get a romantic goan restaurant in garden grove Kolva that's open next sunday	o o b-restaurantquality b-cuisinestyle b-restaurantstyle o b-localityname i-localityname i-localityname o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+show me some new restaurants in rohini new delhi called t g i friday	o o o b-restaurantquality b-restaurantstyle o b-localityname i-localityname i-localityname o b-businessname i-businessname i-businessname i-businessname
+what are the closest nice restaurants that serve east indian food open mondays	o o o b-sortby o b-restaurantstyle o o b-cuisinestyle i-cuisinestyle o b-openhoursdescriptor b-dayopen
+what are the closest gluten free vegetarian restaurants that are open at 1:00 p.m the day after tomorrow	o o o b-sortby b-restaurantamenity i-restaurantamenity b-cuisinestyle b-restaurantstyle o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+find the highest rated domino's pizza nearby	o o b-sortby i-sortby b-businessname i-businessname o
+where can i go to get my waxing in navi mumbai	o o o o o o o b-service o b-localityname i-localityname
+what is the highest rated restaurant in andheri west navi mumbai	o o o b-sortby o b-restaurantstyle o b-localityname i-localityname i-localityname i-localityname
+i want to know the opening hours for monkey bar in whitefield	o o o o o b-openhoursdescriptor i-openhoursdescriptor o b-businessname i-businessname o b-localityname
+list a highly rated restaurant in rail road hyderabad that's vegetarian and is open at 12:50 a.m on saturday	o o b-sortby i-sortby b-restaurantstyle o b-localityname i-localityname i-localityname o b-diet o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+find romantic restaurant around lakdi Pull serving andhra food that is open at 6:20 a.m	o b-restaurantquality b-restaurantstyle o b-localityname i-localityname o b-cuisinestyle o o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+i need a healthy dhaba near mehrauli	o o o b-cuisineattribute b-restaurantstyle o b-localityname
+closest highly rated parsi restaurants	b-sortby i-sortby i-sortby b-cuisinestyle b-restaurantstyle
+i need a southeast indian restaurant that is nearby	o o o b-cuisinestyle i-cuisinestyle b-restaurantstyle o o o
+nice international restaurants near 1618 chowronghee road	o b-cuisinestyle b-restaurantstyle o b-streetname i-streetname b-streetsuffix
+list good restaurants named Delhi delights and lazeez nearby	o o b-restaurantstyle o b-businessname i-businessname i-businessname i-businessname o
+is there a restaurant that's near brookfield bangalore called dunkin' donuts	o o o b-restaurantstyle o o b-localityname i-localityname o b-businessname i-businessname
+what italian restaurants are in Kormangala	o b-cuisinestyle b-restaurantstyle o o b-localityname
+get me a highly rated thai restaurant near pimple pune that's healthy	o o o b-sortby i-sortby b-cuisinestyle b-restaurantstyle o b-localityname i-localityname o b-cuisineattribute
+are there any romantic central indian restaurants	o o o b-restaurantquality b-cuisinestyle i-cuisinestyle b-restaurantstyle
+Locate the new pet stores nearby	o o b-restaurantquality b-businesscategory i-businesscategory o
+what are the closest hyderabadi restaurants that are open next sunday	o o o b-sortby b-cuisinestyle b-restaurantstyle o o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+healthy sandwich shops in jabalpur bhopal open this week	b-cuisineattribute b-restaurantstyle i-restaurantstyle o b-localityname i-localityname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+tell me restaurants to eat at in mussoorie dehradun	o o b-restaurantstyle o o o o b-localityname i-localityname
+new nursing school near rohtak	b-restaurantquality b-businesscategory i-businesscategory o b-localityname
+list of highest rated parks that are around church street bangalore	o o b-sortby i-sortby b-businesscategory o o o b-localityname i-localityname i-localityname
+is Croma in avantika Delhi open on fridays	o b-businessname o b-localityname i-localityname b-openhoursdescriptor o b-dayopen
+what's the top rated chinese restaurant in chinatown	o o b-sortby o b-cuisinestyle b-restaurantstyle o b-localityname
+what is the nearest top rated Ruby's restaurant	o o o b-sortby i-sortby o b-businessname b-restaurantstyle
+what are the nearest nepalese restaurants that are open now	o o o b-sortby b-cuisinestyle b-restaurantstyle o o b-openhoursdescriptor o
+what's the closest arabian restaurant that is open tuesdays	o o b-sortby b-businessname b-restaurantstyle o o b-openhoursdescriptor b-dayopen
+are there any romantic middle eastern restaurants in frazer town bangalore that are open at 1:00 p.m next monday	o o o b-restaurantquality b-cuisinestyle i-cuisinestyle b-restaurantstyle o b-localityname i-localityname i-localityname o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+what plumber is in escondido	o b-businesscategory o o b-localityname
+what's the highest rated restaurant that serves eastern indian food in Orissa	o o b-sortby i-sortby b-restaurantstyle o o b-cuisinestyle i-cuisinestyle o o b-localityname
+what is the closest Mehrouli veg restaurant	o o o b-sortby b-diet b-cuisinestyle b-restaurantstyle
+any gluten free radhaswami restaurants that are in udaipur rajasthan	o b-restaurantamenity i-restaurantamenity b-cuisinestyle b-restaurantstyle o o o b-localityname i-localityname
+what are the nearest jain restaurants	o o o b-sortby b-cuisinestyle b-restaurantstyle
+good healthy vegetarian restaurants in this area that are open at 8:45 p.m	o b-cuisineattribute b-cuisinestyle b-restaurantstyle o o o o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+some new restaurants for spicy food in Park Street Kolkata open at 11:50 p.m	o b-restaurantquality b-restaurantstyle o b-cuisinestyle o o b-localityname i-localityname i-localityname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+is there a restaurant called kfc near banjara that's open on fridays	o o o b-restaurantstyle o b-businessname o b-localityname o b-openhoursdescriptor o b-dayopen
+any restaurants called aquatic bay aquarium that are in Lonavala Pune	o b-restaurantstyle o b-businessname i-businessname i-businessname o o o b-localityname i-localityname
+find me most popular restaurants near Mysore karnataka that are vegan	o o o b-restaurantquality b-restaurantstyle o b-localityname i-localityname o o b-diet
+list of Silk Thread outlet stores that are nearby	o o b-businessname i-businessname i-businessname o o o o
+the nearest good bar that's in Koregaon	o b-sortby o b-restaurantstyle o o b-localityname
+what dhabas are near Murthal	o b-restaurantstyle o o b-localityname
+opening hours for Flurry's bakery in Udupi beach	b-openhoursdescriptor i-openhoursdescriptor o b-businessname i-businessname o b-localityname i-localityname
+is there a nice christian restaurant in Goa	o o o o b-cuisinestyle b-restaurantstyle o b-localityname
+find me some good restaurants nearby called Mainland China	o o o o b-restaurantstyle o o b-businessname i-businessname
+find me the highest rated coat factory stores that are in Luckhnow	o o o b-sortby i-sortby b-businessname i-businessname i-businessname o o o b-localityname
+closest restaurants that serve halal food	b-sortby b-restaurantstyle o o b-cuisinestyle o
+see if nanda dairy is open this friday	o o b-businessname i-businessname o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+search for a romantic eastern indian restaurant near Boriwalli Mumbai	o o o b-restaurantquality b-cuisinestyle i-cuisinestyle b-restaurantstyle o b-localityname i-localityname
+show me some new restaurants that are called Truffles near Brigade road	o o o b-restaurantquality b-restaurantstyle o o o b-businessname o b-localityname i-localityname
+what's the closest restaurant called p. f. rings's coffee bistro	o o b-sortby b-restaurantstyle o b-businessname i-businessname i-businessname i-businessname i-businessname
+what's the closest Pantaloons	o o b-sortby b-businessname
+what's the highest rated bangladeshi restaurant in Kolkata	o o b-sortby i-sortby b-cuisinestyle b-restaurantstyle o b-localityname
+nearest restaurants that are meat free and are open at 4:30 a.m	b-sortby b-restaurantstyle o o b-restaurantamenity i-restaurantamenity o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+list of best rated restaurants that serve non-spicy food that are in Jail road Dehradun	o o b-sortby o b-restaurantstyle o o b-cuisinestyle o o o o b-localityname i-localityname i-localityname
+any Sophia's restaurants near here that are open at 1:00 p.m	o b-businessname b-restaurantstyle o o o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+tell me Punjabi Thali's restaurants near Karnal Haryana	o o b-businessname i-businessname b-restaurantstyle o b-localityname i-localityname
+highest rated Papa's pizza in jaipur city that's open at 9:00 a.m tomorrow	b-sortby i-sortby b-businessname i-businessname o b-localityname i-localityname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression
+is there a restaurant nearby that is named Kapoor's Parantha house	o o o b-restaurantstyle o o o o b-businessname i-businessname i-businessname
+search for office stationery stores in Bhopal	o o b-businesscategory i-businesscategory i-businesscategory o b-localityname
+what are the top chinese restaurants that are in avantika that are vegetarian	o o o b-sortby b-cuisinestyle b-restaurantstyle o o o b-localityname o o b-diet
+what are the most popular bars in Bandra open right now	o o o o b-restaurantquality b-restaurantstyle o b-localityname b-openhoursdescriptor o o
+nearest gluten-free tamilian place to eat that is open at 12:10 a.m	b-sortby b-restaurantamenity b-cuisinestyle b-restaurantstyle i-restaurantstyle i-restaurantstyle o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+is there a new restaurant in Polo shillong serving lunch	o o o b-restaurantquality b-restaurantstyle o b-localityname i-localityname o b-mealname
+is there a nice restaurant serving veg food in mawlai that's open at 3:00 p.m on friday	o o o o b-restaurantstyle o b-cuisinestyle o o b-localityname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+tell me a good nail salon that's around Barik	o o o o b-businesscategory i-businesscategory o o b-localityname
+closest restaurant for Bhutanese food open at 1:10 a.m on friday	b-sortby b-restaurantstyle o b-cuisinestyle o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+what's the closest bengali restaurant that's nonvegetarian	o o b-sortby b-cuisinestyle b-restaurantstyle o b-diet
+where can i go to get my manicure in Meerut	o o o o o o o b-service o b-localityname
+what are the highest rated restaurants for radhaswami food that are in rishikesh uttarakhand	o o o b-sortby i-sortby b-restaurantstyle o b-cuisinestyle o o o o b-localityname i-localityname
+i need a lab in Noida	o o o b-businesscategory o b-localityname
+what's a nice non vegetarian restaurant near here that is open right now	o o o b-diet b-cuisinestyle b-restaurantstyle o o o o b-openhoursdescriptor o o
+opening hours of Chai & company	b-openhoursdescriptor i-openhoursdescriptor o b-businessname i-businessname i-businessname
+are there any shrewberry restaurants that are in nasik valley	o o o b-businessname b-restaurantstyle o o o b-localityname i-localityname
+what's restaurant near here and serves indian food	o b-restaurantstyle o o o o b-cuisinestyle o
+look for highest rated Kapoor's restaurant that is in Chandigarh punjab	o o b-sortby i-sortby b-businessname b-restaurantstyle o o o b-localityname i-localityname
+what is the highest rated jain restaurant near jalandhar	o o o b-sortby i-sortby b-cuisinestyle b-restaurantstyle o b-localityname
+what's Grofer's top homegoods store	o b-localityname b-sortby b-businessname o
+what Dmart's stores are in Lava	o b-businessname o o o b-localityname
+i want to know Bread and Grills's hours	o o o o b-businessname i-businessname i-businessname b-openhoursdescriptor
+find me Domino's restaurant in Ratlam that are open right now	o o b-businessname b-restaurantstyle o b-localityname o o b-openhoursdescriptor o o
+what are the closest Mcdonalds'	o o o b-sortby b-businesscategory
+highly rated halal restaurants to eat at nearby that are gluten-free	b-sortby i-sortby b-cuisinestyle b-restaurantstyle o o o o o o b-restaurantamenity
+list some nice barber shops near jhandewalan delhi	o o o b-businesscategory i-businesscategory o b-localityname i-localityname
+what's the highest rated restaurant near gariahaat	o o b-sortby i-sortby b-businessname o b-localityname
+are there any popular restaurants serving bihari food that are nearby	o o o b-restaurantquality b-restaurantstyle o b-cuisinestyle o o o o
+are there any romantic restaurants that serve vegan food in amritsar that are open tuesdays	o o o b-restaurantquality b-restaurantstyle o o b-cuisinestyle o o b-localityname o o b-openhoursdescriptor b-dayopen
+what are the most popular restaurants that are near dharamshala and serve indian food	o o o o b-restaurantquality b-restaurantstyle o o o b-localityname o o b-cuisinestyle o
+get a restaurant for pahadi food near here	o o b-restaurantstyle o b-cuisinestyle o o o
+popular nearby restaurant that's spice-free and is open right now	b-restaurantquality o b-restaurantstyle o b-restaurantamenity o o b-openhoursdescriptor o o
+the top restaurants for mughlai food in kanpur UP that are open next friday	o b-sortby b-restaurantstyle o b-cuisinestyle o o b-localityname i-localityname o o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+list of the best rated restaurants in this area that are saatwik and are open at 10:20 p.m next friday	o o o b-sortby o b-restaurantstyle o o o o o b-cuisineattribute o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+find me closest best rated restaurants	o o b-sortby i-sortby o b-restaurantstyle
+the nearest best rated Raju's Paranthe restaurant that is open at 9:20 a.m on wednesday	o b-sortby i-sortby o b-businessname i-businessname b-restaurantstyle o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+list of some good restaurants in coimbatore that serve food open on sundays	o o o o b-restaurantstyle o b-localityname o o b-cuisinestyle b-openhoursdescriptor o b-dayopen
+what's the closest romantic restaurant serving andhra food open next Thursday	o o b-sortby b-restaurantquality b-restaurantstyle o b-cuisinestyle o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+romantic chinese restaurants near nehru place	b-restaurantquality b-cuisinestyle b-restaurantstyle o b-localityname i-localityname
+show me nearest Baskin and Robin's	o o b-sortby b-businessname i-businessname i-businessname
+tell me the most popular place to eat near here that is vegetarian	o o o o b-restaurantquality b-restaurantstyle i-restaurantstyle i-restaurantstyle o o o o b-cuisineattribute
+what's the top rated Tandoori chicken nearby	o o b-sortby o b-businessname i-businessname o
+the highest rated family shopping stores nearby	o b-sortby i-sortby b-businessname i-businessname o o
+i need a nearby homecentre store	o o o o b-businessname o
+see if family shopping in karol bagh Delhi is open at 4:15 p.m	o o b-businessname i-businessname o b-localityname i-localityname i-localityname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+is Mumbai's best coffee in Andheri West open at 12:20 a.m	o b-businessname i-businessname i-businessname o b-localityname i-localityname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+i need a nice hair salon nearby	o o o o b-businesscategory i-businesscategory o
+nearest cafe open at 2:50 a.m on monday	b-sortby b-restaurantstyle b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+what are DMart's opening hours	o o b-businessname b-openhoursdescriptor i-openhoursdescriptor
+is Munchiesburger in Laitmukhrah open at 7:45 p.m tomorrow	o b-businessname o b-localityname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression
+the highest rated library that is in Kanpur uttar pradesh	o b-sortby i-sortby b-businesscategory o o o b-localityname i-localityname i-localityname
+i need a harry's club in whitefield	o o o b-businessname i-businessname o b-localityname
+is jio mart open fridays	o b-businessname i-businessname b-openhoursdescriptor b-dayopen
+where can i go to get my hair done	o o o o o o o b-service i-service
+some new leather coat factory stores that are near Rithala	o b-restaurantquality b-businessname i-businessname i-businessname o o o o b-localityname
+where can i go to get my manicure nearby	o o o o o o o b-service o
+where can i get my haircut in pitampura delhi	o o o o o b-service o b-localityname i-localityname
+what are Khanna's top rated banquet halls	o o b-localityname b-sortby o b-businesscategory i-businesscategory
+what are the nearest ceremony halls	o o o b-sortby b-businesscategory i-businesscategory
+what are the closest best rated MD's masala stores	o o o b-sortby i-sortby o b-businessname i-businessname o
+any kalyana mantapas close to indira nagar	o b-businesscategory i-businesscategory o o b-localityname i-localityname
+where can i go to get my taxes done in Kolkata	o o o o o o o b-service o o b-localityname
+is there a new banquet near here	o o o b-restaurantquality b-businessname o o
+i want to know kapoor's hours this week	o o o o b-businessname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+list of mark & spencer stores that are around my current location	o o b-businessname i-businessname i-businessname o o o o o o o
+is there a romantic cafe in ambala that is open at 7:45 a.m next wednesday	o o o b-restaurantquality b-restaurantstyle o b-localityname o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+what are spices stores nearby	o o b-businesscategory i-businesscategory o
+what lake garden is near Polo	o b-businesscategory i-businesscategory o o b-localityname
+i need a munchies place to eat near here	o o o b-cuisinestyle b-restaurantstyle i-restaurantstyle i-restaurantstyle o o
+get the best jio mart store nearby	o o b-sortby b-businessname i-businessname o o
+any nice office stationery stores around lakhimpur	o o b-businesscategory i-businesscategory i-businesscategory o b-localityname
+is decathelon open at 5:40 p.m	o b-businessname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+where can i go to get my nails done around Birati	o o o o o o o b-service o o b-localityname
+is there a Mega Mart that's around Barasat	o o o b-businessname i-businessname o o b-localityname
+what are the hours of p. c. chandra on tuesdays	o o o b-openhoursdescriptor o b-businessname i-businessname i-businessname o b-dayopen
+is KK's Chicken open today	o b-businessname i-businessname b-openhoursdescriptor b-datetimeexpression
+is there a highly rated Reliance Fresh that's near renton	o o o b-sortby i-sortby b-businessname i-businessname o o b-localityname
+tell me if India's best coffee in Navina's Chennai is open next tuesday	o o o b-businessname i-businessname i-businessname o b-localityname i-localityname o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+what are home town's top rated showpiece shops	o o b-localityname i-localityname b-sortby o b-restaurantstyle i-restaurantstyle
+look up the closest nice rajasthani places to eat	o o o b-sortby o b-cuisinestyle b-restaurantstyle i-restaurantstyle i-restaurantstyle
+tell me Superdry's opening hours	o o b-businessname b-openhoursdescriptor i-openhoursdescriptor
+what's the nearest top rated Zara	o o b-sortby i-sortby o b-businessname
+is Bata in Ranchi open tuesdays	o b-businessname o b-localityname b-openhoursdescriptor b-dayopen
+the nearest vegetarian dhaba open mondays	o b-sortby b-cuisineattribute b-restaurantstyle b-openhoursdescriptor b-dayopen
+opening hours for Cake Dilam in Navi Mumbai south mumbai this month	b-openhoursdescriptor i-openhoursdescriptor o b-businessname i-businessname o b-localityname i-localityname i-localityname i-localityname b-datetimeexpression i-datetimeexpression
+what are the top rated nearby tandoors open next week	o o o b-sortby o o b-restaurantstyle b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+tell me the closest Jio mart store	o o o b-sortby b-businessname i-businessname o
+where can i go for a tyre change	o o o o o o b-service i-service
+i want to know hometown's opening hours	o o o o b-businessname b-openhoursdescriptor i-openhoursdescriptor
+the highest rated bar in Bareilly UP that's veg and open this saturday	o b-sortby i-sortby b-restaurantstyle o b-localityname i-localityname o b-diet o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+the nearest top rated spencers store	o b-sortby i-sortby o b-businessname o
+where can i get my oil changed in Saharanpur	o o o o o b-service i-service o b-localityname
+the highest rated spices stores near here	o b-sortby i-sortby b-businessname o o o
+i need a nearby vegetarian place to eat	o o o o b-cuisinestyle b-restaurantstyle i-restaurantstyle i-restaurantstyle
+what are karachi bakery's opening hours on mondays	o o b-businessname i-businessname b-openhoursdescriptor i-openhoursdescriptor o b-dayopen
+get the highest rated nursery parks in cuttak	o o b-sortby i-sortby b-businesscategory i-businesscategory o b-localityname
+show a Kochi Kerala library	o o b-localityname i-localityname b-businesscategory
+find me the best family outlet that's near Bikaner	o o o b-sortby b-businessname i-businessname o o b-localityname
+what is the best rated sreeleathers that is in durgapur	o o o b-sortby o b-businessname o o o b-localityname
+find me the top salons that are nearby	o o o b-sortby b-businesscategory o o o
+what is a good punjabi place to eat at in my area	o o o o b-restaurantstyle i-restaurantstyle o o o o o o
+where can i go to get my oil changed nearby	o o o o o o o b-service i-service o
+new shops in this area	b-restaurantquality b-businesscategory o o o
+where can i go for a tyre change	o o o o o o b-service i-service
+tell me if ruby's kitchen in new town is open now	o o o b-businessname i-businessname o b-localityname i-localityname o b-openhoursdescriptor o
+a good salon nearby	o o b-businesscategory o
+find out if pizza hut in gurgaon is open next week	o o o b-businessname i-businessname o b-localityname o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+nykaa's stores that are around aligarh	b-businessname o o o o b-localityname
+what are the hours for m. p. jewellers in raipur on fridays	o o o b-openhoursdescriptor o b-businessname i-businessname i-businessname o b-localityname o b-dayopen
+is Baked Goodies in Bhilai open at 10:10 a.m	o b-businessname i-businessname o b-localityname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+where can i get my manicure in jodhpur	o o o o o b-service o b-localityname
+get nearest romantic chocolate shop that is open next sunday	o b-sortby b-restaurantquality b-restaurantstyle i-restaurantstyle o o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+show me closest sneaker store	o o b-sortby b-businessname o
+what's the closest best rated ollie's momo outlet store	o o b-sortby i-sortby o b-businessname i-businessname i-businessname o
+what salon is nearby	o b-businesscategory o o
+list of best rated nearby Grofer's stores	o o b-sortby o o b-businessname o
+what hair salon is in new market	o b-businesscategory i-businesscategory o o b-localityname i-localityname
+what are the best nearby camel coat factory stores	o o o b-sortby o b-businessname i-businessname i-businessname o
+tell me the hours for Chai Break in Panchgani	o o o b-openhoursdescriptor o b-businessname i-businessname o b-localityname
+get me the closest highest rated family clothes stores	o o o b-sortby i-sortby i-sortby b-businessname i-businessname o
+what rakhi is around independence	o b-restaurantstyle o o b-localityname
+what are the highest rated chocolate stores near here	o o o b-sortby i-sortby b-businessname o o o
+what are some highly rated spice shops around here that are open right now	o o o b-sortby i-sortby b-restaurantstyle i-restaurantstyle o o o o b-openhoursdescriptor o o
+best nearby Dmart	b-sortby o b-businessname
+King burger's hours	b-businessname i-businessname b-openhoursdescriptor
+show me a highly rated nearby salon	o o o b-sortby i-sortby o b-businesscategory
+what's the nearest best rated Rubys that is open at 10:20 a.m the day after tomorrow	o o b-sortby i-sortby o b-businessname o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+any good nearby LPG stores	o o o b-businessname o
+find out if Metro is open on sundays	o o o b-businessname o b-openhoursdescriptor o b-dayopen
+is k. c. jewellers in sai niketan ambala open on sundays	o b-businessname i-businessname i-businessname o b-localityname i-localityname i-localityname b-openhoursdescriptor o b-dayopen
+show me the closest top rated pantaloons	o o o b-sortby i-sortby o b-businessname
+get me highest rated diners to eat at nearby that are nonvegetarian	o o b-sortby i-sortby b-restaurantstyle o o o o o o b-diet
+where can i get a pedicure in kota	o o o o o b-service o b-localityname
+is there a nice nearby Corn Centre	o o o o o b-businessname i-businessname
+list a popular biryani near here that is gluten-free	o o b-restaurantquality b-restaurantstyle o o o o b-restaurantamenity
+look for a romantic cafe near here	o o o b-restaurantquality b-restaurantstyle o o
+get me the nearest top rated vegan milkshake shops	o o o b-sortby i-sortby o b-diet b-restaurantstyle i-restaurantstyle
+get a highly rated bar near south mumbai that's vegan and open at 2:50 a.m	o o b-sortby i-sortby b-restaurantstyle o b-localityname i-localityname o b-diet o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+what are the most popular south indian places to eat near norwalk open at 11:40 p.m this friday	o o o o b-restaurantquality b-diet b-cuisinestyle b-restaurantstyle i-restaurantstyle i-restaurantstyle o b-localityname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+list closest bakery	o b-sortby b-businesscategory
+the opening hours for Grofers	o b-openhoursdescriptor i-openhoursdescriptor o b-businessname
+what is the nearest highest rated Dmart	o o o b-sortby i-sortby i-sortby b-businessname
+what are the closest highly rated barber shops	o o o b-sortby i-sortby i-sortby b-businesscategory i-businesscategory
+search for closest top rated Fresh Dairy store	o o b-sortby i-sortby o b-businessname i-businessname o
+what is the highest rated Kulfi shop in Vasant Kunj Gurgaon that is healthy and open at 3:10 p.m	o o o b-sortby i-sortby b-restaurantstyle i-restaurantstyle o b-localityname i-localityname i-localityname o o b-cuisineattribute o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+get me highest rated places to eat around here	o o b-sortby i-sortby b-restaurantstyle i-restaurantstyle i-restaurantstyle o o
+ramen shop in Sephora Whitefield	b-restaurantstyle i-restaurantstyle o b-localityname i-localityname
+is Chumbak in Mahadevpura open at 10:15 a.m on monday	o b-businessname o b-localityname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+look for some new t.j. jewellery stores near dariyaganj Delhi	o o o b-restaurantquality b-businessname i-businessname o o b-localityname i-localityname
+what time does Bonnie & Clyde's in Meerut Haryana close this monday	o o o b-businessname i-businessname i-businessname o b-localityname i-localityname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+what Truffles fifth road is in Mumbai	o b-businessname i-businessname i-businessname o o b-localityname
+what is the nearest nice healthy dosa place to eat that's open right now	o o o b-sortby o b-cuisineattribute b-cuisinestyle b-restaurantstyle i-restaurantstyle i-restaurantstyle o b-openhoursdescriptor o o
+what's the top Kalamandir's store nearby	o o b-sortby b-businessname o o
+i want to know New Star Bakery's opening hours	o o o o b-businessname i-businessname i-businessname b-openhoursdescriptor i-openhoursdescriptor
+tell me Cult fitness Centre's hours this saturday	o o b-businessname i-businessname i-businessname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+Trinka & Son's opening hours	b-businessname i-businessname i-businessname b-openhoursdescriptor i-openhoursdescriptor
+is there a nice salon near Commercial Street Bangalore	o o o o b-businesscategory o b-localityname i-localityname i-localityname
+what is the highest rated nursing school in Silchar Assam	o o o b-sortby i-sortby b-businesscategory i-businesscategory o b-localityname i-localityname
+where can i get a pedicure in Luckhnow Uttar Pradesh	o o o o o b-service o b-localityname i-localityname i-localityname
+top cafe that is in Pali	b-sortby b-restaurantstyle o o o b-localityname
+show some good gujrati places to eat to eat at in Nadiad Gujrat	o o o b-cuisinestyle b-restaurantstyle i-restaurantstyle i-restaurantstyle o o o o b-localityname i-localityname
+what Berry Bites stores are near Chennai Tamil Nadu	o b-businessname i-businessname o o o b-localityname i-localityname i-localityname
+what are the top hair salons in Mirzapur	o o o b-sortby b-businesscategory i-businesscategory o b-localityname
+what's Barakhamba road's top electronics store	o b-localityname i-localityname b-sortby b-businesscategory i-businesscategory
+what is the nearest nail salon	o o o b-sortby b-businesscategory i-businesscategory
+nearest harbor freight tools stores	b-sortby b-businessname i-businessname i-businessname o
+what office supply store is near here	o b-businesscategory i-businesscategory i-businesscategory o o o
+find the closest highest rated Bata stores	o o b-sortby i-sortby i-sortby b-businessname o
+where can i get a pedicure near Noida UP	o o o o o b-service o b-localityname i-localityname
+Is Lifestyle open fridays	o b-businessname b-openhoursdescriptor b-dayopen
+tell me the hours for taco bites in Karnataka	o o o b-openhoursdescriptor o b-businessname i-businessname o b-localityname
+where can i get my oil changed nearby	o o o o o b-service i-service o
+any new barber shops that are in Yamunanagar Haryana	o b-restaurantquality b-businesscategory i-businesscategory o o o b-localityname i-localityname
+is there a nice Sabyasachi Saree store in Hoggs Market Kolkata	o o o o b-businessname i-businessname i-businessname o b-localityname i-localityname b-localityname
+what are some highly rated Reid & taylor stores in West Bengal	o o o b-sortby i-sortby b-businessname i-businessname i-businessname o o b-localityname i-localityname
+what are the closest top rated Orra stores	o o o b-sortby i-sortby o b-businessname o
+the highest rated nursing school near Lake Town	o b-sortby i-sortby b-businesscategory i-businesscategory o b-localityname i-localityname
+closest best rated Liscious fish	b-sortby i-sortby o b-businessname i-businessname
+check if m. f. antique jewellery House in Raipur is open thursdays	o o b-businessname i-businessname i-businessname i-businessname i-businessname o b-localityname o b-openhoursdescriptor b-dayopen
+find out if Khadims is open this monday	o o o b-businessname o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+what's a romantic Cafe near here that's open at 7:30 p.m on sunday	o o b-restaurantquality b-restaurantstyle o o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+get a good electronics store that's near Secunderabad Telangana	o o o b-businesscategory i-businesscategory o o b-localityname i-localityname
+i need a romantic healthy cafe in Aulli that's open at 6:40 a.m	o o o b-restaurantquality b-cuisineattribute b-restaurantstyle o b-localityname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+the nearest Maggie shop that is gluten-free and open at 9:20 p.m the day after tomorrow	o b-sortby b-restaurantstyle i-restaurantstyle o o b-restaurantamenity o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+what are the best rated parks near Shalimar Garden	o o o b-sortby o b-businesscategory o b-localityname i-localityname
+what are the closest top rated Mochi stores	o o o b-sortby i-sortby o b-businessname o
+get the top rated star market in Barailly that is open mondays	o o b-sortby o b-businessname i-businessname o b-localityname o o b-openhoursdescriptor b-dayopen
+i want to know sam's club's hours	o o o o b-businessname i-businessname b-openhoursdescriptor
+look for the top Reid & taylor stores that are near Karnal Haryana	o o o b-sortby b-businessname i-businessname i-businessname o o o o b-localityname i-localityname
+is there a new nearby Chumbak Retail store	o o o b-restaurantquality o b-businessname i-businessname o
+list of nearby Ashifa Designer Boutique stores	o o o b-businessname i-businessname i-businessname o
+what are Starbuck's highest rated cafes open at 6:15 p.m this monday	o o b-localityname b-sortby i-sortby b-restaurantstyle b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+i need a nearby Monginis's	o o o o b-businessname
+what are the nearest best rated mechanics	o o o b-sortby i-sortby o b-businesscategory
+where can i get a manicure in Rajajinagar	o o o o o b-service o b-localityname
+opening hours for Roy Brothers in Mald this monday	b-openhoursdescriptor i-openhoursdescriptor o b-businessname i-businessname o b-localityname b-datetimeexpression i-datetimeexpression
+what's Ranikhet Uttar Pradesh's top rated woolen coat factory store	o b-localityname i-localityname i-localityname b-sortby o b-businessname i-businessname i-businessname o
+what are the top rated roses stores that are in Parvati valley Himachal	o o o b-sortby o b-businessname o o o o b-localityname i-localityname i-localityname
+where can i get a pedicure	o o o o o b-service
+tell me if Lime's Cafe & Cookies in Domlur is open now	o o o b-businessname i-businessname i-businessname i-businessname o b-localityname o b-openhoursdescriptor o
+what is Marine Drive Mumbai's top community centre	o o b-localityname i-localityname i-localityname b-sortby b-businesscategory i-businesscategory
+list of nearby hometown stores	o o o b-businessname o
+best rated nearby Vishal stores	b-sortby o o b-businessname o
+a good nearby bar that's open next tuesday	o o o b-restaurantstyle o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+what time is Nike in Barasat Kolkata open next tuesday	o o o b-businessname o b-localityname i-localityname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+is King's burger in Ajmer open next sunday	o b-businessname i-businessname o b-localityname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+show the nearest top rated Ruby's that is open this week	o o b-sortby i-sortby o b-businessname o o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+is Roy and Trivedi's in Garia Kolkata open at 5:15 p.m	o b-businessname i-businessname i-businessname o b-localityname i-localityname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+find a highly rated nursery park in Panvel Maharashtra	o o b-sortby i-sortby b-businesscategory i-businesscategory o b-localityname i-localityname
+what are Lajpat Nagar Kanpur's best rated parks	o o b-localityname i-localityname i-localityname b-sortby o b-businesscategory
+look for ruby's in Mawlai that is open now	o o b-businessname o b-localityname o o b-openhoursdescriptor o
+tell me if Someplace Else's in Ahmedabad Gujrat is open at 11:00 p.m the day after tomorrow	o o o b-businessname i-businessname o b-localityname i-localityname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+check if Five star Chicken & Grills is open at 9:00 p.m	o o b-businessname i-businessname i-businessname i-businessname i-businessname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+when does Alpha Momos in Pune Maharashtra open this thursday	o o b-businessname i-businessname o b-localityname i-localityname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+what are the closest best rated Nykaa stores	o o o b-sortby i-sortby o b-businessname o
+tell me the opening hours for Fabindia in Phoenix Mall Mahadevpura on thursdays	o o o b-openhoursdescriptor i-openhoursdescriptor o b-businessname o b-localityname i-localityname b-localityname o b-dayopen
+is there a good momo shop nearby that's healthy	o o o o b-restaurantstyle i-restaurantstyle o o b-cuisineattribute
+is there a new lakme store that's nearby	o o o b-restaurantquality b-businessname o o o
+search for the highest rated barber shop that's near Pimple Saudagaar Pune	o o o b-sortby i-sortby b-businesscategory i-businesscategory o o b-localityname i-localityname i-localityname
+where can i get a haircut nearby	o o o o o b-service o
+tell me the opening hours for Hole Lotta Love this monday	o o o b-openhoursdescriptor i-openhoursdescriptor o b-businessname i-businessname i-businessname b-datetimeexpression i-datetimeexpression
+look up a good nearby hair salon	o o o o o b-businesscategory i-businesscategory
+show me the best Martin's Beer shack that is in Kolva Goa	o o o b-sortby b-businessname i-businessname i-businessname o o o b-localityname i-localityname
+what is the nearest car mechanic	o o o b-sortby o b-businesscategory
+list good places to eat near here called ruby's that are open at 6:10 p.m on sunday	o o b-restaurantstyle i-restaurantstyle i-restaurantstyle o o o b-businessname o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+what highly rated nail salons are near Sainik Vihar	o b-sortby i-sortby b-businesscategory i-businesscategory o o b-localityname i-localityname
+where can i go to get my taxes done in Bhilai	o o o o o o o b-service o o b-localityname
+list nearest best rated Inglot's stores	o b-sortby i-sortby o b-businessname o
+what's the closest top rated chicken corner open now	o o b-sortby i-sortby o b-businessname i-businessname b-openhoursdescriptor o
+look up good plumber near here	o o o b-businesscategory o o
+tell me the best mechanic in new Lavelle Road Madhya Pradesh	o o o b-sortby b-businesscategory o b-localityname i-localityname i-localityname i-localityname i-localityname
+what time does Mamacita in Kormangala open this week	o o o b-businessname o b-localityname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+what's the Bata that is in Jabalpur	o o b-businessname o o o b-localityname
+tell me the opening hours of Kabab Mandra Grill in Brookfield Bangalore on sundays	o o o b-openhoursdescriptor i-openhoursdescriptor o b-businessname i-businessname i-businessname o b-localityname i-localityname o b-dayopen
+top coffee shop in Auroville Pondicherry that's gluten-free and open on sundays	b-sortby b-restaurantstyle i-restaurantstyle o b-localityname i-localityname o b-restaurantamenity o b-openhoursdescriptor o b-dayopen
+what are the nearest best rated Innisfree stores	o o o b-sortby i-sortby o b-businessname o
+i want to know Five Star Chicken wings's hours next saturday	o o o o b-businessname i-businessname i-businessname i-businessname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+the closest highest rated Vilvah's stores	o b-sortby i-sortby i-sortby b-businessname o
+good joshimath vegetarian radhaswami place to eat	o b-localityname i-localityname b-cuisinestyle b-restaurantstyle i-restaurantstyle i-restaurantstyle
+what are Seunderabad Hyderabad's best book stores	o o b-localityname i-localityname b-sortby b-businesscategory i-businesscategory
+what's the popular diner near Vaishali open this saturday	o o b-restaurantquality b-restaurantstyle o b-localityname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+any highly rated salons that are nearby	o b-sortby i-sortby b-businesscategory o o o
+a new diner near here	o b-restaurantquality b-restaurantstyle o o
+i want to know the hours for kfc for tuesdays	o o o o o b-openhoursdescriptor o b-businessname o b-dayopen
+tell me a romantic place to eat that's nearby	o o o b-restaurantquality b-restaurantstyle i-restaurantstyle i-restaurantstyle o o
+list of the best rated nearby libraries	o o o b-sortby o o b-businesscategory
+new libraries in Mughal Sarai	b-restaurantquality b-businesscategory o b-localityname i-localityname
+what's the popular indian place to eat in Nainital that's open at 5:45 p.m this monday	o o b-restaurantquality b-cuisinestyle b-restaurantstyle i-restaurantstyle i-restaurantstyle o b-localityname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+what are Indore Madhya Pradesh's best rated mobile phone stores	o o b-localityname i-localityname i-localityname b-sortby o b-businesscategory i-businesscategory i-businesscategory
+look up Desivibes that's near here	o o b-businessname o o o
+the highest rated libraries that are in Surat	o b-sortby i-sortby b-businesscategory o o o b-localityname
+closest hair salons	b-sortby b-businesscategory i-businesscategory
+chicken in Arambagh's hours on fridays	b-businessname i-businessname i-businessname b-openhoursdescriptor o b-dayopen
+look for top rated Kebabs in Andhra Pradesh open at 11:15 a.m	o o b-sortby o b-businessname o b-localityname i-localityname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+is there a nice diner to eat at in Jaipur Rajasthan	o o o o b-restaurantstyle o o o o b-localityname i-localityname
+get me a new sandwich shop near Pimpri Chinchwad Maharashtra that is open right now	o o o b-restaurantquality b-restaurantstyle i-restaurantstyle o b-localityname i-localityname i-localityname o o b-openhoursdescriptor o o
+what is the nearest best rated Paradise that is open next Wednesday	o o o b-sortby i-sortby o b-businessname o o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+what is the best bar in nagpur maharashtra that is open at 9:50 p.m on friday	o o o b-sortby b-restaurantstyle o b-localityname i-localityname o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+what Tupperware is near patna bihar	o b-businessname o o b-localityname i-localityname
+the nearest community centre	o b-sortby b-businesscategory i-businesscategory
+list of the highest rated nearby hometown stores	o o o b-sortby i-sortby o b-businessname o
+what time is conservatory of flowers in Bhopal open this weekend	o o o b-businessname i-businessname i-businessname o b-localityname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+find me top Faux-fur coat factory stores near Vishakhapatnam Andhra Pradesh	o o b-sortby b-businessname i-businessname i-businessname o o b-localityname i-localityname i-localityname
+find out if brooks and bond brewery in Thane is open right now	o o o b-businessname i-businessname i-businessname i-businessname o b-localityname o b-openhoursdescriptor o o
+what's the best Wow Momos within 18 miles	o o b-sortby b-businessname i-businessname o b-distancemagnitude b-distanceunit
+list of new coffee shops around Ghaziabad that are healthy and are open at 1:15 a.m	o o b-restaurantquality b-restaurantstyle i-restaurantstyle o b-localityname o o b-cuisineattribute o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+what mechanics are in Ranchi Jharkhand	o b-businesscategory o o b-localityname i-localityname
+the nearest highest rated healthy breweries	o b-sortby i-sortby i-sortby b-cuisineattribute b-restaurantstyle
+where can i get my eyebrows threaded in Vadodara Gujrat	o o o o o b-service i-service o b-localityname i-localityname
+list of top Hawkins stores in Uttar Pradesh	o o b-sortby b-businessname o o b-localityname i-localityname
+look up some highly rated nearby parks	o o o b-sortby i-sortby o b-businesscategory
+tell me the hours of homeshop18 in Faridabad Haryana this wednesday	o o o b-openhoursdescriptor o b-businessname o b-localityname i-localityname b-datetimeexpression i-datetimeexpression
+search for closest gluten-free burger shop that is open at 1:40 a.m next sunday	o o b-sortby b-restaurantamenity b-restaurantstyle i-restaurantstyle o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+what's the mcdonald's near Ludhiyana that's open on fridays	o o b-businessname o b-localityname o b-openhoursdescriptor o b-dayopen
+is Prestige in Agra Uttar Pradesh open fridays	o b-businessname o b-localityname i-localityname i-localityname b-openhoursdescriptor b-dayopen
+what's the top rated Chulha Chawki Da Dhaba nearby	o o b-sortby o b-businessname i-businessname i-businessname i-businessname o
+closest best rated M. P. Jewellery Store	b-sortby i-sortby o b-businessname i-businessname i-businessname o
+show me a nice nearby Pigeon's store	o o o o o b-businessname o
+i need a nearby nursing school	o o o o b-businesscategory i-businesscategory
+list of Pixie Dust stores that are nearby	o o b-businessname i-businessname o o o o
+i need a Dmart nearby	o o o b-businessname o
+list of the top Chicken shops near my location	o o o b-sortby b-restaurantstyle i-restaurantstyle o o o
+where can i get my eyebrows threaded around here	o o o o o b-service i-service o o
+is Dine'o China open at 7:50 p.m	o b-businessname i-businessname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+what is the nearest nice book store	o o o b-sortby o b-businesscategory i-businesscategory
+tell me new book stores near 1234 Rajkot Gujrat	o o b-restaurantquality b-businesscategory i-businesscategory o b-streetname i-streetname b-streetsuffix
+is Bambino in Dhanbad Jharkhand open saturdays	o b-businessname o b-localityname i-localityname b-openhoursdescriptor b-dayopen
+Suncity Cimema's hours on fridays	b-businessname i-businessname b-openhoursdescriptor o b-dayopen
+is there a nice mechanic that is nearby	o o o o b-businesscategory o o o
+any highly rated Coffee stores around Raipur Chattisgarh	o b-sortby i-sortby b-businessname o o b-localityname i-localityname
+what's top rated barber shop	o b-sortby i-sortby b-businesscategory i-businesscategory
+what flower shops are around Mangalore beach	o b-businesscategory i-businesscategory o o b-localityname i-localityname
+what are the hours for Humming Tree on tuesdays	o o o b-openhoursdescriptor o b-businessname i-businessname o b-dayopen
+what are the closest community halls	o o o b-sortby b-businesscategory i-businesscategory
+what are the closest top rated Croma electronic stores	o o o b-sortby i-sortby o b-businessname i-businessname o
+what are Canara bank's hours	o o b-businessname i-businessname b-openhoursdescriptor
+where can i get my nails done done in Solapur Maharashtra	o o o o o b-service i-service o o b-localityname i-localityname
+show best barber shop that's in mysore karnataka	o b-sortby b-businesscategory i-businesscategory o o b-localityname i-localityname
+tell me Red hot chili's opening hours	o o b-businessname i-businessname i-businessname b-openhoursdescriptor i-openhoursdescriptor
+what are the closest nursing school	o o o b-sortby b-businesscategory i-businesscategory
+look for the closest salon	o o o b-sortby b-businesscategory
+what's the nearest hair salon	o o b-sortby b-businesscategory i-businesscategory
+what mechanics are in Anjuna beach	o b-businesscategory o o b-localityname i-localityname
+healthy diner to eat at in Debgarh	b-cuisineattribute b-restaurantstyle o o o o b-localityname
+show me closest Matinee that is open at 7:20 a.m	o o b-sortby b-businessname o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+look up the highest rated Paneer-tikka shops in irving	o o o b-sortby i-sortby b-restaurantstyle i-restaurantstyle o b-localityname
+find me top rated Myntra in Buxar	o o b-sortby o b-businessname o b-localityname
+are there any Nursery parks around Begumpet Hyderabad	o o o b-businesscategory i-businesscategory o b-localityname i-localityname
+is ruby's in orissa open this tuesday	o b-businessname o b-localityname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+what is Chapadali Barasat's best nursing school	o o b-localityname i-localityname b-sortby b-businesscategory i-businesscategory
+good Parantha shop in Chandani that is gluten free and open next tuesday	o b-restaurantstyle i-restaurantstyle o b-localityname o o b-restaurantamenity i-restaurantamenity o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+list of the best renys stores that are around salinas	o o o b-sortby b-businessname o o o o b-localityname
+what is manchester new hampshire's best walmart store	o o b-localityname i-localityname i-localityname b-sortby b-businessname o
+what's the closest highest rated cuban place to eat	o o b-sortby i-sortby i-sortby b-cuisinestyle b-restaurantstyle i-restaurantstyle i-restaurantstyle
+what are the closest libraries	o o o b-sortby b-businesscategory
+what is the nearest top rated white castle open now	o o o b-sortby i-sortby o b-businessname i-businessname b-openhoursdescriptor o
+where can i get my nails done	o o o o o b-service i-service
+are there any good family dollar stores nearby	o o o o b-businessname i-businessname o o
+what are ruth's chris steakhouse's hours	o o b-businessname i-businessname i-businessname b-openhoursdescriptor
+is j. c. penney in davenport iowa open at 10:30 a.m on friday	o b-businessname i-businessname i-businessname o b-localityname i-localityname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+where can i get my nails done done near here	o o o o o b-service i-service o o o
+find out if Papa's pizza and spaghetti in Jalandhar is open on tuesdays	o o o b-businessname i-businessname i-businessname i-businessname o b-localityname o b-openhoursdescriptor o b-dayopen
+what are the highest rated Darjeeling tea stores nearby	o o o b-sortby i-sortby b-businessname i-businessname o o
+what time is Munchies in d.c. open on sundays	o o o b-businessname o b-localityname b-openhoursdescriptor o b-dayopen
+what are some highly rated electronics stores nearby	o o o b-sortby i-sortby b-businesscategory i-businesscategory o
+the closest top rated chai express	o b-sortby i-sortby o b-businessname i-businessname
+look for new vegetarian gujrati places to eat that are in Alwal	o o b-restaurantquality b-diet b-cuisinestyle b-restaurantstyle i-restaurantstyle i-restaurantstyle o o o b-localityname
+the top rated cafes in my area that is gluten-free and is open this tuesday	o b-sortby o b-restaurantstyle o o o o o b-restaurantamenity o o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+i need a good naga restaurant in Guwahati	o o o o b-cuisinestyle b-restaurantstyle o b-localityname
+the highest rated restaurant called Monkey Bar in Hasur road	o b-sortby i-sortby b-restaurantstyle o b-businessname i-businessname o b-localityname i-localityname
+get popular vegan Jain restaurants in Solapur open at 4:15 p.m on friday	o b-restaurantquality b-diet b-cuisinestyle b-restaurantstyle o b-localityname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+closest cafe that's vegan and is open at 8:10 a.m this saturday	b-sortby b-restaurantstyle o b-diet o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+check if Lifestyle in Warangal Telangana is open at 6:45 p.m	o o b-businessname o b-localityname i-localityname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+is there a new plumber that is nearby	o o o b-restaurantquality b-businesscategory o o o
+what are Amul's Ice Cream Parlours near Salem	o o b-businessname i-businessname i-businessname o o b-localityname
+what are the most popular tribal restaurants in Jhargram open right now	o o o o b-restaurantquality b-cuisinestyle b-restaurantstyle o b-localityname b-openhoursdescriptor o o
+what's the nearest restaurant serving Khasi food	o o b-sortby b-restaurantstyle o b-diet o
+what are some highly rated pantaloon stores in my area	o o o b-sortby i-sortby b-businessname o o o o
+tell me best restaurants that are around Chandigarh Punjab that are called Ruby's Kitchen	o o b-sortby b-restaurantstyle o o o b-localityname i-localityname o o o b-businessname i-businessname
+look for highest rated chinese restaurant nearby	o o b-sortby i-sortby b-cuisinestyle b-restaurantstyle o
+new Awadhi restaurants in Awadh	b-restaurantquality b-cuisinestyle b-restaurantstyle o b-localityname
+what are the nearest hair salons	o o o b-sortby b-businesscategory i-businesscategory
+search for barber shops nearby	o o b-businesscategory i-businesscategory o
+find me Highdesign in Warangal	o o b-businessname o b-localityname
+the nearest pet stores	o b-sortby b-businesscategory i-businesscategory
+the nearest Apple and Orange Plantations that's open tomorrow	o b-sortby b-businessname i-businessname i-businessname i-businessname o b-openhoursdescriptor b-datetimeexpression
+what are Bier Craft's opening hours	o o b-businessname i-businessname b-openhoursdescriptor i-openhoursdescriptor
+the nearest most popular place to eat serving non vegetarian food open at 4:40 p.m	o b-sortby o b-restaurantquality b-restaurantstyle i-restaurantstyle i-restaurantstyle o b-cuisinestyle i-cuisinestyle o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+what are the top plumbers in this area	o o o b-sortby b-businesscategory o o o
+what's the nearest highest rated homeshop store	o o b-sortby i-sortby i-sortby b-businessname o
+get new nearby Nail Art stores	o b-restaurantquality o b-businessname i-businessname o
+when does K.K. Enterprise in Bhiwandi Maharashtra open on thursdays	o o b-businessname i-businessname o b-localityname b-localityname b-openhoursdescriptor o b-dayopen
+nearest nice wanton shops	b-sortby o b-restaurantstyle i-restaurantstyle
+what are Bikaner Rajasthan's popular Indian restaurants open at 8:20 a.m	o o b-localityname i-localityname b-restaurantquality b-cuisinestyle b-restaurantstyle b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+is there a highly rated nearby place to eat	o o o b-sortby i-sortby o b-restaurantstyle i-restaurantstyle i-restaurantstyle
+closest romantic restaurants that are healthy	b-sortby b-restaurantquality b-restaurantstyle o o b-cuisineattribute
+show highest rated hyderabadi restaurant near Karol Bagh	o b-sortby i-sortby b-cuisinestyle b-restaurantstyle o b-localityname i-localityname
+what is the nearest nice Arabian restaurant	o o o b-sortby o b-cuisinestyle b-restaurantstyle
+find me popular restaurants around here that are called burger king	o o b-restaurantquality b-restaurantstyle o o o o o b-businessname i-businessname
+what's the best rated bar to eat at near Sarjapur	o o b-sortby o b-restaurantstyle o o o o b-localityname
+get nearest good restaurant that serves thai food	o b-sortby o b-restaurantstyle o o b-cuisinestyle o
+search for the top rated Punjabi restaurant in Chandni Chawk New Delhi that is open at 4:10 a.m	o o o b-sortby o b-businessname b-restaurantstyle o b-localityname i-localityname i-localityname i-localityname o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+are there any restaurants around Nice Road that serve Gourmet food that are open at 4:00 a.m	o o o b-restaurantstyle o b-localityname i-localityname o o b-cuisinestyle o o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+what are the top rated Sushi restaurants that are near Bandra	o o o b-sortby o b-cuisinestyle b-restaurantstyle o o o b-localityname
+what hometown store is near here	o b-businessname o o o o
+is there a star market restaurant in this area that is open at 3:20 p.m	o o o b-businessname i-businessname b-restaurantstyle o o o o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+nearest restaurants for traditional food	b-sortby b-restaurantstyle o b-cuisinestyle o
+are there any new restaurants near Jhansi serving Awadhi food open on sundays	o o o b-restaurantquality b-restaurantstyle o b-localityname o b-cuisinestyle o b-openhoursdescriptor o b-dayopen
+are there any new fusion restaurants in Ooty	o o o b-cuisinestyle i-cuisinestyle b-restaurantstyle o b-localityname
+tell me restaurants named Kattappas Kitchen on Airport Road	o o b-restaurantstyle o b-businessname i-businessname o b-localityname i-localityname
+is there a highly rated restaurant for Manglorean food in Devassandra Bangalore that is open at 11:00 a.m	o o o b-sortby i-sortby b-restaurantstyle o b-cuisinestyle o o b-localityname i-localityname o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+what are the highest rated restaurants that are near Katra Jammu and serve Andhra food	o o o b-sortby i-sortby b-restaurantstyle o o o b-localityname i-localityname o o b-cuisinestyle o
+list the closest the pizza company	o o b-sortby b-businessname i-businessname i-businessname
+what's Orchid gardens Badapani's top Resort	o b-localityname i-localityname i-localityname b-sortby b-businesscategory
+what are the top Max mart Outlets near Belgaum Karnataka	o o o b-sortby b-businessname i-businessname o o b-localityname i-localityname
+is there a popular Rajasthani restaurant in Udaipur	o o o b-restaurantquality b-cuisinestyle b-restaurantstyle o b-localityname
+show me Crossword book stores that are in Dhanbad Jharkhand	o o b-businessname i-businessname o o o o b-localityname i-localityname
+i need an english breakfast that is near St. Zaviers	o o o b-cuisinestyle b-restaurantstyle o o o b-localityname i-localityname
+where can i get a haircut in Aulli Himachal	o o o o o b-service o b-localityname i-localityname
+find me a dhaba around here that's healthy	o o o b-restaurantstyle o o o b-cuisineattribute
+what are the opening hours of Black Pearl in Salua Rajarhat	o o o b-openhoursdescriptor i-openhoursdescriptor o b-businessname i-businessname o b-localityname i-localityname
+list top rated book stores in Kolkata	o b-sortby o b-businesscategory i-businesscategory o b-localityname
+where can i get a massage near Vaishali	o o o o o b-service o b-localityname
+what's the nearest good book store	o o b-sortby o b-businesscategory i-businesscategory
+what ar Ulsoor's highest rated garden centres	o o b-localityname b-sortby i-sortby b-businesscategory i-businesscategory
+where can i go for a massage around Jodhpur Rajasthan	o o o o o o b-service o b-localityname i-localityname
+find me a highly rated cell phone store that's near Lokmanya Tilak road	o o o b-sortby i-sortby b-businesscategory i-businesscategory i-businesscategory o o b-streetname i-streetname b-streetsuffix
+i want to know the hours of Dmart	o o o o o b-openhoursdescriptor o b-businessname
+what's the nearest Tandoors	o o b-sortby b-businessname
+what are the best rated Haldirams stores that are around Newtown Rajarhat	o o o b-sortby o b-businessname o o o o b-localityname i-localityname
+where can i go to get my taxes done nearby	o o o o o o o b-service o o
+where can i go to get my nails done	o o o o o o o b-service i-service
+what are the hours for on the Hamleys	o o o b-openhoursdescriptor o b-businessname i-businessname i-businessname
+find me nearest top rated breweries	o o b-sortby i-sortby o b-businessname
+is Superdry open on saturdays	o b-businessname b-openhoursdescriptor o b-dayopen
+what hair salons are in Ajmeri Gate Rohtak	o b-businesscategory i-businesscategory o o b-localityname i-localityname i-localityname
+where can i get my manicure	o o o o o b-service
+list of the highest rated parks in Navi Mumbai Maharashtra	o o o b-sortby i-sortby b-businesscategory o b-localityname i-localityname i-localityname
+what are the top rated Kathyawad stores in Secunderabad	o o o b-sortby o b-businessname o o b-localityname
+is there a good nearby Keys Hotels and Spa	o o o o o b-businessname i-businessname i-businessname i-businessname
+the highest rated coffee shops in Budangiri valley chikmagalur	o b-sortby i-sortby b-restaurantstyle i-restaurantstyle o b-localityname i-localityname i-localityname
+what is the popular brewery in Kota Rajasthan that's vegetarian	o o o b-restaurantquality b-restaurantstyle o b-localityname i-localityname o b-diet
+tell me Happyhomes's hours on tuesdays	o o b-businessname b-openhoursdescriptor o b-dayopen
+is Kalimata Vastralaya open fridays	o b-businessname i-businessname b-openhoursdescriptor b-dayopen
+see if Inc.5 is open on sundays	o o b-businessname o b-openhoursdescriptor o b-dayopen
+what are the closest plumbers	o o o b-sortby b-businesscategory
+tell me the opening hours for Oakwoods in Kadubeesanahalli Bangalore	o o o b-openhoursdescriptor i-openhoursdescriptor o b-businessname o b-localityname i-localityname
+what's the closest highest rated Big Bazaar	o o b-sortby i-sortby i-sortby b-businessname i-businessname
+tell me if Crossword is open at 3:45 p.m	o o o b-businessname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+is MTV open this tuesday	o b-businessname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+look for Olys in Raipur Sonarpur Kolkata	o o b-businessname o b-localityname i-localityname i-localityname
+show parks around Latur Maharashtra	o b-businesscategory o b-localityname i-localityname
+nearest highly rated barber shops	b-sortby i-sortby i-sortby b-businesscategory i-businesscategory
+where can i go for a pedicure in VIP Road	o o o o o o b-service o b-localityname i-localityname
+tell me if Oven Story's pizza is open this sunday	o o o b-businessname i-businessname i-businessname o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+is Karim's open now	o b-businessname b-openhoursdescriptor o
+what are Korba Chattisgarh's best office supply stores	o o b-localityname i-localityname b-sortby b-businesscategory i-businesscategory i-businesscategory
+is Room in the Dark is open at 5:10 p.m	o b-businessname i-businessname i-businessname i-businessname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+find highest rated Dmart that's near Vadodara	o b-sortby i-sortby b-businessname o o b-localityname
+tell me Lipton's hours	o o b-businessname b-openhoursdescriptor
+search for the highest rated Big Bazaar near Maal Road Shimla open next tuesday	o o o b-sortby i-sortby b-businessname i-businessname o b-localityname i-localityname i-localityname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+what are the nearest highly rated Vadapav shops	o o o b-sortby i-sortby i-sortby b-restaurantstyle i-restaurantstyle
+what are Blue Nile's opening hours	o o b-businessname i-businessname b-openhoursdescriptor i-openhoursdescriptor
+the nearest best rated Gastro Pub	o b-sortby i-sortby o b-businessname i-businessname
+what are the closest highest rated Indian Silk Houses	o o o b-sortby i-sortby i-sortby b-businessname i-businessname o
+is Malabar Saree Galaria open at 3:00 a.m on Wednesday	o b-businessname i-businessname i-businessname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+what is the closest best rated Erricson store	o o o b-sortby i-sortby o b-businessname o
+what Reliance Digital stores are in Empire Road Hyderabad	o b-businessname i-businessname o o o b-localityname i-localityname i-localityname
+what's Bhilwara's highest rated plumber	o b-localityname b-sortby i-sortby b-businesscategory
+what Raymond shops are in Gopalpur West Bengal and are open at 11:15 p.m	o b-restaurantstyle i-restaurantstyle o o b-localityname i-localityname i-localityname o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+list of the highest rated nearby Sangeetha Electronic stores	o o o b-sortby i-sortby o b-businessname i-businessname o
+look for the best rated nail salon in Ahmedabad Gujrat	o o o b-sortby o b-businesscategory i-businesscategory o b-localityname i-localityname
+what's the closest highest rated Soda Bottle Openerwala Cafe that is open at 4:40 p.m	o o b-sortby i-sortby i-sortby b-businessname i-businessname i-businessname i-businessname o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+what is a new Vodafone store that is aroun Marine Drive	o o o b-restaurantquality b-businessname o o o o b-streetname b-streetsuffix
+any barber shops nearby	o b-businesscategory i-businesscategory o
+Dmart stores nearby	b-businessname o o
+what is the closest nice book store	o o o b-sortby o b-businesscategory i-businesscategory
+search for nearest noodles shop that's vegetarian and open on tuesdays	o o b-sortby b-restaurantstyle i-restaurantstyle o b-diet o b-openhoursdescriptor o b-dayopen
+look for best nearby mechanics	o o b-sortby o b-businesscategory
+what's bar within 15 kilometres of me that is gluten free	o b-restaurantstyle o b-distancemagnitude b-distanceunit o o o o b-restaurantamenity i-restaurantamenity
+what's the highest rated Chole-Bhature shop in Sagar in madhya Pradesh that is vegetarian and open fridays	o o b-sortby i-sortby b-restaurantstyle i-restaurantstyle o b-localityname o b-localityname i-localityname o o b-diet o b-openhoursdescriptor b-dayopen
+what nail salons are nearby	o b-businesscategory i-businesscategory o o
+what's the top rated High Street outlet store that's near merkley street	o o b-sortby o b-businessname i-businessname i-businessname o o o b-streetname b-streetsuffix
+where can i go for a pedicure in Loknathpur Jhargram	o o o o o o b-service o b-localityname i-localityname
+Hotel Blue Moon resorts hours today	b-businessname i-businessname i-businessname i-businessname b-openhoursdescriptor b-datetimeexpression
+what are some nice Dmart stores around Kochi Kerala	o o o o b-businessname o o b-localityname i-localityname
+what renys store is around memphis tennessee	o b-businessname o o o b-localityname i-localityname
+where can i get my taxes done around Kozhikode Kerala	o o o o o b-service o o b-localityname i-localityname
+is Sadaabs in Secunderabad open now	o b-businessname o b-localityname b-openhoursdescriptor o
+where can i get a manicure in sonarpur	o o o o o b-service o b-localityname
+find out if Belgian waffle is open now	o o o b-businessname i-businessname o b-openhoursdescriptor o
+any nearby Grocery stores	o o b-businessname o
+when is Senco Gold Jewellers in Haritala Barasat open on thursdays	o o b-businessname i-businessname i-businessname o b-localityname i-localityname b-openhoursdescriptor o b-dayopen
+what Nike Shoe stores are near here	o b-businessname i-businessname o o o o
+what salons are in Model Town	o b-businesscategory o o b-localityname i-localityname
+check if Opera House in Sarojini Nagar Market is open at 7:10 p.m	o o b-businessname i-businessname o b-localityname i-localityname i-localityname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+what's the highest rated KFCs nearby	o o b-sortby i-sortby b-businessname o
+closest vegetarian coffee shops	b-sortby b-diet b-restaurantstyle i-restaurantstyle
+tell me the opening hours for CCD	o o o b-openhoursdescriptor i-openhoursdescriptor o b-businessname
+Flurry's Bakery's hours	b-businessname i-businessname b-openhoursdescriptor
+tell me JioMart's opening hours	o o b-businessname b-openhoursdescriptor i-openhoursdescriptor
+the most popular bar nearby	o o b-restaurantquality b-restaurantstyle o
+i need a highly rated nail salon that's near Whitefield	o o o b-sortby i-sortby b-businesscategory i-businesscategory o o b-localityname
+the Kritungas in Marathahalli open this wednesday	o b-businessname o b-localityname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+search for a good nearby Kathyawad store	o o o o o b-businessname o
+are there any nearby Nykaa Luxe stores	o o o o b-businessname i-businessname o
+find me a romantic coffee shop around Nainital that's gluten-free and is open on thursdays	o o o b-restaurantquality b-restaurantstyle i-restaurantstyle o b-localityname o b-restaurantamenity o o b-openhoursdescriptor o b-dayopen
+is Dmart in Bhagalpur Bihar open at 2:10 a.m	o b-businessname o b-localityname i-localityname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+list of highest rated bars around Lajpat Nagar Delhi that are gluten free and open now	o o b-sortby i-sortby b-restaurantstyle o b-streetname i-streetname b-streetsuffix o o b-restaurantamenity i-restaurantamenity o b-openhoursdescriptor o
+the highest rated Hole in the Wall in Kollam Kerala	o b-sortby i-sortby b-businessname i-businessname i-businessname i-businessname o b-localityname i-localityname
+is there a nearby Lenskart Lens store	o o o o b-businessname i-businessname o
+are there any highly rated Miniso stores that are around my current location	o o o b-sortby i-sortby b-businessname o o o o o o o
+where can i go to get my oil changed in Jawaharlal Nehru Road	o o o o o o o b-service i-service o b-localityname i-localityname i-localityname
+what time does ikea in Andheri West Mumbai open on mondays	o o o b-businessname o b-localityname b-localityname i-localityname b-openhoursdescriptor o b-dayopen
+the nearest top rated vineyard	o b-sortby i-sortby o b-restaurantstyle
+look up a good Momo shop in Pitampura that is open at 7:40 a.m the day after tomorrow	o o o o b-restaurantstyle i-restaurantstyle o b-localityname o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+i need a highly rated book store that is in Rajarhat	o o o b-sortby i-sortby b-businesscategory i-businesscategory o o o b-localityname
+look for Shyam bazar Kolkata Bangles shop	o o b-localityname i-localityname i-localityname b-restaurantstyle i-restaurantstyle
+get the highest rated community centres in Warangal	o o b-sortby i-sortby b-businesscategory i-businesscategory o b-localityname
+find me closest diners that are vegan	o o b-sortby b-restaurantstyle o o b-diet
+list of highest rated Catheleen Bakery near Dumdum	o o b-sortby i-sortby b-businessname o o b-localityname
+tell me Someplace Else Pub's opening hours	o o b-businessname i-businessname i-businessname b-openhoursdescriptor i-openhoursdescriptor
+where can i get my waxing near here	o o o o o b-service o o
+what are Parvati valley's top nursing school	o o b-localityname i-localityname b-sortby b-businesscategory i-businesscategory
+tell me if Suman Bazaar is open at 7:15 p.m	o o o b-businessname i-businessname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+get the best rated barber shops in new barrackpore	o o b-sortby o b-businesscategory i-businesscategory o b-localityname i-localityname
+what are the best Noni Jewellery stores that are in madhyamgram Barasat	o o o b-sortby b-businessname i-businessname o o o o b-localityname i-localityname
+what is the nearest best rated mongini's pizza	o o o b-sortby i-sortby o b-businessname i-businessname
+the nearest cafe that is gluten-free	o b-sortby b-restaurantstyle o o b-restaurantamenity
+look for barber shop near west Mumbai	o o b-businesscategory i-businesscategory o b-localityname i-localityname
+j. c. Das store around here	b-businessname i-businessname i-businessname o o o
+what is the Indigo Blue in Saltlake	o o o b-businessname i-businessname o b-localityname
+what's the top bar in okhla that is vegetarian and is open at 5:45 p.m	o o b-sortby b-restaurantstyle o b-localityname o o b-diet o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+list of the top parks near Rithala	o o o b-sortby b-businesscategory o b-localityname
+tell me subway's opening hours	o o b-businessname b-openhoursdescriptor i-openhoursdescriptor
+list of best rated Penghar Stationary near here	o o b-sortby o b-businessname i-businessname o o
+tell me the hours for Flechazo in Marathahalli Bangalore	o o o b-openhoursdescriptor o b-businessname o b-localityname i-localityname
+what Juicy Chemistry Skincare stores are in Kamala Market delhi	o b-businessname i-businessname i-businessname o o o b-localityname i-localityname i-localityname
+what time does Chumbak galleria in Ranipark close on sundays	o o o b-businessname i-businessname o b-localityname b-openhoursdescriptor o b-dayopen
+see if Bhojohori Manna is open at 7:00 a.m	o o b-businessname i-businessname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+list Hindalco stores in Latur	o b-businessname o o b-localityname
+is there a good Popular Homeopathy Medicine store that is in Birati	o o o o o b-businessname i-businessname i-businessname o o o b-localityname
+what Mega Bazaar store is near Rourkela Orissa	o b-businessname i-businessname o o o b-localityname i-localityname
+Trinka's opening hours on thursdays	b-businessname b-openhoursdescriptor i-openhoursdescriptor o b-dayopen
+list of top rated nearby Lenskart stores	o o b-sortby o o b-businessname o
+what Tribhuvandas Bheemji Zaveri stores are around Belgachhia	o b-businessname i-businessname i-businessname o o o b-localityname
+any highly rated coffee shops that are in Nadia Kolkata	o b-sortby i-sortby b-restaurantstyle i-restaurantstyle o o o b-localityname i-localityname
+top rated coffee shops in my area and open this weekend	b-sortby o b-restaurantstyle i-restaurantstyle o o o o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+top rated nearby Big bazaar store	b-sortby o o b-businessname i-businessname o
+top Flechazo's around Mahadevpura	b-sortby b-businessname o b-localityname
+new community halls that are near Sodepur Kolkata	b-restaurantquality b-businesscategory i-businesscategory o o o b-localityname i-localityname
+hometown's hours next sunday	b-businessname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+some good libraries nearby	o o b-businesscategory o
+what are the nearest best rated DMart stores	o o o b-sortby i-sortby o b-businessname o
+a new Chaat stall nearby that's open at 4:45 a.m	o b-restaurantquality b-restaurantstyle i-restaurantstyle o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+what's the closest Bata that's open at 2:50 p.m	o o b-sortby b-businessname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+where can i get my waxing near South extension	o o o o o b-service o b-localityname i-localityname
+nearest highly rated salons	b-sortby i-sortby i-sortby b-businesscategory
+what is the closest best rated Golbari Mangsho that is open this month	o o o b-sortby i-sortby o b-businessname i-businessname o o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+tell me a highly rated coffee shop in Mangalore	o o o b-sortby i-sortby b-restaurantstyle i-restaurantstyle o b-localityname
+where can i get a tyre rotation nearby	o o o o o b-service i-service o
+DMart hours	b-businessname b-openhoursdescriptor
+Archies opening hours	b-businessname b-openhoursdescriptor i-openhoursdescriptor
+the top rated Burger King in Sitaphal Mandi Andhra Pradesh that is open mondays	o b-sortby o b-businessname i-businessname o b-localityname i-localityname i-localityname i-localityname o o b-openhoursdescriptor b-dayopen
+tell me the highest rated nail salon that's near here	o o o b-sortby i-sortby b-businesscategory i-businesscategory o o o
+what is Bilaspur Chattisgarh's top rated electronics store	o o b-localityname i-localityname b-sortby o b-businesscategory i-businesscategory
+find out if pizza hut in Kormangala is open next friday	o o o b-businessname i-businessname o b-localityname o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+good Dumpling shops in kochi Kerala	o b-restaurantstyle i-restaurantstyle o b-localityname i-localityname
+show nearest highly rated hair salon	o b-sortby i-sortby i-sortby b-businesscategory i-businesscategory
+are there any vegetarian brewery in Palm springs	o o o b-diet b-restaurantstyle o b-localityname i-localityname
+where can i get my manicure in Bilaspur	o o o o o b-service o b-localityname
+tell me if Mainland China in Prashant Vihar Delhi is open sundays	o o o b-businessname i-businessname o b-localityname i-localityname i-localityname o b-openhoursdescriptor b-dayopen
+the best hair salon that is near here	o b-sortby b-businesscategory i-businesscategory o o o o
+what are the best harware and electric stores near here	o o o b-sortby b-businessname i-businessname i-businessname o o o
+look up the closest best rated Papa John's pizza	o o o b-sortby i-sortby o b-businessname i-businessname i-businessname
+what's the most popular restaurant in my area that's vegan and is open saturdays	o o o b-restaurantquality b-restaurantstyle o o o o b-diet o o b-openhoursdescriptor b-dayopen
+is Domino's pizza open this friday	o b-businessname i-businessname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+what are the closest highest rated Jiomart stores	o o o b-sortby i-sortby i-sortby b-businessname o
+the highest rated Gift & Toys store that's in my area	o b-sortby i-sortby b-businessname i-businessname i-businessname o o o o o
+when is Liscious's fish in Bomanahalli Bangalore open	o o b-businessname i-businessname o b-localityname i-localityname b-openhoursdescriptor
+any highly rated Bata Shoe stores that are in Madhyamgram	o b-sortby i-sortby b-businessname i-businessname o o o o b-localityname
+best rated nearby Elite stores	b-sortby o o b-businessname o
+are there any popular eateries near here that are open at 7:00 a.m	o o o b-restaurantquality b-restaurantstyle o o o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+Oliver pizza's opening hours on mondays	b-businessname i-businessname b-openhoursdescriptor i-openhoursdescriptor o b-dayopen
+where can i get my taxes get done in Kadapa	o o o o o b-service i-service o o b-localityname
+what's Sambalpur Orissa's top rated Sun City Mall	o b-localityname i-localityname b-sortby o b-businessname i-businessname i-businessname
+what is the nearest best rated Jaguar's store	o o o b-sortby i-sortby o b-businessname o
+when does Jalsa's in Coimbatore open on tuesdays	o o b-businessname o b-localityname b-openhoursdescriptor o b-dayopen
+where can i get my taxes done near Munnireddy Layout	o o o o o b-service o o b-localityname i-localityname
+what are the nearest Zaras	o o o b-sortby b-businesscategory
+the closest best rated Archies	o b-sortby i-sortby o b-businessname
+what is the nearest best rated Promod store	o o o b-sortby i-sortby o b-businessname o
+find out if Croma in Jyotinivas Road Kormangala is open fridays	o o o b-businessname o b-localityname i-localityname i-localityname o b-openhoursdescriptor b-dayopen
+see if Continental is open at 4:20 p.m on sunday	o o b-businessname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+what's Defence Colony's top nail salon	o b-localityname i-localityname b-sortby b-businesscategory i-businesscategory
+i need a good hair salon that's in Bijapur	o o o o b-businesscategory i-businesscategory o o b-localityname
+what time is Raymond coat factory open on fridays	o o o b-businessname i-businessname i-businessname b-openhoursdescriptor o b-dayopen
+i need a nearby hair salon	o o o o b-businesscategory i-businesscategory
+what's the closest highly rated salon	o o b-sortby i-sortby i-sortby b-businesscategory
+look up nearest highest rated Decathelon	o o b-sortby i-sortby i-sortby b-businessname
+the best Inox that is near Satara Maharashtra	o b-sortby b-businesscategory o o o b-localityname i-localityname
+what are the opening hours for papa john's pizza this friday	o o o b-openhoursdescriptor i-openhoursdescriptor o b-businessname i-businessname i-businessname b-datetimeexpression i-datetimeexpression
+find out if Flurry's in Financial District is open at 3:15 a.m on saturday	o o o b-businessname o b-localityname i-localityname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+the closest Starbucks open on sundays	o b-sortby b-businessname b-openhoursdescriptor o b-dayopen
+is Zara in Phoenix Mall Whitefield open at 10:00 a.m on wednesday	o b-businessname o b-localityname i-localityname i-localityname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+tell me Just Bake Cake Shop's hours	o o b-businessname i-businessname i-businessname i-businessname b-openhoursdescriptor
+closest highest rated Lifetsyle stores	b-sortby i-sortby i-sortby b-businessname o
+when is papa john's take 'n' bake pizza in Domlur open next wednesday	o o b-businessname i-businessname i-businessname i-businessname i-businessname i-businessname o b-localityname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+what time does subway close on fridays	o o o b-businessname b-openhoursdescriptor o b-dayopen
+closest good nursing school	b-sortby o b-businesscategory i-businesscategory
+is Alipur Duar zoo open at 9:50 p.m	o b-businessname i-businessname i-businessname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+find out if Reliance Trends is open next tuesday	o o o b-businessname i-businessname o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+where can i go for a pedicure in Jaipur city	o o o o o o b-service o b-localityname i-localityname
+what are Gelato's hours the day after tomorrow	o o b-businessname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+i want to know Smoor's opening hours	o o o o b-businessname b-openhoursdescriptor i-openhoursdescriptor
+what plumbers are in Farrukhabad Uttar Pradesh	o b-businesscategory o o b-localityname i-localityname i-localityname
+Himalayas store nearby	b-businessname o o
+what are the top office supply stores in Cubbon Park	o o o b-sortby b-businesscategory i-businesscategory i-businesscategory o b-localityname i-localityname
+where can i go for a haircut in Bihar Sharif Bihar	o o o o o o b-service o b-localityname i-localityname i-localityname
+tell me Dino' China Chinese Restaurant's hours on saturdays	o o b-businessname i-businessname i-businessname i-businessname b-openhoursdescriptor o b-dayopen
+what are the nearest mobile phone stores	o o o b-sortby b-businesscategory i-businesscategory i-businesscategory
+what's the highest rated Addidas store nearby	o o b-sortby i-sortby b-businessname o o
+what's Ashok Nagar's best park	o b-localityname i-localityname b-sortby b-businesscategory
+get closest healthy sandwich shops	o b-sortby b-cuisineattribute b-restaurantstyle i-restaurantstyle
+the highest rated electronics store near Agarpara Dumdum	o b-sortby i-sortby b-businesscategory i-businesscategory o b-localityname i-localityname
+what is Bablatala Kolkata's highest rated plumber	o o b-localityname i-localityname b-sortby i-sortby b-businesscategory
+what are the closest Khosla Electronic stores	o o o b-sortby b-businessname i-businessname o
+highest rated pizza stall that's nearby	b-sortby i-sortby b-businessname i-businessname o o
+where can i go for a manicure nearby	o o o o o o b-service o
+list of top parks that are in alipore road kolkata	o o b-sortby b-businesscategory o o o b-localityname i-localityname i-localityname
+find roses that is around Berachapa	o b-businessname o o o b-localityname
+the best cold stone creamery around Karol Bagh New Delhi open at 9:50 a.m	o b-sortby b-businessname i-businessname i-businessname o b-localityname i-localityname i-localityname i-localityname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+what are the highest rated Sabyasachi Collection stores near here	o o o b-sortby i-sortby b-businessname i-businessname o o o
+are there any highly rated bakeries in Bablatola Kolkata	o o o b-sortby i-sortby b-businesscategory o b-localityname i-localityname
+closest best rated Barbeque Nation	b-sortby i-sortby o b-businessname i-businessname
+a new sandwich shop around here	o b-restaurantquality b-restaurantstyle i-restaurantstyle o o
+is Khanna's in Bathinda Punjab open mondays	o b-businessname o b-localityname i-localityname b-openhoursdescriptor b-dayopen
+what are Reid & taylor stores nearby	o o b-businessname i-businessname i-businessname o o
+is Nykaa open at 1:15 a.m	o b-businessname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+the opening hours of The Bier Library in Sonipat Haryana next thursday	o b-openhoursdescriptor i-openhoursdescriptor o b-businessname i-businessname i-businessname o b-localityname i-localityname b-datetimeexpression i-datetimeexpression
+what are the top rated nearby Saha's stores	o o o b-sortby o o b-businessname o
+list of the best rated electronics stores that are in Esplanade	o o o b-sortby o b-businesscategory i-businesscategory o o o b-localityname
+what are the nearest nice plumbers	o o o b-sortby o b-businesscategory
+is Café Noir in Imphal Manipur open on mondays	o b-businessname i-businessname o b-localityname i-localityname b-openhoursdescriptor o b-dayopen
+what's the closest Idli Vada shop	o o b-sortby b-businessname i-businessname o
+is there a nice office supply store nearby	o o o o b-businesscategory i-businesscategory i-businesscategory o
+show the highest rated nail salon in Barasat kolkata	o o b-sortby i-sortby b-businesscategory i-businesscategory o b-localityname i-localityname
+what salon is in allahabad	o b-businesscategory o o b-localityname
+show me a nearby kathi-roll shop	o o o o b-restaurantstyle i-restaurantstyle
+any nice garden parks that are in Indira Nagar	o o b-businesscategory i-businesscategory o o o b-localityname i-localityname
+highest rated roses stores that are near here	b-sortby i-sortby b-businessname o o o o o
+what are Reliance Fresh stores in begumpet hyderabad	o o b-businessname i-businessname o o b-localityname i-localityname
+list of best rated nearby Kolhapuri Leather Chappal Stores	o o b-sortby o o b-businessname i-businessname i-businessname o
+top Daamro Furniture stores that's around here	b-sortby b-businessname i-businessname o o o o
+Megamart hours this wednesday	b-businessname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+where can i get a oil change near rochester minnesota	o o o o o b-service i-service o b-localityname i-localityname
+what nail salon is nearby	o b-businesscategory i-businesscategory o o
+where can i go to get my oil changed	o o o o o o o b-service i-service
+what Dmart's is near Church Street Bengaluru	o b-businessname o o b-localityname i-localityname i-localityname
+Caker's Bakery's hours on mondays	b-businessname i-businessname b-openhoursdescriptor o b-dayopen
+tell me if Arsalan Biryani in Dharamtala Kolkata is open on thursdays	o o o b-businessname i-businessname o b-localityname i-localityname o b-openhoursdescriptor o b-dayopen
+show me best rated Fresh stores that are in Bakra	o o b-sortby o b-businessname o o o o b-localityname
+what are the nearest best rated breweries that are open tuesdays	o o o b-sortby i-sortby o b-restaurantstyle o o b-openhoursdescriptor b-dayopen
+when does p. c. chandra in dakbunglow Barasat close on saturdays	o o b-businessname i-businessname i-businessname o b-localityname i-localityname b-openhoursdescriptor o b-dayopen
+what are Bakes and boon's hours the day after tomorrow	o o b-businessname i-businessname i-businessname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+when is Adani Sugar factory in Karnal open today	o o b-businessname i-businessname i-businessname o b-localityname b-openhoursdescriptor b-datetimeexpression
+look up highly rated Archies store near here	o o b-sortby i-sortby b-businessname o o o
+what are GKB stores in Barrackpore Kolkata	o o b-businessname o o b-localityname i-localityname
+what are National Botanical Garden's hours next wednesday	o o b-businessname i-businessname i-businessname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+is Megamart in new delhi open at 11:10 p.m this monday	o b-businessname o b-localityname i-localityname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+check if JW Marriot Hotel is open at 3:45 a.m	o o b-businessname i-businessname i-businessname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+is Oxford Cafe open at 3:45 a.m on thursday	o b-businessname i-businessname b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression i-datetimeexpression
+search for a cell phone store that's near Dumdum	o o o b-businesscategory i-businesscategory i-businesscategory o o b-localityname
+i want to know Big Pitcher Brewery's opening hours	o o o o b-businessname i-businessname i-businessname b-openhoursdescriptor i-openhoursdescriptor
+tell me if Ramoji in Hyderabad is open this wednesday	o o o b-businessname o b-localityname o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+closest Reliance Electronics	b-sortby b-businessname i-businessname
+is Amul open tuesdays	o b-businessname b-openhoursdescriptor b-dayopen
+the nearest Five Star Chicken and Mutton Counter	o b-sortby b-businessname i-businessname i-businessname i-businessname i-businessname i-businessname
+see if DMart in bengaluru is open at 11:50 a.m tomorrow	o o b-businessname o b-localityname o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression i-datetimeexpression
+show nearest nice sandwich shop that is vegetarian and open fridays	o b-sortby o b-restaurantstyle i-restaurantstyle o o b-diet o b-openhoursdescriptor b-dayopen
+search for good plumber in Lake Town Kolkata	o o o b-businesscategory o b-localityname i-localityname i-localityname
+tell me the hours for Lord of the Drinks in Vaishali	o o o b-openhoursdescriptor o b-businessname i-businessname i-businessname i-businessname o b-localityname
+is The Bier Garten open right now	o b-businessname i-businessname i-businessname b-openhoursdescriptor o o
+list a new hair salon near churchroad parkway	o o b-restaurantquality b-businesscategory i-businesscategory o b-streetname b-streetsuffix
+i need a good coffee shop near here that's open now	o o o o b-restaurantstyle i-restaurantstyle o o o b-openhoursdescriptor o
+list of some nice nearby garden centres	o o o o o b-businesscategory i-businesscategory
+are there any highly rated homeshop stores around Model Town	o o o b-sortby i-sortby b-businessname o o b-localityname i-localityname
+where can i get a massage within 16 kilometres	o o o o o b-service o b-distancemagnitude b-distanceunit
+find me nearest best rated sephora	o o b-sortby i-sortby o b-businessname
+list of Dabali shops in Pune that are veg and open next week	o o b-restaurantstyle i-restaurantstyle o b-localityname o o b-diet o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+what is the nearest barber shop	o o o b-sortby b-businesscategory i-businesscategory
+show the nearest restaurant serving Indian food open this sunday	o o b-sortby b-restaurantstyle o b-cuisinestyle o b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+any popular Gujrati restaurants in Paldi Gujrat that are gluten free and open at 3:40 a.m	o b-restaurantquality b-cuisinestyle b-restaurantstyle o b-localityname i-localityname o o b-restaurantamenity i-restaurantamenity o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+find best restaurants that are called Wow Momo in Bandra Mumbai that are open at 7:50 p.m	o b-sortby b-restaurantstyle o o o b-businessname i-businessname o b-localityname i-localityname o o b-openhoursdescriptor o b-datetimeexpression i-datetimeexpression
+what's the highest rated restaurant for afghan food in Frazertown Bangalore	o o b-sortby i-sortby b-restaurantstyle o b-cuisinestyle o o b-localityname i-localityname
+some new diners in Shobha Bazaar	o b-restaurantquality b-restaurantstyle o b-localityname i-localityname
+what are some romantic restaurants in Hebbal and serve middle eastern food	o o o b-restaurantquality b-restaurantstyle o b-localityname o o b-cuisinestyle i-cuisinestyle o
+opening hours for Irish House in Whitefield on tuesdays	b-openhoursdescriptor i-openhoursdescriptor o b-businessname i-businessname o b-localityname o b-dayopen
+what are Hyderabad's best rated Andhra restaurants	o o b-localityname b-sortby o b-cuisinestyle b-restaurantstyle
+i need a healthy Oriya restaurant in Amritsar open right now	o o o b-cuisineattribute b-cuisinestyle b-restaurantstyle o b-localityname b-openhoursdescriptor o o
+get restaurants called The Arbor Brewery that are near Brigade	o b-restaurantstyle o b-businessname i-businessname i-businessname o o o b-localityname
+any good healthy tibetan restaurants nearby open right now	o o b-cuisineattribute b-cuisinestyle b-restaurantstyle o b-openhoursdescriptor o o
+tell me where i can find good Nepalese food nearby	o o o o o o o b-cuisinestyle o o
+look for the best The Body Shop outlets in Goregaon open next monday	o o o b-sortby b-businessname i-businessname i-businessname o o b-localityname b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
+what are the closest romantic gluten-free Arabian restaurants	o o o b-sortby b-restaurantquality b-restaurantamenity b-cuisinestyle b-restaurantstyle
+closest rajasthani restaurants open next saturday	b-sortby b-cuisinestyle b-restaurantstyle b-openhoursdescriptor b-datetimeexpression i-datetimeexpression
